@@ -1,4 +1,4 @@
-const links = [{'target': 'Afrojack', 'source': 'Ally Brooke', 'total_collaborations': 1},
+[{'target': 'Afrojack', 'source': 'Ally Brooke', 'total_collaborations': 1},
 {'target': 'Afrojack', 'source': 'Azteck', 'total_collaborations': 1},
 {'target': 'Afrojack', 'source': 'Bobby Burns', 'total_collaborations': 2},
 {'target': 'Afrojack', 'source': 'Charli XCX', 'total_collaborations': 4},
