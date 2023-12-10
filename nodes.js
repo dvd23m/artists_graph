@@ -1,4 +1,5 @@
-const nodes = [{'id': 'Tiësto', 'group': 'artist'},
+const nodes = [
+    {'id': 'Tiësto', 'group': 'artist'},
 {'id': 'Armin van Buuren', 'group': 'artist'},
 {'id': 'Major League', 'group': 'artist'},
 {'id': 'Suzanne Palmer', 'group': 'artist'},
@@ -505,4 +506,5 @@ const nodes = [{'id': 'Tiësto', 'group': 'artist'},
 {'id': 'hard house', 'group': 'musical_genre'},
 {'id': 'happy hardcore', 'group': 'musical_genre'},
 {'id': 'uk hardcore', 'group': 'musical_genre'},
-{'id': 'eurodance', 'group': 'musical_genre'}]
+{'id': 'eurodance', 'group': 'musical_genre'}
+];
