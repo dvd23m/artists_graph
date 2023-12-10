@@ -1,7 +1,7 @@
 // grafo.js
 // Cargar datos
 Promise.all([
-    //d3.json("nodes.json"),
+    d3.json("nodes.json"),
     d3.json("links.json")
   ]).then(function(data) {
     const nodes = data[0];
