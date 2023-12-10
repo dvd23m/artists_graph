@@ -1,4 +1,4 @@
-var nodes = [{'id': 'Tiësto', 'group': 'artist'},
+const nodes = [{'id': 'Tiësto', 'group': 'artist'},
 {'id': 'Armin van Buuren', 'group': 'artist'},
 {'id': 'Major League', 'group': 'artist'},
 {'id': 'Suzanne Palmer', 'group': 'artist'},
