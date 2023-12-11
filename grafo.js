@@ -13,13 +13,6 @@ Promise.all([
       .force("charge", d3.forceManyBody())
       .force("center", d3.forceCenter(400, 300)); // Ajusta según sea necesario
   
-    // Crear enlaces
-    const link = d3.select("svg")
-      .selectAll("line")
-      .data(links)
-      .enter()
-      .append("line");
-  
     // Crear nodos
     const node = d3.select("svg")
       .selectAll("circle")
@@ -27,6 +20,15 @@ Promise.all([
       .enter()
       .append("circle")
       .attr("r", 10);
+    
+      // Crear enlaces
+    const link = d3.select("svg")
+      .selectAll("line")
+      .data(links)
+      .enter()
+      .append("line");
+  
+    
   
     // Añadir eventos de arrastre
     node.call(d3.drag()
