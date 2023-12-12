@@ -1,0 +1,1941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="2880.5576"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1875.880371 -1151.538086 2880.557617 3190.052734"
+     height="3190.0527" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_DANCE"
+              d="M 35.246296,1277.035522 A 829.359403,829.359403 0,0 1,-442.124573,490.763092"
+              stroke="#a54d61" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Steve_Aoki id_DANCE"
+              d="M -1126.758667,-379.920135 A 960.042178,960.042178 0,0 1,-442.656097,453.001587"
+              stroke="#7f8cc1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Armin_van_Buuren id_DANCE"
+              d="M -94.108337,-930.212646 A 1254.739737,1254.739737 0,0 1,-426.912567,459.350433"
+              stroke="#b98a42" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_DANCE-POP"
+              d="M 39.980572,1267.599609 A 1131.187496,1131.187496 0,0 1,-457.240601,82.828926"
+              stroke="#a56721" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Steve_Aoki id_DANCE-POP"
+              d="M -1124.565308,-400.267426 A 730.341666,730.341666 0,0 1,-459.760986,52.398708"
+              stroke="#7fa682" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Armin_van_Buuren id_DANCE-POP"
+              d="M -101.086586,-927.651001 A 930.933191,930.933191 0,0 1,-441.011810,57.749557"
+              stroke="#b9a402" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_ELECTRO"
+              d="M 46.928246,1257.840576 A 1067.082782,1067.082782 0,0 1,-233.833664,83.536736"
+              stroke="#a54d61" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Steve_Aoki id_ELECTRO"
+              d="M -1125.387573,-408.906494 A 895.955877,895.955877 0,0 1,-235.546326,53.507854"
+              stroke="#7f8cc1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Armin_van_Buuren id_ELECTRO"
+              d="M -87.085983,-933.625854 A 894.309555,894.309555 0,0 1,-216.721176,55.806816"
+              stroke="#b98a42" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_ELECTRO_HOUSE"
+              d="M 31.188869,1290.192017 A 1531.713603,1531.713603 0,0 1,-1142.771606,-28.824396"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Steve_Aoki id_ELECTRO_HOUSE"
+              d="M -1151.966919,-341.089722 A 297.422830,297.422830 0,0 1,-1137.262695,-58.928883"
+              stroke="#26859e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Armin_van_Buuren id_ELECTRO_HOUSE"
+              d="M -139.295670,-925.831299 A 1165.065872,1165.065872 0,0 1,-1128.631714,-46.536057"
+              stroke="#5f831f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_ELECTRONIC"
+              d="M 32.494663,1284.908813 A 726.094281,726.094281 0,0 1,-455.816925,658.539124"
+              stroke="#a54d61" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Steve_Aoki id_ELECTRONIC"
+              d="M -1128.686523,-373.584900 A 1060.465249,1060.465249 0,0 1,-456.966736,617.183228"
+              stroke="#7f8cc1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Armin_van_Buuren id_ELECTRONIC"
+              d="M -93.099945,-930.648682 A 1392.908270,1392.908270 0,0 1,-441.874237,624.019592"
+              stroke="#b98a42" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_EURO_HOUSE"
+              d="M 41.507511,1265.145996 A 1043.367472,1043.367472 0,0 1,-372.253571,160.178497"
+              stroke="#a56721" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Armin_van_Buuren id_EURO_HOUSE"
+              d="M -94.581482,-930.013977 A 975.944277,975.944277 0,0 1,-356.941895,135.097855"
+              stroke="#b9a402" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_HARDSTYLE"
+              d="M 29.736998,1308.757568 A 830.464445,830.464445 0,0 1,-740.205811,799.467163"
+              stroke="#268169" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Steve_Aoki id_HARDSTYLE"
+              d="M -1137.036743,-357.122284 A 1053.970498,1053.970498 0,0 1,-742.013794,768.188171"
+              stroke="#00c0c9" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Armin_van_Buuren id_HARDSTYLE"
+              d="M -102.475998,-927.231628 A 1574.742267,1574.742267 0,0 1,-732.761230,774.833740"
+              stroke="#39be4a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_HIP_HOP"
+              d="M 54.628784,1249.984009 A 837.539131,837.539131 0,0 1,-25.282028,320.292755"
+              stroke="#26859e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Steve_Aoki id_HIP_HOP"
+              d="M -1124.713013,-403.010010 A 1144.635676,1144.635676 0,0 1,-23.698696,293.781891"
+              stroke="#00c4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_HOUSE"
+              d="M 39.337780,1268.700928 A 809.602222,809.602222 0,0 1,-325.529755,450.251770"
+              stroke="#a54d61" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Steve_Aoki id_HOUSE"
+              d="M -1125.347168,-386.867645 A 1004.423280,1004.423280 0,0 1,-325.511993,413.000092"
+              stroke="#7f8cc1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Armin_van_Buuren id_HOUSE"
+              d="M -89.072334,-932.568604 A 1204.419813,1204.419813 0,0 1,-308.942719,418.085419"
+              stroke="#b98a42" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_POP"
+              d="M 33.129101,1282.815552 A 911.258814,911.258814 0,0 1,-565.617920,456.769165"
+              stroke="#268169" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Steve_Aoki id_POP"
+              d="M -1128.265869,-374.803894 A 874.015265,874.015265 0,0 1,-566.200195,423.663879"
+              stroke="#00c0c9" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Armin_van_Buuren id_POP"
+              d="M -100.178413,-927.940979 A 1255.498811,1255.498811 0,0 1,-552.695435,430.386017"
+              stroke="#39be4a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_PROGRESSIVE_HOUSE"
+              d="M 45.113335,1260.081543 A 847.115191,847.115191 0,0 1,-212.254074,353.750275"
+              stroke="#a54d61" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Steve_Aoki id_PROGRESSIVE_HOUSE"
+              d="M -1124.554199,-395.588196 A 1027.442383,1027.442383 0,0 1,-211.816299,319.968506"
+              stroke="#7f8cc1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Armin_van_Buuren id_PROGRESSIVE_HOUSE"
+              d="M -84.226700,-935.285034 A 1116.235002,1116.235002 0,0 1,-195.219833,323.332336"
+              stroke="#b98a42" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_TECH_HOUSE"
+              d="M 47.703434,1256.935913 A 792.854481,792.854481 0,0 1,-145.073898,400.927429"
+              stroke="#a54d61" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Armin_van_Buuren id_TECH_HOUSE"
+              d="M -80.906715,-937.430298 A 1154.200088,1154.200088 0,0 1,-128.445618,371.292542"
+              stroke="#b98a42" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_TRAP"
+              d="M 99.637619,1231.823975 A 695.929538,695.929538 0,0 1,522.289124,596.092773"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Armin_van_Buuren id_Tiësto"
+              d="M -73.603516,-943.108215 A 1930.215174,1930.215174 0,0 1,141.395935,1239.059937"
+              stroke="#5f831f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Armin_van_Buuren id_Major_League"
+              d="M -94.170631,-930.186279 A 792.457549,792.457549 0,0 1,-298.539093,-76.348717"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Armin_van_Buuren id_Christian_Burns"
+              d="M -65.917870,-950.932617 A 837.021299,837.021299 0,0 1,147.713058,-44.249741"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -123.679321,-999.982483 C 27.876236,-1151.538086 27.876236,-848.426941 -123.679321,-999.982483"
+              class="id_Armin_van_Buuren" stroke-opacity="1.0" stroke="#73c000"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Armin_van_Buuren id_VOCAL_TRANCE"
+              d="M -76.492805,-940.689087 A 954.419823,954.419823 0,0 1,-38.099483,131.185547"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Armin_van_Buuren id_TRIBAL_HOUSE"
+              d="M -111.037666,-925.266602 A 1077.563027,1077.563027 0,0 1,-662.802490,162.815765"
+              stroke="#b9a402" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Armin_van_Buuren id_TRANCE"
+              d="M -92.733078,-930.811646 A 1475.081525,1475.081525 0,0 1,-458.968384,725.521301"
+              stroke="#b98a42" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Armin_van_Buuren id_TECH_TRANCE"
+              d="M -64.697365,-952.407288 A 932.484602,932.484602 0,0 1,200.042465,59.753685"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Armin_van_Buuren id_PROGRESSIVE_TRANCE"
+              d="M -104.518082,-926.667297 A 1121.559811,1121.559811 0,0 1,-577.962952,254.304840"
+              stroke="#b98a42" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Armin_van_Buuren id_HARD_TRANCE"
+              d="M -88.579514,-932.823914 A 1575.549152,1575.549152 0,0 1,-373.547302,862.624146"
+              stroke="#39be4a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Armin_van_Buuren id_DUBSTEP"
+              d="M -123.834053,-924.204834 A 1091.283729,1091.283729 0,0 1,-860.736328,68.072723"
+              stroke="#b9a402" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Armin_van_Buuren"
+              d="M 54.512558,1250.086304 A 1930.215174,1930.215174 0,0 1,-163.167023,-931.816040"
+              stroke="#5f831f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_DUBSTEP"
+              d="M 32.600792,1284.542480 A 1310.977629,1310.977629 0,0 1,-874.263306,87.536682"
+              stroke="#a56721" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Steve_Aoki id_DUBSTEP"
+              d="M -1130.314209,-369.416199 A 475.126222,475.126222 0,0 1,-874.337769,57.994816"
+              stroke="#7fa682" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_HARD_TRANCE"
+              d="M 30.481150,1294.125854 A 542.440673,542.440673 0,0 1,-380.481720,886.602112"
+              stroke="#268169" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_PROGRESSIVE_TRANCE"
+              d="M 34.767361,1278.219604 A 1043.533894,1043.533894 0,0 1,-591.058289,277.160645"
+              stroke="#a54d61" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_TECH_TRANCE"
+              d="M 65.751793,1241.929443 A 1030.059468,1030.059468 0,0 1,186.541962,82.829041"
+              stroke="#5f831f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_TRANCE"
+              d="M 31.009077,1291.083374 A 673.371250,673.371250 0,0 1,-467.965027,751.014282"
+              stroke="#a54d61" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_TRIBAL_HOUSE"
+              d="M 34.313587,1279.399902 A 1147.299861,1147.299861 0,0 1,-675.814514,183.706879"
+              stroke="#a56721" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_VOCAL_TRANCE"
+              d="M 53.942284,1250.594360 A 976.625022,976.625022 0,0 1,-52.041317,154.509949"
+              stroke="#5f831f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_DEEP_HOUSE"
+              d="M 38.129932,1270.898560 A 849.096239,849.096239 0,0 1,-374.324341,418.976563"
+              stroke="#a54d61" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Steve_Aoki id_DEEP_HOUSE"
+              d="M -1125.506592,-385.869385 A 958.368594,958.368594 0,0 1,-374.548859,388.613617"
+              stroke="#7f8cc1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_ELECTROPOP"
+              d="M 33.739204,1280.988525 A 1120.117245,1120.117245 0,0 1,-683.196716,229.604523"
+              stroke="#a56721" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Steve_Aoki id_ELECTROPOP"
+              d="M -1127.408081,-377.542389 A 666.237207,666.237207 0,0 1,-683.982056,200.081711"
+              stroke="#7fa682" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_TECHNO"
+              d="M 41.974895,1264.436035 A 758.507660,758.507660 0,0 1,-245.118347,478.578400"
+              stroke="#a54d61" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_FESTIVAL_PROGRESSIVE_HOUSE"
+              d="M 29.669653,1303.384766 A 1165.480504,1165.480504 0,0 1,-1017.849365,487.898621"
+              stroke="#a56721" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Steve_Aoki id_FESTIVAL_PROGRESSIVE_HOUSE"
+              d="M -1145.313110,-347.051727 A 741.187969,741.187969 0,0 1,-1016.011841,461.478699"
+              stroke="#7fa682" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Steve_Aoki id_Ummet_Ozcan"
+              d="M -1135.999146,-358.690399 A 847.009447,847.009447 0,0 1,-799.217957,525.830811"
+              stroke="#26859e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Steve_Aoki id_Tiësto"
+              d="M -1127.653687,-376.718292 A 1785.235321,1785.235321 0,0 1,100.775513,1228.778320"
+              stroke="#26859e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1196.743896,-397.756042 C -1052.299438,-542.200500 -1052.299438,-253.311600 -1196.743896,-397.756042"
+              class="id_Steve_Aoki" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Steve_Aoki id_Showtek"
+              d="M -1130.633911,-368.678192 A 630.171840,630.171840 0,0 1,-787.598877,224.040131"
+              stroke="#7fa682" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Steve_Aoki id_My_Name_Is_Kay"
+              d="M -1139.505249,-353.713043 A 866.115688,866.115688 0,0 1,-872.251160,578.142822"
+              stroke="#00c4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Steve_Aoki id_Matthew_Koma"
+              d="M -1148.045654,-344.421906 A 807.336902,807.336902 0,0 1,-1053.648315,548.908813"
+              stroke="#00c4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Steve_Aoki id_Diplo"
+              d="M -1139.003296,-354.373199 A 801.254190,801.254190 0,0 1,-882.868713,499.526459"
+              stroke="#00c4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Steve_Aoki id_BASSLINE"
+              d="M -1137.096436,-357.034607 A 760.948100,760.948100 0,0 1,-858.173706,438.535919"
+              stroke="#26859e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Steve_Aoki"
+              d="M 32.838860,1283.745483 A 1785.235321,1785.235321 0,0 1,-1194.523926,-322.566589"
+              stroke="#26859e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_BASSLINE"
+              d="M 30.133228,1296.728760 A 1073.378457,1073.378457 0,0 1,-858.828064,464.971649"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Wolfgang_Gartner"
+              d="M 176.370300,1308.843628 A 646.417058,646.417058 0,0 1,722.780212,1754.113159"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Vassy"
+              d="M 109.377792,1232.017090 A 735.500561,735.500561 0,0 1,644.177307,622.365479"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_VER:WEST"
+              d="M 143.028961,1366.721191 A 599.649177,599.649177 0,0 1,106.193436,2014.281494"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Ummet_Ozcan"
+              d="M 29.985426,1298.125366 A 988.401653,988.401653 0,0 1,-799.285400,552.271851"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Ty_Dolla_$ign"
+              d="M 114.285042,1232.608276 A 716.734184,716.734184 0,0 1,672.773438,676.106567"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Twoloud"
+              d="M 175.413849,1292.784058 A 414.024438,414.024438 0,0 1,556.554749,1480.914673"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Tomhio"
+              d="M 139.501282,1368.872803 A 526.161580,526.161580 0,0 1,77.113213,1925.555298"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 103.055794,1305.151733 C 249.870605,1158.336914 249.870605,1451.966553 103.055794,1305.151733"
+              class="id_Tiësto" stroke-opacity="1.0" stroke="#4c463e"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Three_6_Mafia"
+              d="M 174.463623,1288.135010 A 563.728514,563.728514 0,0 1,732.524597,1522.784424"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_The_Chainsmokers"
+              d="M 176.123169,1298.094482 A 458.999717,458.999717 0,0 1,588.899597,1541.642456"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Tegan_and_Sara"
+              d="M 161.118332,1350.067139 A 613.074418,613.074418 0,0 1,344.497101,1989.030884"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Suzanne_Palmer"
+              d="M 175.532486,1293.499390 A 644.319026,644.319026 0,0 1,800.435974,1614.083130"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Stevie_Appleton"
+              d="M 106.433784,1378.481323 A 452.700635,452.700635 0,0 1,-153.282791,1772.217163"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Showtek"
+              d="M 32.165501,1286.093506 A 1158.307042,1158.307042 0,0 1,-787.632629,253.541809"
+              stroke="#a56721" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Sevenn"
+              d="M 173.652039,1325.271851 A 359.030086,359.030086 0,0 1,395.737793,1606.887329"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Sean_Kingston"
+              d="M 171.722565,1331.104004 A 637.467168,637.467168 0,0 1,549.861206,1913.153931"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Rita_Ora"
+              d="M 174.314529,1322.782349 A 608.760148,608.760148 0,0 1,596.908020,1829.185669"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Preme"
+              d="M 176.444962,1306.787964 A 480.288219,480.288219 0,0 1,577.713745,1613.266724"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Post_Malone"
+              d="M 155.539841,1356.474976 A 573.700895,573.700895 0,0 1,256.587280,1965.536377"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Oliver_Heldens"
+              d="M 171.838364,1330.795532 A 469.570955,469.570955 0,0 1,443.228516,1741.186157"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Nicola_Hitchcock"
+              d="M 108.446983,1378.360962 A 524.305908,524.305908 0,0 1,-186.781860,1851.784180"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Nelly_Furtado"
+              d="M 176.283356,1310.287231 A 482.327455,482.327455 0,0 1,564.334656,1637.164795"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Natalie_La_Rose"
+              d="M 118.416595,1376.933960 A 582.612994,582.612994 0,0 1,-138.580521,1950.061646"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Nari_&amp;_Milani"
+              d="M 176.418350,1302.586182 A 356.393876,356.393876 0,0 1,471.727234,1500.442505"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_My_Name_Is_Kay"
+              d="M 29.667379,1303.481934 A 1010.228333,1010.228333 0,0 1,-872.488831,604.003540"
+              stroke="#26859e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Moska"
+              d="M 176.167007,1311.739502 A 578.434171,578.434171 0,0 1,643.728699,1723.586060"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Mike_Williams"
+              d="M 167.379761,1340.522217 A 324.296684,324.296684 0,0 1,303.565521,1626.388062"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Maxi_Jazz"
+              d="M 173.788132,1324.787964 A 625.022558,625.022558 0,0 1,593.866028,1858.408936"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Matthew_Koma"
+              d="M 29.715605,1308.292480 A 1150.699722,1150.699722 0,0 1,-1055.308838,574.653992"
+              stroke="#26859e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Matisse_&amp;_Sadko"
+              d="M 176.435379,1303.130615 A 593.434476,593.434476 0,0 1,703.762268,1667.787476"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Martin_Garrix"
+              d="M 132.552353,1237.931152 A 719.517031,719.517031 0,0 1,818.811462,842.049805"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Mark_Knight"
+              d="M 135.095901,1371.197754 A 374.239029,374.239029 0,0 1,69.653503,1742.497192"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Major_League"
+              d="M 45.364197,1259.760864 A 1193.948419,1193.948419 0,0 1,-313.189880,-54.396252"
+              stroke="#5f831f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_MOTi"
+              d="M 135.942963,1370.780151 A 564.104185,564.104185 0,0 1,34.974010,1968.145386"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Luciana"
+              d="M 31.496944,1321.521851 A 919.197148,919.197148 0,0 1,-914.665588,908.924011"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Lucas_&amp;_Steve"
+              d="M 96.099976,1232.074585 A 448.467084,448.467084 0,0 1,333.098480,830.761414"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Lena_Leon"
+              d="M 142.703262,1366.931396 A 542.533548,542.533548 0,0 1,107.374687,1945.730713"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Kyler_England"
+              d="M 175.122345,1319.118164 A 363.434764,363.434764 0,0 1,424.217682,1584.498535"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Kirsty_Hawkshaw"
+              d="M 116.725548,1377.275146 A 351.607957,351.607957 0,0 1,-31.489418,1693.989502"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Killfake"
+              d="M 137.550598,1369.949585 A 408.719517,408.719517 0,0 1,79.791328,1784.588989"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Kelli‐Leigh"
+              d="M 31.546265,1321.735962 A 978.535016,978.535016 0,0 1,-981.072510,883.221863"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Kaskade"
+              d="M 90.412125,1377.462036 A 568.096800,568.096800 0,0 1,-349.826691,1800.634277"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_KSHMR"
+              d="M 30.761141,1317.884766 A 934.343326,934.343326 0,0 1,-909.576233,849.782776"
+              stroke="#a56721" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_KAROL_G"
+              d="M 158.484436,1353.279785 A 537.194650,537.194650 0,0 1,286.077484,1912.354736"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Justin_Caruso"
+              d="M 161.257095,1349.887085 A 569.928058,569.928058 0,0 1,332.611084,1938.290771"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Junkie_XL"
+              d="M 132.834656,1372.247681 A 448.081952,448.081952 0,0 1,35.082321,1827.993530"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Julie_Thompson"
+              d="M 156.362259,1355.620239 A 364.582403,364.582403 0,0 1,224.310837,1714.604126"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Jonas_Blue"
+              d="M 174.617249,1321.510376 A 594.384183,594.384183 0,0 1,594.972900,1807.119019"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_JES"
+              d="M 154.311371,1357.701782 A 454.746839,454.746839 0,0 1,222.221664,1826.958008"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Icona_Pop"
+              d="M 97.037880,1231.991455 A 499.832235,499.832235 0,0 1,372.019318,781.295349"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Haley_Gibby"
+              d="M 110.370453,1378.193848 A 475.447827,475.447827 0,0 1,-141.944397,1808.807495"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Gucci_Mane"
+              d="M 160.358032,1351.033081 A 351.908632,351.908632 0,0 1,253.929489,1688.337646"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Flo_Rida"
+              d="M 138.528793,1240.884277 A 694.625725,694.625725 0,0 1,830.592651,921.196472"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Farruko"
+              d="M 176.458984,1304.365356 A 429.318627,429.318627 0,0 1,538.010681,1561.198486"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Dzeko"
+              d="M 124.401230,1375.387207 A 502.023601,502.023601 0,0 1,-50.465042,1876.876465"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Disco_Fries"
+              d="M 146.424866,1364.378174 A 498.908163,498.908163 0,0 1,147.256592,1891.727783"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Diplo"
+              d="M 29.810007,1300.283203 A 1056.884317,1056.884317 0,0 1,-883.500549,525.624207"
+              stroke="#26859e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Dino_Lenny"
+              d="M 167.101532,1341.023560 A 520.636729,520.636729 0,0 1,397.452362,1844.330811"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Delayers"
+              d="M 172.466782,1329.042358 A 401.825495,401.825495 0,0 1,408.194519,1664.897705"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_DallasK"
+              d="M 155.560074,1356.454224 A 324.465039,324.465039 0,0 1,210.260803,1668.548340"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Christian_Burns"
+              d="M 62.777222,1243.781616 A 1114.420732,1114.420732 0,0 1,134.427612,-20.883297"
+              stroke="#5f831f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_C.C._Sheffield"
+              d="M 118.018509,1377.018066 A 544.301685,544.301685 0,0 1,-122.637672,1906.937134"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Busta_Rhymes"
+              d="M 138.555115,1369.404663 A 464.225191,464.225191 0,0 1,78.140541,1851.199219"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Bright_Sparks"
+              d="M 168.414749,1338.571167 A 571.277087,571.277087 0,0 1,444.511932,1887.519165"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Bobby_Puma"
+              d="M 174.466293,1322.157227 A 470.266654,470.266654 0,0 1,494.723511,1696.768921"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_Black_Eyed_Peas"
+              d="M 171.763214,1330.996216 A 510.060048,510.060048 0,0 1,468.240356,1783.262329"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Becky_Hill"
+              d="M 136.679565,1239.897705 A 756.245799,756.245799 0,0 1,885.963440,868.209045"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_BT"
+              d="M 156.477676,1355.498047 A 493.506959,493.506959 0,0 1,252.131149,1867.484131"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Ava_Max"
+              d="M 167.523300,1340.260010 A 489.716320,489.716320 0,0 1,388.309235,1806.947876"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Alvaro"
+              d="M 158.600555,1353.145752 A 409.832671,409.832671 0,0 1,254.575134,1762.018799"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_Allure"
+              d="M 151.181152,1360.582764 A 429.620243,429.620243 0,0 1,189.569122,1802.772705"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_SWING"
+              d="M 174.108627,1323.594727 A 292.613692,292.613692 0,0 1,352.425507,1537.222900"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_SPOKEN_VOCALS"
+              d="M 136.220901,1370.640137 A 297.039605,297.039605 0,0 1,93.038567,1650.968872"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_RNB"
+              d="M 176.335205,1309.484863 A 287.147841,287.147841 0,0 1,387.568237,1480.275146"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tiësto id_PSYTRANCE"
+              d="M 167.106277,1341.015137 A 263.343088,263.343088 0,0 1,270.838409,1560.472412"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_MALE_VOCALS"
+              d="M 102.880684,1378.558960 A 361.983425,361.983425 0,0 1,-109.911545,1671.682373"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_MALE_VOCAL_TRANCE"
+              d="M 121.845299,1376.113770 A 285.349211,285.349211 0,0 1,26.448612,1628.120728"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tiësto id_DUTCH_TRANCE"
+              d="M 152.042618,1359.822876 A 265.531479,265.531479 0,0 1,179.371216,1603.694214"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#a54d61" fill-opacity="1.0" class="id_Tiësto id_DANCE"
+                  points="-441.963898,487.767395 -440.626740,490.843445 -443.622406,490.682739"
+                  stroke="none"/>
+        <polyline fill="#7f8cc1" fill-opacity="1.0"
+                  class="id_Steve_Aoki id_DANCE"
+                  points="-442.411163,455.991547 -444.151093,453.124054 -441.161102,452.879120"
+                  stroke="none"/>
+        <polyline fill="#b98a42" fill-opacity="1.0"
+                  class="id_Armin_van_Buuren id_DANCE"
+                  points="-429.163208,461.334045 -427.904358,458.225128 -425.920776,460.475739"
+                  stroke="none"/>
+        <polyline fill="#a56721" fill-opacity="1.0"
+                  class="id_Tiësto id_DANCE-POP"
+                  points="-456.604401,79.897163 -455.774719,83.147034 -458.706482,82.510818"
+                  stroke="none"/>
+        <polyline fill="#7fa682" fill-opacity="1.0"
+                  class="id_Steve_Aoki id_DANCE-POP"
+                  points="-458.651093,55.185852 -461.154572,52.953648 -458.367401,51.843769"
+                  stroke="none"/>
+        <polyline fill="#b9a402" fill-opacity="1.0"
+                  class="id_Armin_van_Buuren id_DANCE-POP"
+                  points="-443.425568,59.531090 -441.902588,56.542686 -440.121033,58.956429"
+                  stroke="none"/>
+        <polyline fill="#a54d61" fill-opacity="1.0" class="id_Tiësto id_ELECTRO"
+                  points="-232.736481,80.744576 -232.437576,84.085335 -235.229752,82.988152"
+                  stroke="none"/>
+        <polyline fill="#7f8cc1" fill-opacity="1.0"
+                  class="id_Steve_Aoki id_ELECTRO"
+                  points="-234.138794,56.157166 -236.870987,54.211624 -234.221664,52.804092"
+                  stroke="none"/>
+        <polyline fill="#b98a42" fill-opacity="1.0"
+                  class="id_Armin_van_Buuren id_ELECTRO"
+                  points="-218.724915,58.039536 -217.837540,54.804947 -215.604813,56.808685"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_ELECTRO_HOUSE"
+                  points="-1143.094238,-31.806999 -1141.280273,-28.985697 -1144.262939,-28.663095"
+                  stroke="none"/>
+        <polyline fill="#26859e" fill-opacity="1.0"
+                  class="id_Steve_Aoki id_ELECTRO_HOUSE"
+                  points="-1138.620605,-56.253799 -1138.600220,-59.607838 -1135.925171,-58.249920"
+                  stroke="none"/>
+        <polyline fill="#5f831f" fill-opacity="1.0"
+                  class="id_Armin_van_Buuren id_ELECTRO_HOUSE"
+                  points="-1131.611694,-46.190018 -1128.804688,-48.026043 -1128.458740,-45.046070"
+                  stroke="none"/>
+        <polyline fill="#a54d61" fill-opacity="1.0"
+                  class="id_Tiësto id_ELECTRONIC"
+                  points="-456.024475,655.546265 -454.320526,658.435364 -457.313324,658.642883"
+                  stroke="none"/>
+        <polyline fill="#7f8cc1" fill-opacity="1.0"
+                  class="id_Steve_Aoki id_ELECTRONIC"
+                  points="-457.007690,620.182983 -458.466583,617.162781 -455.466888,617.203674"
+                  stroke="none"/>
+        <polyline fill="#b98a42" fill-opacity="1.0"
+                  class="id_Armin_van_Buuren id_ELECTRONIC"
+                  points="-444.102112,626.028748 -442.878784,622.905640 -440.869690,625.133545"
+                  stroke="none"/>
+        <polyline fill="#a56721" fill-opacity="1.0"
+                  class="id_Tiësto id_EURO_HOUSE"
+                  points="-371.511292,157.271774 -370.800201,160.549637 -373.706940,159.807358"
+                  stroke="none"/>
+        <polyline fill="#b9a402" fill-opacity="1.0"
+                  class="id_Armin_van_Buuren id_EURO_HOUSE"
+                  points="-359.188141,137.086380 -357.936157,133.974701 -355.947632,136.220978"
+                  stroke="none"/>
+        <polyline fill="#268169" fill-opacity="1.0"
+                  class="id_Tiësto id_HARDSTYLE"
+                  points="-741.338379,796.689148 -738.816833,798.900879 -741.594788,800.033447"
+                  stroke="none"/>
+        <polyline fill="#00c0c9" fill-opacity="1.0"
+                  class="id_Steve_Aoki id_HARDSTYLE"
+                  points="-742.818726,771.078125 -743.458801,767.785706 -740.568787,768.590637"
+                  stroke="none"/>
+        <polyline fill="#39be4a" fill-opacity="1.0"
+                  class="id_Armin_van_Buuren id_HARDSTYLE"
+                  points="-735.242798,776.519470 -733.604126,773.592957 -731.918335,776.074524"
+                  stroke="none"/>
+        <polyline fill="#26859e" fill-opacity="1.0" class="id_Tiësto id_HIP_HOP"
+                  points="-23.807243,317.680298 -23.975792,321.030151 -26.588264,319.555359"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_Steve_Aoki id_HIP_HOP"
+                  points="-22.545340,296.551331 -25.083414,294.358582 -22.313978,293.205200"
+                  stroke="none"/>
+        <polyline fill="#a54d61" fill-opacity="1.0" class="id_Tiësto id_HOUSE"
+                  points="-324.996246,447.299591 -324.053680,450.518524 -327.005829,449.985016"
+                  stroke="none"/>
+        <polyline fill="#7f8cc1" fill-opacity="1.0"
+                  class="id_Steve_Aoki id_HOUSE"
+                  points="-324.981262,415.952789 -326.988342,413.265442 -324.035645,412.734741"
+                  stroke="none"/>
+        <polyline fill="#b98a42" fill-opacity="1.0"
+                  class="id_Armin_van_Buuren id_HOUSE"
+                  points="-311.038452,420.232025 -310.016022,417.037537 -307.869415,419.133301"
+                  stroke="none"/>
+        <polyline fill="#268169" fill-opacity="1.0" class="id_Tiësto id_POP"
+                  points="-565.689880,453.770050 -564.118347,456.733185 -567.117493,456.805145"
+                  stroke="none"/>
+        <polyline fill="#00c0c9" fill-opacity="1.0" class="id_Steve_Aoki id_POP"
+                  points="-566.166626,426.663666 -567.700073,423.680664 -564.700317,423.647095"
+                  stroke="none"/>
+        <polyline fill="#39be4a" fill-opacity="1.0"
+                  class="id_Armin_van_Buuren id_POP"
+                  points="-555.109070,432.167725 -553.586304,429.179199 -551.804565,431.592834"
+                  stroke="none"/>
+        <polyline fill="#a54d61" fill-opacity="1.0"
+                  class="id_Tiësto id_PROGRESSIVE_HOUSE"
+                  points="-211.300476,350.905853 -210.831863,354.227081 -213.676285,353.273468"
+                  stroke="none"/>
+        <polyline fill="#7f8cc1" fill-opacity="1.0"
+                  class="id_Steve_Aoki id_PROGRESSIVE_HOUSE"
+                  points="-210.936737,322.836670 -213.250381,320.408295 -210.382217,319.528717"
+                  stroke="none"/>
+        <polyline fill="#b98a42" fill-opacity="1.0"
+                  class="id_Armin_van_Buuren id_PROGRESSIVE_HOUSE"
+                  points="-197.146774,325.631683 -196.369492,322.368866 -194.070175,324.295807"
+                  stroke="none"/>
+        <polyline fill="#a54d61" fill-opacity="1.0"
+                  class="id_Tiësto id_TECH_HOUSE"
+                  points="-143.973175,398.136627 -143.678513,401.477783 -146.469284,400.377075"
+                  stroke="none"/>
+        <polyline fill="#b98a42" fill-opacity="1.0"
+                  class="id_Armin_van_Buuren id_TECH_HOUSE"
+                  points="-130.253937,373.686279 -129.642487,370.388367 -127.248756,372.196716"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="id_Tiësto id_TRAP"
+                  points="525.060059,594.942993 522.864014,597.478210 521.714233,594.707336"
+                  stroke="none"/>
+        <polyline fill="#5f831f" fill-opacity="1.0"
+                  class="id_Armin_van_Buuren id_Tiësto"
+                  points="139.890579,1241.654907 140.098450,1238.307251 142.693420,1239.812622"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Armin_van_Buuren id_Major_League"
+                  points="-300.754120,-74.325424 -299.550751,-77.456223 -297.527435,-75.241211"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Armin_van_Buuren id_Christian_Burns"
+                  points="146.637115,-41.449326 146.312851,-44.787716 149.113266,-43.711765"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Armin_van_Buuren id_VOCAL_TRANCE"
+                  points="-39.713299,133.714493 -39.363960,130.378647 -36.835007,131.992447"
+                  stroke="none"/>
+        <polyline fill="#b9a402" fill-opacity="1.0"
+                  class="id_Armin_van_Buuren id_TRIBAL_HOUSE"
+                  points="-665.445007,164.235992 -663.512573,161.494492 -662.092407,164.137039"
+                  stroke="none"/>
+        <polyline fill="#b98a42" fill-opacity="1.0"
+                  class="id_Armin_van_Buuren id_TRANCE"
+                  points="-461.193146,727.533875 -459.974670,724.408936 -457.962097,726.633667"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Armin_van_Buuren id_TECH_TRANCE"
+                  points="199.022156,62.574844 198.631882,59.243526 201.453049,60.263844"
+                  stroke="none"/>
+        <polyline fill="#b98a42" fill-opacity="1.0"
+                  class="id_Armin_van_Buuren id_PROGRESSIVE_TRANCE"
+                  points="-580.472656,255.948425 -578.784729,253.049988 -577.141174,255.559692"
+                  stroke="none"/>
+        <polyline fill="#39be4a" fill-opacity="1.0"
+                  class="id_Armin_van_Buuren id_HARD_TRANCE"
+                  points="-375.650421,864.763550 -374.616974,861.572571 -372.477631,863.675720"
+                  stroke="none"/>
+        <polyline fill="#b9a402" fill-opacity="1.0"
+                  class="id_Armin_van_Buuren id_DUBSTEP"
+                  points="-863.580933,69.025673 -861.212830,66.650414 -860.259827,69.495033"
+                  stroke="none"/>
+        <polyline fill="#5f831f" fill-opacity="1.0"
+                  class="id_Tiësto id_Armin_van_Buuren"
+                  points="-161.663269,-934.411987 -161.869080,-931.064148 -164.464966,-932.567932"
+                  stroke="none"/>
+        <polyline fill="#a56721" fill-opacity="1.0" class="id_Tiësto id_DUBSTEP"
+                  points="-874.361816,84.538300 -872.764099,87.487411 -875.762512,87.585953"
+                  stroke="none"/>
+        <polyline fill="#7fa682" fill-opacity="1.0"
+                  class="id_Steve_Aoki id_DUBSTEP"
+                  points="-874.421143,60.993652 -875.837158,57.953094 -872.838379,58.036530"
+                  stroke="none"/>
+        <polyline fill="#268169" fill-opacity="1.0"
+                  class="id_Tiësto id_HARD_TRANCE"
+                  points="-381.118286,883.670410 -379.015869,886.283813 -381.947571,886.920410"
+                  stroke="none"/>
+        <polyline fill="#a54d61" fill-opacity="1.0"
+                  class="id_Tiësto id_PROGRESSIVE_TRANCE"
+                  points="-590.909546,274.164307 -589.560120,277.235016 -592.556458,277.086273"
+                  stroke="none"/>
+        <polyline fill="#5f831f" fill-opacity="1.0"
+                  class="id_Tiësto id_TECH_TRANCE"
+                  points="188.501312,80.557274 187.677841,83.808716 185.406082,81.849365"
+                  stroke="none"/>
+        <polyline fill="#a54d61" fill-opacity="1.0" class="id_Tiësto id_TRANCE"
+                  points="-468.433777,748.051147 -466.483459,750.779907 -469.446594,751.248657"
+                  stroke="none"/>
+        <polyline fill="#a56721" fill-opacity="1.0"
+                  class="id_Tiësto id_TRIBAL_HOUSE"
+                  points="-675.705139,180.708878 -674.315491,183.761551 -677.313538,183.652206"
+                  stroke="none"/>
+        <polyline fill="#5f831f" fill-opacity="1.0"
+                  class="id_Tiësto id_VOCAL_TRANCE"
+                  points="-50.578049,151.891022 -50.731846,155.241577 -53.350788,153.778320"
+                  stroke="none"/>
+        <polyline fill="#a54d61" fill-opacity="1.0"
+                  class="id_Tiësto id_DEEP_HOUSE"
+                  points="-373.877869,416.009949 -372.841034,419.199799 -375.807648,418.753326"
+                  stroke="none"/>
+        <polyline fill="#7f8cc1" fill-opacity="1.0"
+                  class="id_Steve_Aoki id_DEEP_HOUSE"
+                  points="-374.058563,391.573303 -376.028687,388.858765 -373.069031,388.368469"
+                  stroke="none"/>
+        <polyline fill="#a56721" fill-opacity="1.0"
+                  class="id_Tiësto id_ELECTROPOP"
+                  points="-683.159973,226.604736 -681.696838,229.622910 -684.696594,229.586136"
+                  stroke="none"/>
+        <polyline fill="#7fa682" fill-opacity="1.0"
+                  class="id_Steve_Aoki id_ELECTROPOP"
+                  points="-683.785828,203.075287 -685.478821,200.179810 -682.485291,199.983612"
+                  stroke="none"/>
+        <polyline fill="#a54d61" fill-opacity="1.0" class="id_Tiësto id_TECHNO"
+                  points="-244.391159,475.667877 -243.663086,478.941986 -246.573608,478.214813"
+                  stroke="none"/>
+        <polyline fill="#a56721" fill-opacity="1.0"
+                  class="id_Tiësto id_FESTIVAL_PROGRESSIVE_HOUSE"
+                  points="-1018.728210,485.030243 -1016.415161,487.459198 -1019.283569,488.338043"
+                  stroke="none"/>
+        <polyline fill="#7fa682" fill-opacity="1.0"
+                  class="id_Steve_Aoki id_FESTIVAL_PROGRESSIVE_HOUSE"
+                  points="-1017.279297,464.197815 -1017.371399,460.844971 -1014.652283,462.112427"
+                  stroke="none"/>
+        <polyline fill="#26859e" fill-opacity="1.0"
+                  class="id_Steve_Aoki id_Ummet_Ozcan"
+                  points="-799.922485,528.746887 -800.676025,525.478577 -797.759888,526.183044"
+                  stroke="none"/>
+        <polyline fill="#26859e" fill-opacity="1.0"
+                  class="id_Steve_Aoki id_Tiësto"
+                  points="100.865044,1231.776978 99.276184,1228.823120 102.274841,1228.733521"
+                  stroke="none"/>
+        <polyline fill="#7fa682" fill-opacity="1.0"
+                  class="id_Steve_Aoki id_Showtek"
+                  points="-787.783325,227.034454 -789.096069,223.947906 -786.101685,224.132355"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_Steve_Aoki id_My_Name_Is_Kay"
+                  points="-873.201904,580.988159 -873.673828,577.667419 -870.828491,578.618225"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_Steve_Aoki id_Matthew_Koma"
+                  points="-1055.069336,551.550842 -1054.969360,548.198303 -1052.327271,549.619324"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_Steve_Aoki id_Diplo"
+                  points="-883.775330,502.386200 -884.298584,499.073151 -881.438843,499.979767"
+                  stroke="none"/>
+        <polyline fill="#26859e" fill-opacity="1.0"
+                  class="id_Steve_Aoki id_BASSLINE"
+                  points="-858.941528,441.436005 -859.623718,438.152008 -856.723694,438.919830"
+                  stroke="none"/>
+        <polyline fill="#26859e" fill-opacity="1.0"
+                  class="id_Tiësto id_Steve_Aoki"
+                  points="-1194.612427,-325.565277 -1193.024536,-322.610870 -1196.023315,-322.522308"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_BASSLINE"
+                  points="-859.451477,462.037140 -857.360779,464.659943 -860.295349,465.283356"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Wolfgang_Gartner"
+                  points="723.667786,1756.978882 721.347351,1754.556885 724.213074,1753.669434"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="id_Tiësto id_Vassy"
+                  points="647.078674,621.602539 644.558777,623.816162 643.795837,620.914795"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_VER:WEST"
+                  points="104.404076,2016.689453 104.989464,2013.386841 107.397408,2015.176147"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Ummet_Ozcan"
+                  points="-799.975037,549.352173 -797.825562,551.927063 -800.745239,552.616638"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Ty_Dolla_$ign"
+                  points="675.718689,675.536011 673.058716,677.579163 672.488159,674.633972"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="id_Tiësto id_Twoloud"
+                  points="558.142090,1483.460327 555.281921,1481.708374 557.827576,1480.120972"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="id_Tiësto id_Tomhio"
+                  points="75.214516,1927.878052 75.951859,1924.605957 78.274567,1926.504639"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Three_6_Mafia"
+                  points="734.204712,1525.269775 731.281860,1523.624512 733.767334,1521.944336"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_The_Chainsmokers"
+                  points="590.269775,1544.311401 587.565186,1542.327515 590.234009,1540.957397"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Tegan_and_Sara"
+                  points="343.598755,1991.893188 343.065918,1988.581665 345.928284,1989.480103"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Suzanne_Palmer"
+                  points="801.901245,1616.700928 799.127075,1614.815796 801.744873,1613.350464"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Stevie_Appleton"
+                  points="-156.015472,1773.455078 -153.901749,1770.850830 -152.663834,1773.583496"
+                  stroke="none"/>
+        <polyline fill="#a56721" fill-opacity="1.0" class="id_Tiësto id_Showtek"
+                  points="-787.810181,250.547073 -786.135254,253.453003 -789.130005,253.630615"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="id_Tiësto id_Sevenn"
+                  points="396.116791,1609.863281 394.249817,1607.076782 397.225769,1606.697876"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Sean_Kingston"
+                  points="549.831970,1916.153809 548.361267,1913.139282 551.361145,1913.168579"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Rita_Ora"
+                  points="597.244080,1832.166870 595.417480,1829.353638 598.398560,1829.017700"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="id_Tiësto id_Preme"
+                  points="578.746765,1616.083252 576.305481,1613.783203 579.122009,1612.750244"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Post_Malone"
+                  points="255.377502,1968.281616 255.214645,1964.931519 257.959900,1966.141235"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Oliver_Heldens"
+                  points="443.285553,1744.185669 441.728790,1741.214722 444.728241,1741.157593"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Nicola_Hitchcock"
+                  points="-189.496429,1853.061401 -187.420441,1850.426880 -186.143280,1853.141479"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Nelly_Furtado"
+                  points="565.231018,1640.027710 562.903198,1637.613037 565.766113,1636.716553"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Natalie_La_Rose"
+                  points="-141.108154,1951.677490 -139.388443,1948.797852 -137.772568,1951.325439"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Nari_&amp;_Milani"
+                  points="473.005493,1503.156494 470.370209,1501.081665 473.084259,1499.803345"
+                  stroke="none"/>
+        <polyline fill="#26859e" fill-opacity="1.0"
+                  class="id_Tiësto id_My_Name_Is_Kay"
+                  points="-873.387146,601.141174 -871.057678,603.554382 -873.919983,604.452698"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="id_Tiësto id_Moska"
+                  points="644.525024,1726.478516 642.282532,1723.984253 645.174866,1723.187866"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Mike_Williams"
+                  points="303.309357,1629.377075 302.071014,1626.260010 305.060028,1626.516113"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Maxi_Jazz"
+                  points="594.112244,1861.398804 592.371094,1858.531982 595.360962,1858.285889"
+                  stroke="none"/>
+        <polyline fill="#26859e" fill-opacity="1.0"
+                  class="id_Tiësto id_Matthew_Koma"
+                  points="-1056.378662,571.851257 -1053.907471,574.119019 -1056.710205,575.188965"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Matisse_&amp;_Sadko"
+                  points="704.886658,1670.568726 702.371582,1668.349609 705.152954,1667.225342"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Martin_Garrix"
+                  points="821.804321,842.257324 818.707703,843.546204 818.915222,840.553406"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Mark_Knight"
+                  points="67.675957,1744.753052 68.525528,1741.508423 70.781479,1743.485962"
+                  stroke="none"/>
+        <polyline fill="#5f831f" fill-opacity="1.0"
+                  class="id_Tiësto id_Major_League"
+                  points="-312.171356,-57.218056 -311.778992,-53.886982 -314.600769,-54.905521"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="id_Tiësto id_MOTi"
+                  points="32.938263,1970.348999 33.872223,1967.127563 36.075798,1969.163208"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="id_Tiësto id_Luciana"
+                  points="-916.249023,906.375916 -913.391541,908.132263 -915.939636,909.715759"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Lucas_&amp;_Steve"
+                  points="335.765259,829.387268 333.785522,832.094788 332.411438,829.428040"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Lena_Leon"
+                  points="105.590912,1948.142822 106.168648,1944.838867 108.580727,1946.622559"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Kyler_England"
+                  points="424.847229,1587.431763 422.751068,1584.813354 425.684296,1584.183716"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Kirsty_Hawkshaw"
+                  points="-33.975258,1695.668945 -32.329151,1692.746582 -30.649685,1695.232422"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Killfake"
+                  points="77.877121,1786.898926 78.636353,1783.631836 80.946289,1785.546143"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Kelli‐Leigh"
+                  points="-982.656250,880.674011 -979.798584,882.429993 -982.346436,884.013733"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="id_Tiësto id_Kaskade"
+                  points="-352.774506,1801.191406 -350.105255,1799.160400 -349.548126,1802.108154"
+                  stroke="none"/>
+        <polyline fill="#a56721" fill-opacity="1.0" class="id_Tiësto id_KSHMR"
+                  points="-911.026855,847.156799 -908.263245,849.057434 -910.889221,850.508118"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="id_Tiësto id_KAROL_G"
+                  points="285.046692,1915.172119 284.668823,1911.839355 287.486145,1912.870117"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Justin_Caruso"
+                  points="331.736908,1941.160645 331.176178,1937.853638 334.045990,1938.727905"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Junkie_XL"
+                  points="32.987926,1830.141479 34.008366,1826.946289 36.156277,1829.040771"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Julie_Thompson"
+                  points="223.266403,1717.416504 222.904678,1714.081909 225.716995,1715.126343"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Jonas_Blue"
+                  points="595.367126,1810.093018 593.485901,1807.316162 596.459900,1806.921875"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="id_Tiësto id_JES"
+                  points="221.001175,1829.698608 220.851410,1826.347778 223.591919,1827.568237"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Icona_Pop"
+                  points="374.716766,779.982422 372.675720,782.644104 371.362854,779.946594"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Haley_Gibby"
+                  points="-144.612900,1810.178345 -142.629807,1807.473267 -141.258987,1810.141724"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Gucci_Mane"
+                  points="253.133896,1691.230225 252.483200,1687.939819 255.375778,1688.735474"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Flo_Rida"
+                  points="833.555298,921.668213 830.356750,922.677795 830.828552,919.715149"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="id_Tiësto id_Farruko"
+                  points="539.165771,1563.967163 536.626343,1561.776001 539.395020,1560.620972"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="id_Tiësto id_Dzeko"
+                  points="-52.825863,1878.727539 -51.390587,1875.696045 -49.539497,1878.056885"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Disco_Fries"
+                  points="145.642014,1894.256226 145.992355,1890.920532 148.520828,1892.535034"
+                  stroke="none"/>
+        <polyline fill="#26859e" fill-opacity="1.0" class="id_Tiësto id_Diplo"
+                  points="-884.267700,522.723938 -882.050415,525.240601 -884.950684,526.007813"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Dino_Lenny"
+                  points="397.022675,1847.299927 395.967834,1844.115967 398.936890,1844.545654"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Delayers"
+                  points="408.374268,1667.892334 406.697205,1664.987549 409.691833,1664.807861"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="id_Tiësto id_DallasK"
+                  points="209.213440,1671.359619 208.855179,1668.024658 211.666428,1669.072021"
+                  stroke="none"/>
+        <polyline fill="#5f831f" fill-opacity="1.0"
+                  class="id_Tiësto id_Christian_Burns"
+                  points="136.283875,-23.240051 135.605988,-19.955166 133.249237,-21.811428"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_C.C._Sheffield"
+                  points="-125.165817,1908.552246 -123.445213,1905.673096 -121.830132,1908.201172"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Busta_Rhymes"
+                  points="76.233017,1853.514771 76.982811,1850.245483 79.298271,1852.152954"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Bright_Sparks"
+                  points="444.173065,1890.499878 443.021545,1887.349731 446.002319,1887.688599"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Bobby_Puma"
+                  points="495.147949,1699.738770 493.238586,1696.981201 496.208435,1696.556641"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Black_Eyed_Peas"
+                  points="468.266693,1786.262207 466.740417,1783.275513 469.740295,1783.249146"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_Becky_Hill"
+                  points="888.936340,868.611206 885.762329,869.695496 886.164551,866.722595"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="id_Tiësto id_BT"
+                  points="251.006256,1870.265259 250.740585,1866.921631 253.521713,1868.046631"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="id_Tiësto id_Ava_Max"
+                  points="387.930481,1809.923950 386.821228,1806.758545 389.797241,1807.137207"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="id_Tiësto id_Alvaro"
+                  points="253.622131,1764.863403 253.152832,1761.542358 255.997437,1762.495239"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="id_Tiësto id_Allure"
+                  points="188.206802,1805.445557 188.232697,1802.091553 190.905548,1803.453857"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="id_Tiësto id_SWING"
+                  points="352.956146,1540.175659 350.949158,1537.488159 353.901855,1536.957642"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_SPOKEN_VOCALS"
+                  points="91.169830,1653.315796 91.865128,1650.034546 94.212006,1651.903198"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0" class="id_Tiësto id_RNB"
+                  points="388.668579,1483.066040 386.172760,1480.825317 388.963715,1479.724976"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_PSYTRANCE"
+                  points="270.652161,1563.466675 269.341309,1560.379272 272.335510,1560.565552"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_MALE_VOCALS"
+                  points="-112.673637,1672.853149 -110.496964,1670.301270 -109.326126,1673.063477"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_MALE_VOCAL_TRANCE"
+                  points="24.143303,1630.040527 25.488722,1626.968018 27.408503,1629.273438"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Tiësto id_DUTCH_TRANCE"
+                  points="178.221680,1606.465332 177.985703,1603.119507 180.756729,1604.268921"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ff5584" r="14.651852" cx="-441.11093"
+                class="id_DANCE" cy="471.86432" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.5481482"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="11.925926" cx="-453.85532"
+                class="id_DANCE-POP" cy="67.22906" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="2.074074"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="12.471111" cx="-227.77882"
+                class="id_ELECTRO" cy="68.12813" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.1688888"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="11.925926" cx="-1144.4882"
+                class="id_ELECTRO_HOUSE" cy="-44.694798" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="2.074074"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="16.287409" cx="-457.24933"
+                class="id_ELECTRONIC" cy="637.885" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.8325927"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="11.380741" cx="-368.45053"
+                class="id_EURO_HOUSE" cy="145.28604" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.9792593"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="12.471111" cx="-746.4558"
+                class="id_HARDSTYLE" cy="784.13666" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="2.1688888"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.835555" cx="-18.017345"
+                class="id_HIP_HOP" cy="307.42392" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="1.8844444"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="14.651852" cx="-322.16397"
+                class="id_HOUSE" cy="431.62753" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.5481482"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="12.471111" cx="-566.015"
+                class="id_POP" cy="440.21838" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="2.1688888"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="13.561481" cx="-206.61491"
+                class="id_PROGRESSIVE_HOUSE" cy="336.92963" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.3585184"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="13.016295" cx="-138.78212"
+                class="id_TECH_HOUSE" cy="384.97522" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.2637036"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.290371" cx="535.3911"
+                class="id_TRAP" cy="590.65607" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="69.71555" cx="-123.67932"
+                class="id_Armin_van_Buuren" cy="-999.9825" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="12.124444"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.835555" cx="-874.7487"
+                class="id_DUBSTEP" cy="72.76688" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.8844444"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.290371" cx="-383.49167"
+                class="id_HARD_TRANCE" cy="872.7399" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.835555" cx="-590.32556"
+                class="id_PROGRESSIVE_TRANCE" cy="262.40103" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.8844444"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="9.745185" cx="195.41954"
+                class="id_TECH_TRANCE" cy="72.53598" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="11.380741" cx="-470.36676"
+                class="id_TRANCE" cy="735.8327" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.9792593"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.290371" cx="-675.2974"
+                class="id_TRIBAL_HOUSE" cy="169.53113" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="9.745185" cx="-45.411453"
+                class="id_VOCAL_TRANCE" cy="142.64389" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="11.380741" cx="-372.0369"
+                class="id_DEEP_HOUSE" cy="403.77734" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.9792593"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.835555" cx="-683.0156"
+                class="id_ELECTROPOP" cy="214.82785" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.8844444"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="12.471111" cx="-241.1054"
+                class="id_TECHNO" cy="462.51657" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.1688888"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.290371" cx="-1022.0048"
+                class="id_FESTIVAL_PROGRESSIVE_HOUSE" cy="474.33575"
+                stroke="#b25f03" stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="66.44444" cx="-1196.7439"
+                class="id_Steve_Aoki" cy="-397.75604" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="11.555555"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.745185" cx="-861.65265"
+                class="id_BASSLINE" cy="451.67578" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="67.53482" cx="103.05579"
+                class="id_Tiësto" cy="1305.1517" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="11.745185"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="174.38991"
+                class="id_DUTCH_TRANCE" cy="1615.702" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="16.458942"
+                class="id_MALE_VOCAL_TRANCE" cy="1636.4398" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="-121.88059"
+                class="id_MALE_VOCALS" cy="1676.756" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="270.03137"
+                class="id_PSYTRANCE" cy="1573.4474" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="392.33633"
+                class="id_RNB" cy="1492.3691" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="84.940704"
+                class="id_SPOKEN_VOCALS" cy="1661.1387" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="354.7249"
+                class="id_SWING" cy="1550.018" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.745185" cx="384.24115"
+                class="id_Icona_Pop" cy="775.3468" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.745185" cx="345.1814"
+                class="id_Lucas_&amp;_Steve" cy="824.5355" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.290371" cx="686.6997"
+                class="id_Ty_Dolla_$ign" cy="673.4088" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.290371" cx="657.8961"
+                class="id_Vassy" cy="618.75806" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="9.745185" cx="142.83807"
+                class="id_Christian_Burns" cy="-31.561436" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="9.745185" cx="-308.57504"
+                class="id_Major_League" cy="-67.181465" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.745185" cx="899.43335"
+                class="id_Becky_Hill" cy="870.0312" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.745185" cx="844.0161"
+                class="id_Flo_Rida" cy="923.33386" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.745185" cx="832.3715"
+                class="id_Martin_Garrix" cy="842.99005" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.835555" cx="-788.50745"
+                class="id_Showtek" cy="238.78995" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.8844444"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.745185" cx="-916.14886"
+                class="id_KSHMR" cy="837.8849" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.745185" cx="-988.2482"
+                class="id_Kelli‐Leigh" cy="871.67773" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.745185" cx="-921.8399"
+                class="id_Luciana" cy="897.37897" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.290371" cx="-1060.3677"
+                class="id_Matthew_Koma" cy="561.40155" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="9.745185" cx="-886.9764"
+                class="id_Diplo" cy="512.4835" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="9.745185" cx="-876.5591"
+                class="id_My_Name_Is_Kay" cy="591.03467" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.745185" cx="-802.41003"
+                class="id_Ummet_Ozcan" cy="539.0433" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="183.66576"
+                class="id_Allure" cy="1814.355" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="250.44547"
+                class="id_Alvaro" cy="1774.3455" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="386.66794"
+                class="id_Ava_Max" cy="1819.8439" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="247.25659"
+                class="id_BT" cy="1879.5356" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="468.35446"
+                class="id_Black_Eyed_Peas" cy="1796.2618" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="496.5628"
+                class="id_Bobby_Puma" cy="1709.6382" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="443.0435"
+                class="id_Bright_Sparks" cy="1900.4359" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="69.8746"
+                class="id_Busta_Rhymes" cy="1861.2329" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="-133.59297"
+                class="id_C.C._Sheffield" cy="1913.9358" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="205.72226"
+                class="id_DallasK" cy="1680.7303" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="408.97342"
+                class="id_Delayers" cy="1677.8744" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="395.59033"
+                class="id_Dino_Lenny" cy="1857.1968" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="140.2601"
+                class="id_Disco_Fries" cy="1902.6844" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="-60.69527"
+                class="id_Dzeko" cy="1884.8978" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="543.0161"
+                class="id_Farruko" cy="1573.1962" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="250.48193"
+                class="id_Gucci_Mane" cy="1700.8722" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="-153.50787"
+                class="id_Haley_Gibby" cy="1814.7477" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="216.93289"
+                class="id_JES" cy="1838.8336" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="596.68115"
+                class="id_Jonas_Blue" cy="1820.0063" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="219.78497"
+                class="id_Julie_Thompson" cy="1726.7909" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="26.006617"
+                class="id_Junkie_XL" cy="1837.3011" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="328.82306"
+                class="id_Justin_Caruso" cy="1950.7267" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="281.61072"
+                class="id_KAROL_G" cy="1924.5632" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="-362.60056"
+                class="id_Kaskade" cy="1803.0485" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="71.49643"
+                class="id_Killfake" cy="1794.5988" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="-42.261383"
+                class="id_Kirsty_Hawkshaw" cy="1701.2672" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="426.94568"
+                class="id_Kyler_England" cy="1597.2091" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="99.64498"
+                class="id_Lena_Leon" cy="1956.1831" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="26.15244"
+                class="id_MOTi" cy="1977.6942" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="61.084156"
+                class="id_Mark_Knight" cy="1752.273" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="708.6346"
+                class="id_Matisse_&amp;_Sadko" cy="1679.8398" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="594.93286"
+                class="id_Maxi_Jazz" cy="1871.3651" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="302.4555"
+                class="id_Mike_Williams" cy="1639.3406" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="647.17944"
+                class="id_Moska" cy="1736.1198" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="477.26633"
+                class="id_Nari_&amp;_Milani" cy="1512.2034" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="-149.53362"
+                class="id_Natalie_La_Rose" cy="1957.0637" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="568.21893"
+                class="id_Nelly_Furtado" cy="1649.5709" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="-198.54495"
+                class="id_Nicola_Hitchcock" cy="1857.3186" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="443.47574"
+                class="id_Oliver_Heldens" cy="1754.1838" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="251.34496"
+                class="id_Post_Malone" cy="1977.4325" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="582.1901"
+                class="id_Preme" cy="1625.4717" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="598.36426"
+                class="id_Rita_Ora" cy="1842.1039" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="549.73444"
+                class="id_Sean_Kingston" cy="1926.1533" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="397.38007"
+                class="id_Sevenn" cy="1619.7832" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="-165.1244"
+                class="id_Stevie_Appleton" cy="1777.5815" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="806.7855"
+                class="id_Suzanne_Palmer" cy="1625.427" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="340.60428"
+                class="id_Tegan_and_Sara" cy="2001.4343" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="594.83685"
+                class="id_The_Chainsmokers" cy="1553.2075" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="739.805"
+                class="id_Three_6_Mafia" cy="1533.5546" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="68.88552"
+                class="id_Tomhio" cy="1935.6204" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="563.43317"
+                class="id_Twoloud" cy="1491.9459" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="98.43953"
+                class="id_VER:WEST" cy="2024.716" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="726.6263"
+                class="id_Wolfgang_Gartner" cy="1766.5312" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="38" x="-441.11093" y="478.89966" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DANCE">
+            DANCE -
+        </text>
+        <text font-size="31" x="-453.85532" y="72.97092" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DANCE-POP">
+            DANCE-POP -
+        </text>
+        <text font-size="33" x="-227.77882" y="74.24043" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ELECTRO">
+            ELECTRO -
+        </text>
+        <text font-size="31" x="-1144.4882" y="-38.952934" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ELECTRO_HOUSE">
+            ELECTRO HOUSE -
+        </text>
+        <text font-size="42" x="-457.24933" y="645.6643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ELECTRONIC">
+            ELECTRONIC -
+        </text>
+        <text font-size="30" x="-368.45053" y="150.84268" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_EURO_HOUSE">
+            EURO HOUSE -
+        </text>
+        <text font-size="33" x="-746.4558" y="790.2463" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_HARDSTYLE">
+            HARDSTYLE -
+        </text>
+        <text font-size="28" x="-18.017345" y="312.6101" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_HIP_HOP">
+            HIP HOP -
+        </text>
+        <text font-size="38" x="-322.16397" y="438.66595" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_HOUSE">
+            HOUSE -
+        </text>
+        <text font-size="33" x="-566.015" y="446.3307" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_POP">
+            POP -
+        </text>
+        <text font-size="35" x="-206.61491" y="343.41238" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_PROGRESSIVE_HOUSE">
+            PROGRESSIVE HOUSE -
+        </text>
+        <text font-size="34" x="-138.78212" y="391.27274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_TECH_HOUSE">
+            TECH HOUSE -
+        </text>
+        <text font-size="27" x="535.3911" y="595.48785" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_TRAP">
+            TRAP -
+        </text>
+        <text font-size="182" x="-123.67932" y="-966.87946" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Armin_van_Buuren">
+            Armin van Buuren - male
+        </text>
+        <text font-size="28" x="-874.7487" y="77.9508" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DUBSTEP">
+            DUBSTEP -
+        </text>
+        <text font-size="27" x="-383.49167" y="877.7387" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_HARD_TRANCE">
+            HARD TRANCE -
+        </text>
+        <text font-size="28" x="-590.32556" y="267.58722" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_PROGRESSIVE_TRANCE">
+            PROGRESSIVE TRANCE -
+        </text>
+        <text font-size="25" x="195.41954" y="77.16448" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_TECH_TRANCE">
+            TECH TRANCE -
+        </text>
+        <text font-size="30" x="-470.36676" y="741.3869" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_TRANCE">
+            TRANCE -
+        </text>
+        <text font-size="27" x="-675.2974" y="174.5321" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_TRIBAL_HOUSE">
+            TRIBAL HOUSE -
+        </text>
+        <text font-size="25" x="-45.411453" y="147.27443" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_VOCAL_TRANCE">
+            VOCAL TRANCE -
+        </text>
+        <text font-size="30" x="-372.0369" y="409.33398" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DEEP_HOUSE">
+            DEEP HOUSE -
+        </text>
+        <text font-size="28" x="-683.0156" y="220.01405" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ELECTROPOP">
+            ELECTROPOP -
+        </text>
+        <text font-size="33" x="-241.1054" y="468.62888" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_TECHNO">
+            TECHNO -
+        </text>
+        <text font-size="27" x="-1022.0048" y="479.33673" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_FESTIVAL_PROGRESSIVE_HOUSE">
+            FESTIVAL PROGRESSIVE HOUSE -
+        </text>
+        <text font-size="173" x="-1196.7439" y="-365.72684" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Steve_Aoki">
+            Steve Aoki - male
+        </text>
+        <text font-size="25" x="-861.65265" y="456.30426" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_BASSLINE">
+            BASSLINE -
+        </text>
+        <text font-size="176" x="103.05579" y="1337.364" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tiësto">
+            Tiësto - male
+        </text>
+        <text font-size="24" x="174.38991" y="1620.1454" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DUTCH_TRANCE">
+            DUTCH TRANCE -
+        </text>
+        <text font-size="24" x="16.458942" y="1640.8851" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MALE_VOCAL_TRANCE">
+            MALE VOCAL TRANCE -
+        </text>
+        <text font-size="24" x="-121.88059" y="1681.2013" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MALE_VOCALS">
+            MALE VOCALS -
+        </text>
+        <text font-size="24" x="270.03137" y="1577.8907" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_PSYTRANCE">
+            PSYTRANCE -
+        </text>
+        <text font-size="24" x="392.33633" y="1496.6641" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_RNB">
+            RNB -
+        </text>
+        <text font-size="24" x="84.940704" y="1665.584" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SPOKEN_VOCALS">
+            SPOKEN VOCALS -
+        </text>
+        <text font-size="24" x="354.7249" y="1554.4613" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SWING">
+            SWING -
+        </text>
+        <text font-size="25" x="384.24115" y="781.0638" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Icona_Pop">
+            Icona Pop - unknown
+        </text>
+        <text font-size="25" x="345.1814" y="829.1905" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lucas_&amp;_Steve">
+            Lucas&amp; Steve - unknown
+        </text>
+        <text font-size="27" x="686.6997" y="680.1083" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ty_Dolla_$ign">
+            Ty Dolla $ign - male
+        </text>
+        <text font-size="27" x="657.8961" y="625.095" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Vassy">
+            Vassy - female
+        </text>
+        <text font-size="25" x="142.83807" y="-26.932936" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Christian_Burns">
+            Christian Burns - male
+        </text>
+        <text font-size="25" x="-308.57504" y="-61.391262" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Major_League">
+            Major League - unknown
+        </text>
+        <text font-size="25" x="899.43335" y="875.8987" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Becky_Hill">
+            Becky Hill - female
+        </text>
+        <text font-size="25" x="844.0161" y="927.881" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Flo_Rida">
+            Flo Rida - male
+        </text>
+        <text font-size="25" x="832.3715" y="847.6185" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Martin_Garrix">
+            Martin Garrix - male
+        </text>
+        <text font-size="28" x="-788.50745" y="243.97388" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Showtek">
+            Showtek - unknown
+        </text>
+        <text font-size="25" x="-916.14886" y="842.5134" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_KSHMR">
+            KSHMR - male
+        </text>
+        <text font-size="25" x="-988.2482" y="877.5453" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kelli‐Leigh">
+            Kelli‐Leigh - female
+        </text>
+        <text font-size="25" x="-921.8399" y="902.0034" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Luciana">
+            Luciana - female
+        </text>
+        <text font-size="27" x="-1060.3677" y="566.31244" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Matthew_Koma">
+            Matthew Koma - male
+        </text>
+        <text font-size="25" x="-886.9764" y="518.2005" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Diplo">
+            Diplo - male
+        </text>
+        <text font-size="25" x="-876.5591" y="596.8249" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_My_Name_Is_Kay">
+            My Name Is Kay - unknown
+        </text>
+        <text font-size="25" x="-802.41003" y="543.6738" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ummet_Ozcan">
+            Ummet Ozcan - male
+        </text>
+        <text font-size="24" x="183.66576" y="1818.7202" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Allure">
+            Allure - unknown
+        </text>
+        <text font-size="24" x="250.44547" y="1778.7107" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Alvaro">
+            Alvaro - male
+        </text>
+        <text font-size="24" x="386.66794" y="1824.2833" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ava_Max">
+            Ava Max - female
+        </text>
+        <text font-size="24" x="247.25659" y="1883.9009" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_BT">
+            BT - male
+        </text>
+        <text font-size="24" x="468.35446" y="1801.8204" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Black_Eyed_Peas">
+            Black Eyed Peas - unknown
+        </text>
+        <text font-size="24" x="496.5628" y="1715.1968" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bobby_Puma">
+            Bobby Puma - unknown
+        </text>
+        <text font-size="24" x="443.0435" y="1906.0687" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bright_Sparks">
+            Bright Sparks - unknown
+        </text>
+        <text font-size="24" x="69.8746" y="1866.7915" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Busta_Rhymes">
+            Busta Rhymes - male
+        </text>
+        <text font-size="24" x="-133.59297" y="1918.3792" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_C.C._Sheffield">
+            C.C. Sheffield - unknown
+        </text>
+        <text font-size="24" x="205.72226" y="1685.0956" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DallasK">
+            DallasK - male
+        </text>
+        <text font-size="24" x="408.97342" y="1683.433" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Delayers">
+            Delayers - unknown
+        </text>
+        <text font-size="24" x="395.59033" y="1862.7554" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dino_Lenny">
+            Dino Lenny - male
+        </text>
+        <text font-size="24" x="140.2601" y="1907.0497" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Disco_Fries">
+            Disco Fries - unknown
+        </text>
+        <text font-size="24" x="-60.69527" y="1889.2631" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dzeko">
+            Dzeko - male
+        </text>
+        <text font-size="24" x="543.0161" y="1577.5614" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Farruko">
+            Farruko - male
+        </text>
+        <text font-size="24" x="250.48193" y="1705.3156" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Gucci_Mane">
+            Gucci Mane - male
+        </text>
+        <text font-size="24" x="-153.50787" y="1820.3805" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Haley_Gibby">
+            Haley Gibby - female
+        </text>
+        <text font-size="24" x="216.93289" y="1843.277" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_JES">
+            JES - female
+        </text>
+        <text font-size="24" x="596.68115" y="1824.3755" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jonas_Blue">
+            Jonas Blue - male
+        </text>
+        <text font-size="24" x="219.78497" y="1732.3534" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Julie_Thompson">
+            Julie Thompson - female
+        </text>
+        <text font-size="24" x="26.006617" y="1841.6703" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Junkie_XL">
+            Junkie XL - male
+        </text>
+        <text font-size="24" x="328.82306" y="1955.17" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Justin_Caruso">
+            Justin Caruso - male
+        </text>
+        <text font-size="24" x="281.61072" y="1929.0085" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_KAROL_G">
+            KAROL G - female
+        </text>
+        <text font-size="24" x="-362.60056" y="1807.4137" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kaskade">
+            Kaskade - male
+        </text>
+        <text font-size="24" x="71.49643" y="1799.0382" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Killfake">
+            Killfake - unknown
+        </text>
+        <text font-size="24" x="-42.261383" y="1706.9" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kirsty_Hawkshaw">
+            Kirsty Hawkshaw - female
+        </text>
+        <text font-size="24" x="426.94568" y="1602.8419" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kyler_England">
+            Kyler England - female
+        </text>
+        <text font-size="24" x="99.64498" y="1960.6226" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lena_Leon">
+            Lena Leon - female
+        </text>
+        <text font-size="24" x="26.15244" y="1982.1395" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MOTi">
+            MOTi - male
+        </text>
+        <text font-size="24" x="61.084156" y="1757.8315" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mark_Knight">
+            Mark Knight - male
+        </text>
+        <text font-size="24" x="708.6346" y="1684.3086" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Matisse_&amp;_Sadko">
+            Matisse&amp; Sadko - unknown
+        </text>
+        <text font-size="24" x="594.93286" y="1875.7343" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Maxi_Jazz">
+            Maxi Jazz - male
+        </text>
+        <text font-size="24" x="302.4555" y="1643.7058" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mike_Williams">
+            Mike Williams - male
+        </text>
+        <text font-size="24" x="647.17944" y="1740.485" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Moska">
+            Moska - male
+        </text>
+        <text font-size="24" x="477.26633" y="1516.6721" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nari_&amp;_Milani">
+            Nari&amp; Milani - unknown
+        </text>
+        <text font-size="24" x="-149.53362" y="1961.5032" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Natalie_La_Rose">
+            Natalie La Rose - female
+        </text>
+        <text font-size="24" x="568.21893" y="1655.2037" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nelly_Furtado">
+            Nelly Furtado - female
+        </text>
+        <text font-size="24" x="-198.54495" y="1861.758" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nicola_Hitchcock">
+            Nicola Hitchcock - female
+        </text>
+        <text font-size="24" x="443.47574" y="1758.6292" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Oliver_Heldens">
+            Oliver Heldens - male
+        </text>
+        <text font-size="24" x="251.34496" y="1981.7977" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Post_Malone">
+            Post Malone - male
+        </text>
+        <text font-size="24" x="582.1901" y="1629.8369" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Preme">
+            Preme - male
+        </text>
+        <text font-size="24" x="598.36426" y="1846.5492" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Rita_Ora">
+            Rita Ora - female
+        </text>
+        <text font-size="24" x="549.73444" y="1931.7861" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sean_Kingston">
+            Sean Kingston - male
+        </text>
+        <text font-size="24" x="397.38007" y="1624.2266" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sevenn">
+            Sevenn - unknown
+        </text>
+        <text font-size="24" x="-165.1244" y="1783.144" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Stevie_Appleton">
+            Stevie Appleton - male
+        </text>
+        <text font-size="24" x="806.7855" y="1629.8704" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Suzanne_Palmer">
+            Suzanne Palmer - female
+        </text>
+        <text font-size="24" x="340.60428" y="2007.0671" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tegan_and_Sara">
+            Tegan and Sara - unknown
+        </text>
+        <text font-size="24" x="594.83685" y="1557.6509" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_The_Chainsmokers">
+            The Chainsmokers - unknown
+        </text>
+        <text font-size="24" x="739.805" y="1537.9979" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Three_6_Mafia">
+            Three 6 Mafia - unknown
+        </text>
+        <text font-size="24" x="68.88552" y="1939.9856" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tomhio">
+            Tomhio - unknown
+        </text>
+        <text font-size="24" x="563.43317" y="1496.3112" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Twoloud">
+            Twoloud - unknown
+        </text>
+        <text font-size="24" x="98.43953" y="2029.1593" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_VER:WEST">
+            VER:WEST - male
+        </text>
+        <text font-size="24" x="726.6263" y="1772.1641" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Wolfgang_Gartner">
+            Wolfgang Gartner - male
+        </text>
+    </g>
+</svg>

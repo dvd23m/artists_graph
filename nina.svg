@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="613.03925"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-613.039246 0.000000 613.039246 662.311462" height="662.31146"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_Nina_Kraviz id_DANCE"
+              d="M -385.075714,504.317780 A 64.640736,64.640736 0,0 1,-429.385742,486.720673"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nina_Kraviz id_ELECTRONIC"
+              d="M -369.648926,517.836365 A 134.284523,134.284523 0,0 1,-438.440704,629.231689"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Nina_Kraviz id_HOUSE"
+              d="M -368.981964,487.195618 A 71.187754,71.187754 0,0 1,-339.051575,440.171509"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nina_Kraviz id_MINIMAL"
+              d="M -357.692017,493.161194 A 209.152112,209.152112 0,0 1,-130.658691,483.114655"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nina_Kraviz id_TECH_HOUSE"
+              d="M -362.603180,488.991608 A 216.033469,216.033469 0,0 1,-155.778214,382.696625"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nina_Kraviz id_DEEP_HOUSE"
+              d="M -378.154663,489.614685 A 82.292693,82.292693 0,0 1,-379.778320,417.055847"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nina_Kraviz id_TECHNO"
+              d="M -360.037354,490.722046 A 112.343097,112.343097 0,0 1,-257.067322,458.123016"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -369.850006,502.504364 C -339.183350,471.837708 -339.183350,533.171021 -369.850006,502.504364"
+              class="id_Nina_Kraviz" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nina_Kraviz id_Bodycode"
+              d="M -362.901550,516.172974 A 56.946631,56.946631 0,0 1,-365.471466,559.826721"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Nina_Kraviz id_DANCE"
+                  points="-431.244354,484.365753 -428.208282,485.791382 -430.563202,487.649963"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Nina_Kraviz id_ELECTRONIC"
+                  points="-441.166107,630.485596 -439.067657,627.869019 -437.813751,630.594360"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Nina_Kraviz id_HOUSE"
+                  points="-336.374664,438.817169 -338.374420,441.509949 -339.728729,438.833069"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Nina_Kraviz id_MINIMAL"
+                  points="-128.121094,484.714844 -131.458786,484.383453 -129.858597,481.845856"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Nina_Kraviz id_TECH_HOUSE"
+                  points="-152.804810,383.095276 -155.977524,384.183319 -155.578903,381.209930"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Nina_Kraviz id_DEEP_HOUSE"
+                  points="-378.267334,414.464142 -378.482452,417.811340 -381.074188,416.300354"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Nina_Kraviz id_TECHNO"
+                  points="-254.174896,458.919159 -257.465393,459.569244 -256.669250,456.676788"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Nina_Kraviz id_Bodycode"
+                  points="-367.083466,562.356873 -366.736542,559.020752 -364.206390,560.632690"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ff5584" r="14.651852" cx="-441.11093"
+                class="id_DANCE" cy="471.86432" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.5481482"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="16.287409" cx="-457.24933"
+                class="id_ELECTRONIC" cy="637.885" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.8325927"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="14.651852" cx="-322.16397"
+                class="id_HOUSE" cy="431.62753" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.5481482"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.745185" cx="-119.16121"
+                class="id_MINIMAL" cy="490.36493" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="13.016295" cx="-138.78212"
+                class="id_TECH_HOUSE" cy="384.97522" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.2637036"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="11.380741" cx="-372.0369"
+                class="id_DEEP_HOUSE" cy="403.77734" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.9792593"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="12.471111" cx="-241.1054"
+                class="id_TECHNO" cy="462.51657" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.1688888"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="14.1066675" cx="-369.85"
+                class="id_Nina_Kraviz" cy="502.50436" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.4533334"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="-372.45673"
+                class="id_Bodycode" cy="570.7906" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="38" x="-441.11093" y="478.89966" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DANCE">
+            DANCE -
+        </text>
+        <text font-size="42" x="-457.24933" y="645.6643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ELECTRONIC">
+            ELECTRONIC -
+        </text>
+        <text font-size="38" x="-322.16397" y="438.66595" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_HOUSE">
+            HOUSE -
+        </text>
+        <text font-size="25" x="-119.16121" y="494.8388" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MINIMAL">
+            MINIMAL -
+        </text>
+        <text font-size="34" x="-138.78212" y="391.27274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_TECH_HOUSE">
+            TECH HOUSE -
+        </text>
+        <text font-size="30" x="-372.0369" y="409.33398" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DEEP_HOUSE">
+            DEEP HOUSE -
+        </text>
+        <text font-size="33" x="-241.1054" y="468.62888" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_TECHNO">
+            TECHNO -
+        </text>
+        <text font-size="37" x="-369.85" y="509.3485" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nina_Kraviz">
+            Nina Kraviz - female
+        </text>
+        <text font-size="24" x="-372.45673" y="576.3492" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bodycode">
+            Bodycode - male
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,727 @@
+Source,Target,Type,Id,Label,Weight
+Afrojack,124 BPM,Directed,0,musical_genre,1
+Afrojack,DANCE,Directed,1,musical_genre,1
+Afrojack,DANCE AND HOUSE,Directed,2,musical_genre,1
+Afrojack,DANCE-POP,Directed,3,musical_genre,1
+Afrojack,DUTCH HOUSE,Directed,4,musical_genre,1
+Afrojack,ELECTRO,Directed,5,musical_genre,1
+Afrojack,ELECTRO HOUSE,Directed,6,musical_genre,1
+Afrojack,ELECTRONIC,Directed,7,musical_genre,1
+Afrojack,ELECTRONIC; POP,Directed,8,musical_genre,1
+Afrojack,EURO HOUSE,Directed,9,musical_genre,1
+Afrojack,HARD HOUSE,Directed,10,musical_genre,1
+Afrojack,HARDSTYLE,Directed,11,musical_genre,1
+Afrojack,HIP HOP,Directed,12,musical_genre,1
+Afrojack,HOUSE,Directed,13,musical_genre,1
+Afrojack,MINIMAL,Directed,14,musical_genre,1
+Afrojack,POP,Directed,15,musical_genre,1
+Afrojack,PROGRESSIVE HOUSE,Directed,16,musical_genre,1
+Afrojack,RAP,Directed,17,musical_genre,1
+Afrojack,TECH HOUSE,Directed,18,musical_genre,1
+Afrojack,TODD IN THE SHADOWS,Directed,19,musical_genre,1
+Afrojack,TRAP,Directed,20,musical_genre,1
+Afrojack,V A,Directed,21,musical_genre,1
+Afrojack,VOCAL,Directed,22,musical_genre,1
+Angerfist,ELECTRONIC,Directed,23,musical_genre,1
+Angerfist,GABBER,Directed,24,musical_genre,1
+Armin van Buuren,ARMIN VAN BUUREN,Directed,25,musical_genre,1
+Armin van Buuren,BALLAD,Directed,26,musical_genre,1
+Armin van Buuren,BEST OF,Directed,27,musical_genre,1
+Armin van Buuren,BIG ROOM HOUSE,Directed,28,musical_genre,1
+Armin van Buuren,BIG ROOM TRANCE,Directed,29,musical_genre,1
+Armin van Buuren,BREAKBEAT,Directed,30,musical_genre,1
+Armin van Buuren,BREAKS,Directed,31,musical_genre,1
+Armin van Buuren,CHRISTMAS,Directed,32,musical_genre,1
+Armin van Buuren,DANCE,Directed,33,musical_genre,1
+Armin van Buuren,DANCE-POP,Directed,34,musical_genre,1
+Armin van Buuren,DEEP TECHNO,Directed,35,musical_genre,1
+Armin van Buuren,DISCO,Directed,36,musical_genre,1
+Armin van Buuren,DOWNTEMPO,Directed,37,musical_genre,1
+Armin van Buuren,DUBSTEP,Directed,38,musical_genre,1
+Armin van Buuren,ELECTRO,Directed,39,musical_genre,1
+Armin van Buuren,ELECTRO HOUSE,Directed,40,musical_genre,1
+Armin van Buuren,ELECTRONIC,Directed,41,musical_genre,1
+Armin van Buuren,ELECTRONICA,Directed,42,musical_genre,1
+Armin van Buuren,EURO HOUSE,Directed,43,musical_genre,1
+Armin van Buuren,FUNK,Directed,44,musical_genre,1
+Armin van Buuren,HARD TRANCE,Directed,45,musical_genre,1
+Armin van Buuren,HARDSTYLE,Directed,46,musical_genre,1
+Armin van Buuren,HOUSE,Directed,47,musical_genre,1
+Armin van Buuren,MELODIC TRANCE,Directed,48,musical_genre,1
+Armin van Buuren,POP,Directed,49,musical_genre,1
+Armin van Buuren,PROGRESSIVE HOUSE,Directed,50,musical_genre,1
+Armin van Buuren,PROGRESSIVE TRANCE,Directed,51,musical_genre,1
+Armin van Buuren,SOUL,Directed,52,musical_genre,1
+Armin van Buuren,SYMPHONIC TRANCE,Directed,53,musical_genre,1
+Armin van Buuren,SYNTH-POP,Directed,54,musical_genre,1
+Armin van Buuren,TECH HOUSE,Directed,55,musical_genre,1
+Armin van Buuren,TECH TRANCE,Directed,56,musical_genre,1
+Armin van Buuren,TRANCE,Directed,57,musical_genre,1
+Armin van Buuren,TRAP EDM,Directed,58,musical_genre,1
+Armin van Buuren,TRIBAL HOUSE,Directed,59,musical_genre,1
+Armin van Buuren,UPLIFTING,Directed,60,musical_genre,1
+Armin van Buuren,UPLIFTING TRANCE,Directed,61,musical_genre,1
+Armin van Buuren,VOCAL TRANCE,Directed,62,musical_genre,1
+David Guetta,ACID HOUSE,Directed,63,musical_genre,1
+David Guetta,BIG ROOM,Directed,64,musical_genre,1
+David Guetta,DANCE,Directed,65,musical_genre,1
+David Guetta,DANCE-POP,Directed,66,musical_genre,1
+David Guetta,DAVID GUETTA,Directed,67,musical_genre,1
+David Guetta,DEEP HOUSE,Directed,68,musical_genre,1
+David Guetta,EDM,Directed,69,musical_genre,1
+David Guetta,ELECTRO,Directed,70,musical_genre,1
+David Guetta,ELECTRO HOUSE,Directed,71,musical_genre,1
+David Guetta,ELECTRO POP,Directed,72,musical_genre,1
+David Guetta,ELECTRONIC,Directed,73,musical_genre,1
+David Guetta,ELECTRONICA,Directed,74,musical_genre,1
+David Guetta,ELECTROPOP,Directed,75,musical_genre,1
+David Guetta,EURO HOUSE,Directed,76,musical_genre,1
+David Guetta,FUTURE BASS,Directed,77,musical_genre,1
+David Guetta,FUTURE BOUNCE,Directed,78,musical_genre,1
+David Guetta,HIP HOP,Directed,79,musical_genre,1
+David Guetta,HIP HOUSE,Directed,80,musical_genre,1
+David Guetta,HOUSE,Directed,81,musical_genre,1
+David Guetta,OTHER POP,Directed,82,musical_genre,1
+David Guetta,POP,Directed,83,musical_genre,1
+David Guetta,POP RAP,Directed,84,musical_genre,1
+David Guetta,PROGRESSIVE HOUSE,Directed,85,musical_genre,1
+David Guetta,REGGAE,Directed,86,musical_genre,1
+David Guetta,RHYTHM BLUES,Directed,87,musical_genre,1
+David Guetta,ROCK,Directed,88,musical_genre,1
+David Guetta,SYNTH-POP,Directed,89,musical_genre,1
+David Guetta,SYNTHWAVE,Directed,90,musical_genre,1
+David Guetta,TECH HOUSE,Directed,91,musical_genre,1
+David Guetta,TECHNO,Directed,92,musical_genre,1
+David Guetta,TODD IN THE SHADOWS,Directed,93,musical_genre,1
+David Guetta,TRAP,Directed,94,musical_genre,1
+David Guetta,VOCAL,Directed,95,musical_genre,1
+David Guetta,WHO S THAT CHICK,Directed,96,musical_genre,1
+Hardwell,BIG ROOM HOUSE,Directed,97,musical_genre,1
+Hardwell,DANCE,Directed,98,musical_genre,1
+Hardwell,DANCE-POP,Directed,99,musical_genre,1
+Hardwell,DUBSTEP,Directed,100,musical_genre,1
+Hardwell,EDM,Directed,101,musical_genre,1
+Hardwell,ELECTRO,Directed,102,musical_genre,1
+Hardwell,ELECTRO HOUSE,Directed,103,musical_genre,1
+Hardwell,ELECTRONIC,Directed,104,musical_genre,1
+Hardwell,ELECTROPOP,Directed,105,musical_genre,1
+Hardwell,EUPHORIC HARDSTYLE,Directed,106,musical_genre,1
+Hardwell,EURO HOUSE,Directed,107,musical_genre,1
+Hardwell,FESTIVAL PROGRESSIVE HOUSE,Directed,108,musical_genre,1
+Hardwell,HARD TECHNO,Directed,109,musical_genre,1
+Hardwell,HARDSTYLE,Directed,110,musical_genre,1
+Hardwell,HOUSE,Directed,111,musical_genre,1
+Hardwell,NEDERPOP,Directed,112,musical_genre,1
+Hardwell,POP,Directed,113,musical_genre,1
+Hardwell,PROGRESSIVE HOUSE,Directed,114,musical_genre,1
+Hardwell,PROGRESSIVE TRANCE,Directed,115,musical_genre,1
+Hardwell,SMILEY ON COVER,Directed,116,musical_genre,1
+Hardwell,SPOKEN WORD,Directed,117,musical_genre,1
+Hardwell,TECH HOUSE,Directed,118,musical_genre,1
+Hardwell,TECHNO,Directed,119,musical_genre,1
+Hardwell,TRIBAL HOUSE,Directed,120,musical_genre,1
+Miss K8,ELECTRONIC,Directed,121,musical_genre,1
+Miss K8,HARDCORE,Directed,122,musical_genre,1
+Miss Kittin,BREAKCORE,Directed,123,musical_genre,1
+Miss Kittin,BREAKS,Directed,124,musical_genre,1
+Miss Kittin,DANCE,Directed,125,musical_genre,1
+Miss Kittin,DISCO,Directed,126,musical_genre,1
+Miss Kittin,ELECTRO,Directed,127,musical_genre,1
+Miss Kittin,ELECTRONIC,Directed,128,musical_genre,1
+Miss Kittin,EXPERIMENTAL,Directed,129,musical_genre,1
+Miss Kittin,HOUSE,Directed,130,musical_genre,1
+Miss Kittin,IDM,Directed,131,musical_genre,1
+Miss Kittin,PROGRESSIVE HOUSE,Directed,132,musical_genre,1
+Miss Kittin,SYNTH-POP,Directed,133,musical_genre,1
+Miss Kittin,TECH HOUSE,Directed,134,musical_genre,1
+Miss Kittin,TECHNO,Directed,135,musical_genre,1
+Miss Kittin,TRANCE,Directed,136,musical_genre,1
+Miss Monique,ELECTRONIC,Directed,137,musical_genre,1
+Miss Monique,HOUSE,Directed,138,musical_genre,1
+Miss Monique,MELODIC TECHNO,Directed,139,musical_genre,1
+Miss Monique,PROGRESSIVE HOUSE,Directed,140,musical_genre,1
+Miss Monique,TECH HOUSE,Directed,141,musical_genre,1
+Miss Monique,TECHNO,Directed,142,musical_genre,1
+Nina Kraviz,DANCE,Directed,143,musical_genre,1
+Nina Kraviz,DEEP HOUSE,Directed,144,musical_genre,1
+Nina Kraviz,ELECTRONIC,Directed,145,musical_genre,1
+Nina Kraviz,HOUSE,Directed,146,musical_genre,1
+Nina Kraviz,MINIMAL,Directed,147,musical_genre,1
+Nina Kraviz,TECH HOUSE,Directed,148,musical_genre,1
+Nina Kraviz,TECHNO,Directed,149,musical_genre,1
+Nora en Pure,DANCE,Directed,150,musical_genre,1
+Nora en Pure,DEEP HOUSE,Directed,151,musical_genre,1
+Nora en Pure,DOWNTEMPO,Directed,152,musical_genre,1
+Nora en Pure,ELECTRONIC,Directed,153,musical_genre,1
+Nora en Pure,HOUSE,Directed,154,musical_genre,1
+Nora en Pure,PROGRESSIVE HOUSE,Directed,155,musical_genre,1
+Nora en Pure,PROGRESSIVE TRANCE,Directed,156,musical_genre,1
+Nora en Pure,TECHNO,Directed,157,musical_genre,1
+Paul Elstak,DANCE,Directed,158,musical_genre,1
+Paul Elstak,ELECTRONIC,Directed,159,musical_genre,1
+Paul Elstak,ELECTRONICA,Directed,160,musical_genre,1
+Paul Elstak,EURODANCE,Directed,161,musical_genre,1
+Paul Elstak,GABBER,Directed,162,musical_genre,1
+Paul Elstak,HAPPY HARDCORE,Directed,163,musical_genre,1
+Paul Elstak,HARD HOUSE,Directed,164,musical_genre,1
+Paul Elstak,HARDCORE,Directed,165,musical_genre,1
+Paul Elstak,HARDSTYLE,Directed,166,musical_genre,1
+Paul Elstak,ROCK,Directed,167,musical_genre,1
+Paul Elstak,TRANCE,Directed,168,musical_genre,1
+Scott Brown,DANCE,Directed,169,musical_genre,1
+Scott Brown,ELECTRONIC,Directed,170,musical_genre,1
+Scott Brown,GABBER,Directed,171,musical_genre,1
+Scott Brown,HAPPY HARDCORE,Directed,172,musical_genre,1
+Scott Brown,HARD HOUSE,Directed,173,musical_genre,1
+Scott Brown,HARD TRANCE,Directed,174,musical_genre,1
+Scott Brown,HARDCORE,Directed,175,musical_genre,1
+Scott Brown,HARDSTYLE,Directed,176,musical_genre,1
+Scott Brown,HOUSE,Directed,177,musical_genre,1
+Scott Brown,POP,Directed,178,musical_genre,1
+Scott Brown,ROCK,Directed,179,musical_genre,1
+Scott Brown,TRANCE,Directed,180,musical_genre,1
+Scott Brown,UK HARDCORE,Directed,181,musical_genre,1
+Steve Aoki,ALTERNATIVE ROCK,Directed,182,musical_genre,1
+Steve Aoki,BASSLINE,Directed,183,musical_genre,1
+Steve Aoki,BIG ROOM HOUSE,Directed,184,musical_genre,1
+Steve Aoki,BREAKS,Directed,185,musical_genre,1
+Steve Aoki,DANCE,Directed,186,musical_genre,1
+Steve Aoki,DANCE-POP,Directed,187,musical_genre,1
+Steve Aoki,DEEP HOUSE,Directed,188,musical_genre,1
+Steve Aoki,DUBSTEP,Directed,189,musical_genre,1
+Steve Aoki,DUTCH HOUSE,Directed,190,musical_genre,1
+Steve Aoki,EDM,Directed,191,musical_genre,1
+Steve Aoki,ELECTRO,Directed,192,musical_genre,1
+Steve Aoki,ELECTRO HOUSE,Directed,193,musical_genre,1
+Steve Aoki,ELECTRONIC,Directed,194,musical_genre,1
+Steve Aoki,ELECTRONICA,Directed,195,musical_genre,1
+Steve Aoki,ELECTROPOP,Directed,196,musical_genre,1
+Steve Aoki,FESTIVAL PROGRESSIVE HOUSE,Directed,197,musical_genre,1
+Steve Aoki,HARDSTYLE,Directed,198,musical_genre,1
+Steve Aoki,HIP HOP,Directed,199,musical_genre,1
+Steve Aoki,HIP HOUSE,Directed,200,musical_genre,1
+Steve Aoki,HOUSE,Directed,201,musical_genre,1
+Steve Aoki,MOOMBAHTON,Directed,202,musical_genre,1
+Steve Aoki,POP,Directed,203,musical_genre,1
+Steve Aoki,PROGRESSIVE HOUSE,Directed,204,musical_genre,1
+Steve Aoki,ROCK,Directed,205,musical_genre,1
+Steve Aoki,TRAP EDM,Directed,206,musical_genre,1
+Tiësto,BASSLINE,Directed,207,musical_genre,1
+Tiësto,DANCE,Directed,208,musical_genre,1
+Tiësto,DANCE-POP,Directed,209,musical_genre,1
+Tiësto,DEEP HOUSE,Directed,210,musical_genre,1
+Tiësto,DUBSTEP,Directed,211,musical_genre,1
+Tiësto,DUTCH TRANCE,Directed,212,musical_genre,1
+Tiësto,ELECTRO,Directed,213,musical_genre,1
+Tiësto,ELECTRO HOUSE,Directed,214,musical_genre,1
+Tiësto,ELECTRONIC,Directed,215,musical_genre,1
+Tiësto,ELECTROPOP,Directed,216,musical_genre,1
+Tiësto,EURO HOUSE,Directed,217,musical_genre,1
+Tiësto,FESTIVAL PROGRESSIVE HOUSE,Directed,218,musical_genre,1
+Tiësto,HARD TRANCE,Directed,219,musical_genre,1
+Tiësto,HARDSTYLE,Directed,220,musical_genre,1
+Tiësto,HIP HOP,Directed,221,musical_genre,1
+Tiësto,HOUSE,Directed,222,musical_genre,1
+Tiësto,MALE VOCAL TRANCE,Directed,223,musical_genre,1
+Tiësto,MALE VOCALS,Directed,224,musical_genre,1
+Tiësto,POP,Directed,225,musical_genre,1
+Tiësto,PROGRESSIVE HOUSE,Directed,226,musical_genre,1
+Tiësto,PROGRESSIVE TRANCE,Directed,227,musical_genre,1
+Tiësto,PSYTRANCE,Directed,228,musical_genre,1
+Tiësto,RNB,Directed,229,musical_genre,1
+Tiësto,SPOKEN VOCALS,Directed,230,musical_genre,1
+Tiësto,SWING,Directed,231,musical_genre,1
+Tiësto,TECH HOUSE,Directed,232,musical_genre,1
+Tiësto,TECH TRANCE,Directed,233,musical_genre,1
+Tiësto,TECHNO,Directed,234,musical_genre,1
+Tiësto,TRANCE,Directed,235,musical_genre,1
+Tiësto,TRAP,Directed,236,musical_genre,1
+Tiësto,TRIBAL HOUSE,Directed,237,musical_genre,1
+Tiësto,VOCAL TRANCE,Directed,238,musical_genre,1
+Afrojack,Afrojack,Directed,239,collaboration,1
+Afrojack,Ally Brooke,Directed,240,collaboration,1
+Afrojack,Azteck,Directed,241,collaboration,1
+Afrojack,Bobby Burns,Directed,242,collaboration,1
+Afrojack,Charli XCX,Directed,243,collaboration,1
+Afrojack,Chico Rose,Directed,244,collaboration,1
+Afrojack,D.O.D.,Directed,245,collaboration,1
+Afrojack,David Guetta,Directed,246,collaboration,1
+Afrojack,Dirtcaps,Directed,247,collaboration,1
+Afrojack,DubVision,Directed,248,collaboration,1
+Afrojack,Ester Dean,Directed,249,collaboration,1
+Afrojack,Eva Simons,Directed,250,collaboration,1
+Afrojack,French Montana,Directed,251,collaboration,1
+Afrojack,Gia Koka,Directed,252,collaboration,1
+Afrojack,Hawkboy,Directed,253,collaboration,1
+Afrojack,Icona Pop,Directed,254,collaboration,1
+Afrojack,Imanbek,Directed,255,collaboration,1
+Afrojack,Jeremih,Directed,256,collaboration,1
+Afrojack,Jewelz & Sparks,Directed,257,collaboration,1
+Afrojack,Keane,Directed,258,collaboration,1
+Afrojack,Laidback Luke,Directed,259,collaboration,1
+Afrojack,Lucas & Steve,Directed,260,collaboration,1
+Afrojack,Major Lazer,Directed,261,collaboration,1
+Afrojack,Mike Taylor,Directed,262,collaboration,1
+Afrojack,Miss Palmer,Directed,263,collaboration,1
+Afrojack,Nayer,Directed,264,collaboration,1
+Afrojack,Never Sleeps,Directed,265,collaboration,1
+Afrojack,Ne‐Yo,Directed,266,collaboration,1
+Afrojack,Nicki Minaj,Directed,267,collaboration,1
+Afrojack,Niles Mason,Directed,268,collaboration,1
+Afrojack,Oliver Rosa,Directed,269,collaboration,1
+Afrojack,Pitbull,Directed,270,collaboration,1
+Afrojack,Quintino,Directed,271,collaboration,1
+Afrojack,R3HAB,Directed,272,collaboration,1
+Afrojack,Shermanology,Directed,273,collaboration,1
+Afrojack,Sia,Directed,274,collaboration,1
+Afrojack,Snoop Dogg,Directed,275,collaboration,1
+Afrojack,Spree Wilson,Directed,276,collaboration,1
+Afrojack,Stanaj,Directed,277,collaboration,1
+Afrojack,Steve Aoki,Directed,278,collaboration,1
+Afrojack,Stush,Directed,279,collaboration,1
+Afrojack,TIM-BER,Directed,280,collaboration,1
+Afrojack,The Partysquad,Directed,281,collaboration,1
+Afrojack,Thirty Seconds to Mars,Directed,282,collaboration,1
+Afrojack,Timmy Trumpet,Directed,283,collaboration,1
+Afrojack,Ty Dolla $ign,Directed,284,collaboration,1
+Afrojack,Vassy,Directed,285,collaboration,1
+Afrojack,Vybz Kartel,Directed,286,collaboration,1
+Afrojack,Wrabel,Directed,287,collaboration,1
+Afrojack,Yves V,Directed,288,collaboration,1
+Angerfist,Angerfist,Directed,289,collaboration,1
+Angerfist,DJ Outblast,Directed,290,collaboration,1
+Angerfist,DJ Vince,Directed,291,collaboration,1
+Angerfist,MC Nolz,Directed,292,collaboration,1
+Angerfist,MC Tha Watcher,Directed,293,collaboration,1
+Angerfist,Miss K8,Directed,294,collaboration,1
+Angerfist,Predator,Directed,295,collaboration,1
+Armin van Buuren,ARTY,Directed,296,collaboration,1
+Armin van Buuren,Adam Young,Directed,297,collaboration,1
+Armin van Buuren,Alesso,Directed,298,collaboration,1
+Armin van Buuren,Alok,Directed,299,collaboration,1
+Armin van Buuren,Ana Criado,Directed,300,collaboration,1
+Armin van Buuren,Andreas Moe,Directed,301,collaboration,1
+Armin van Buuren,Andrew Rayel,Directed,302,collaboration,1
+Armin van Buuren,Armin van Buuren,Directed,303,collaboration,1
+Armin van Buuren,Avalan,Directed,304,collaboration,1
+Armin van Buuren,Blasterjaxx,Directed,305,collaboration,1
+Armin van Buuren,Bonnie McKee,Directed,306,collaboration,1
+Armin van Buuren,Brennan Heart,Directed,307,collaboration,1
+Armin van Buuren,Chris Jones,Directed,308,collaboration,1
+Armin van Buuren,Christian Burns,Directed,309,collaboration,1
+Armin van Buuren,Cindy Alma,Directed,310,collaboration,1
+Armin van Buuren,DJ Remy & Roland Klinkenberg,Directed,311,collaboration,1
+Armin van Buuren,DJ Shah,Directed,312,collaboration,1
+Armin van Buuren,Darkstar,Directed,313,collaboration,1
+Armin van Buuren,Davina Michelle,Directed,314,collaboration,1
+Armin van Buuren,Dimitri Vegas & Like Mike,Directed,315,collaboration,1
+Armin van Buuren,DubVision,Directed,316,collaboration,1
+Armin van Buuren,Duncan Laurence,Directed,317,collaboration,1
+Armin van Buuren,Eric Vloeimans,Directed,318,collaboration,1
+Armin van Buuren,Fatum,Directed,319,collaboration,1
+Armin van Buuren,Ferry Corsten,Directed,320,collaboration,1
+Armin van Buuren,Fiora,Directed,321,collaboration,1
+Armin van Buuren,Gaia,Directed,322,collaboration,1
+Armin van Buuren,Garibay,Directed,323,collaboration,1
+Armin van Buuren,Gimmick,Directed,324,collaboration,1
+Armin van Buuren,Herman Brood,Directed,325,collaboration,1
+Armin van Buuren,Human Resource,Directed,326,collaboration,1
+Armin van Buuren,Jacqueline Govaert,Directed,327,collaboration,1
+Armin van Buuren,James Newman,Directed,328,collaboration,1
+Armin van Buuren,Jan Vayne,Directed,329,collaboration,1
+Armin van Buuren,Jean‐Michel Jarre,Directed,330,collaboration,1
+Armin van Buuren,Jennifer Rene,Directed,331,collaboration,1
+Armin van Buuren,Josh Cumbee,Directed,332,collaboration,1
+Armin van Buuren,Justine Suissa,Directed,333,collaboration,1
+Armin van Buuren,Kensington,Directed,334,collaboration,1
+Armin van Buuren,Kush,Directed,335,collaboration,1
+Armin van Buuren,Laura V,Directed,336,collaboration,1
+Armin van Buuren,M.I.K.E.,Directed,337,collaboration,1
+Armin van Buuren,MaRLo,Directed,338,collaboration,1
+Armin van Buuren,Major League,Directed,339,collaboration,1
+Armin van Buuren,Marco Borsato,Directed,340,collaboration,1
+Armin van Buuren,Mark Sixma,Directed,341,collaboration,1
+Armin van Buuren,Markus Schulz,Directed,342,collaboration,1
+Armin van Buuren,Mila Josef,Directed,343,collaboration,1
+Armin van Buuren,Mr. Probz,Directed,344,collaboration,1
+Armin van Buuren,Nadia Ali,Directed,345,collaboration,1
+Armin van Buuren,Olaf Blackwood,Directed,346,collaboration,1
+Armin van Buuren,Perpetuous Dreamer,Directed,347,collaboration,1
+Armin van Buuren,Racoon,Directed,348,collaboration,1
+Armin van Buuren,Rank 1,Directed,349,collaboration,1
+Armin van Buuren,Ray Wilson,Directed,350,collaboration,1
+Armin van Buuren,Rising Star,Directed,351,collaboration,1
+Armin van Buuren,Sam Gray,Directed,352,collaboration,1
+Armin van Buuren,Sam Martin,Directed,353,collaboration,1
+Armin van Buuren,Sharon den Adel,Directed,354,collaboration,1
+Armin van Buuren,Sophie Ellis‐Bextor,Directed,355,collaboration,1
+Armin van Buuren,Sunnery James & Ryan Marciano,Directed,356,collaboration,1
+Armin van Buuren,Susana,Directed,357,collaboration,1
+Armin van Buuren,System F,Directed,358,collaboration,1
+Armin van Buuren,Timmy Trumpet,Directed,359,collaboration,1
+Armin van Buuren,Tiësto,Directed,360,collaboration,1
+Armin van Buuren,Tony Scott,Directed,361,collaboration,1
+Armin van Buuren,Trevor Guthrie,Directed,362,collaboration,1
+Armin van Buuren,VanVelzen,Directed,363,collaboration,1
+Armin van Buuren,Vini Vici,Directed,364,collaboration,1
+Armin van Buuren,W&W,Directed,365,collaboration,1
+Armin van Buuren,YOU,Directed,366,collaboration,1
+Armin van Buuren,Ørjan Nilsen,Directed,367,collaboration,1
+David Guetta,A Boogie Wit da Hoodie,Directed,368,collaboration,1
+David Guetta,Afro Bros,Directed,369,collaboration,1
+David Guetta,Afrojack,Directed,370,collaboration,1
+David Guetta,Akon,Directed,371,collaboration,1
+David Guetta,Aloe Blacc,Directed,372,collaboration,1
+David Guetta,Anne‐Marie,Directed,373,collaboration,1
+David Guetta,Bebe Rexha,Directed,374,collaboration,1
+David Guetta,Becky G,Directed,375,collaboration,1
+David Guetta,Becky Hill,Directed,376,collaboration,1
+David Guetta,Black Coffee,Directed,377,collaboration,1
+David Guetta,Brooks,Directed,378,collaboration,1
+David Guetta,Bruno Mars,Directed,379,collaboration,1
+David Guetta,Bryson Tiller,Directed,380,collaboration,1
+David Guetta,Cedric Gervais,Directed,381,collaboration,1
+David Guetta,Charli XCX,Directed,382,collaboration,1
+David Guetta,Cheat Codes,Directed,383,collaboration,1
+David Guetta,Chris Brown,Directed,384,collaboration,1
+David Guetta,Chris Willis,Directed,385,collaboration,1
+David Guetta,Cozi,Directed,386,collaboration,1
+David Guetta,Daddy Yankee,Directed,387,collaboration,1
+David Guetta,David Bowie,Directed,388,collaboration,1
+David Guetta,David Guetta,Directed,389,collaboration,1
+David Guetta,Delilah Montagu,Directed,390,collaboration,1
+David Guetta,Devito,Directed,391,collaboration,1
+David Guetta,Dimitri Vegas & Like Mike,Directed,392,collaboration,1
+David Guetta,Ella Henderson,Directed,393,collaboration,1
+David Guetta,Emeli Sandé,Directed,394,collaboration,1
+David Guetta,Estelle,Directed,395,collaboration,1
+David Guetta,Ester Dean,Directed,396,collaboration,1
+David Guetta,Faithless,Directed,397,collaboration,1
+David Guetta,Fat Joe,Directed,398,collaboration,1
+David Guetta,Felix da Housecat,Directed,399,collaboration,1
+David Guetta,Fergie,Directed,400,collaboration,1
+David Guetta,Fetty Wap,Directed,401,collaboration,1
+David Guetta,Flo Rida,Directed,402,collaboration,1
+David Guetta,French Montana,Directed,403,collaboration,1
+David Guetta,GLOWINTHEDARK,Directed,404,collaboration,1
+David Guetta,Galantis,Directed,405,collaboration,1
+David Guetta,Harrison,Directed,406,collaboration,1
+David Guetta,Infa‐Red,Directed,407,collaboration,1
+David Guetta,JD Davis,Directed,408,collaboration,1
+David Guetta,Jack Back,Directed,409,collaboration,1
+David Guetta,Jamie Scott,Directed,410,collaboration,1
+David Guetta,Jason Derulo,Directed,411,collaboration,1
+David Guetta,Joel Corry,Directed,412,collaboration,1
+David Guetta,John Newman,Directed,413,collaboration,1
+David Guetta,Justin Bieber,Directed,414,collaboration,1
+David Guetta,Kaz James,Directed,415,collaboration,1
+David Guetta,Kelly Rowland,Directed,416,collaboration,1
+David Guetta,Kid Cudi,Directed,417,collaboration,1
+David Guetta,Kiiara,Directed,418,collaboration,1
+David Guetta,LMFAO,Directed,419,collaboration,1
+David Guetta,Lanie Gardner,Directed,420,collaboration,1
+David Guetta,Lil Wayne,Directed,421,collaboration,1
+David Guetta,Little Mix,Directed,422,collaboration,1
+David Guetta,Loote,Directed,423,collaboration,1
+David Guetta,Lovespeake,Directed,424,collaboration,1
+David Guetta,Ludacris,Directed,425,collaboration,1
+David Guetta,MAGIC!,Directed,426,collaboration,1
+David Guetta,MORTEN,Directed,427,collaboration,1
+David Guetta,Martin Garrix,Directed,428,collaboration,1
+David Guetta,Martin Solveig,Directed,429,collaboration,1
+David Guetta,Max Elto,Directed,430,collaboration,1
+David Guetta,Miss Kittin,Directed,431,collaboration,1
+David Guetta,MistaJam,Directed,432,collaboration,1
+David Guetta,Moné,Directed,433,collaboration,1
+David Guetta,Natti Natasha,Directed,434,collaboration,1
+David Guetta,Netsky,Directed,435,collaboration,1
+David Guetta,Ne‐Yo,Directed,436,collaboration,1
+David Guetta,Nicki Minaj,Directed,437,collaboration,1
+David Guetta,Nicky Romero,Directed,438,collaboration,1
+David Guetta,Niles Mason,Directed,439,collaboration,1
+David Guetta,RAYE,Directed,440,collaboration,1
+David Guetta,Remy Ma,Directed,441,collaboration,1
+David Guetta,Rihanna,Directed,442,collaboration,1
+David Guetta,Robert Owens,Directed,443,collaboration,1
+David Guetta,Robin Schulz,Directed,444,collaboration,1
+David Guetta,Roland Clark,Directed,445,collaboration,1
+David Guetta,Romy Dya,Directed,446,collaboration,1
+David Guetta,Sam Martin,Directed,447,collaboration,1
+David Guetta,Sam Ryder,Directed,448,collaboration,1
+David Guetta,Sean Paul,Directed,449,collaboration,1
+David Guetta,Sebastian Ingrosso,Directed,450,collaboration,1
+David Guetta,Showtek,Directed,451,collaboration,1
+David Guetta,Sia,Directed,452,collaboration,1
+David Guetta,Sigala,Directed,453,collaboration,1
+David Guetta,Skylar Grey,Directed,454,collaboration,1
+David Guetta,Snoop Dogg,Directed,455,collaboration,1
+David Guetta,Sonny Wilson,Directed,456,collaboration,1
+David Guetta,Steve Angello,Directed,457,collaboration,1
+David Guetta,Taio Cruz,Directed,458,collaboration,1
+David Guetta,The Egg,Directed,459,collaboration,1
+David Guetta,Tocadisco,Directed,460,collaboration,1
+David Guetta,Tom Staar,Directed,461,collaboration,1
+David Guetta,Ty Dolla $ign,Directed,462,collaboration,1
+David Guetta,Usher,Directed,463,collaboration,1
+David Guetta,Vassy,Directed,464,collaboration,1
+David Guetta,Willy William,Directed,465,collaboration,1
+David Guetta,Zara Larsson,Directed,466,collaboration,1
+Hardwell,4 Strings,Directed,467,collaboration,1
+Hardwell,Amba Shepherd,Directed,468,collaboration,1
+Hardwell,Ambush,Directed,469,collaboration,1
+Hardwell,Austin Mahone,Directed,470,collaboration,1
+Hardwell,Bizzey,Directed,471,collaboration,1
+Hardwell,Blasterjaxx,Directed,472,collaboration,1
+Hardwell,Bright Lights,Directed,473,collaboration,1
+Hardwell,Cam Meekins,Directed,474,collaboration,1
+Hardwell,Chivv,Directed,475,collaboration,1
+Hardwell,Chris Jones,Directed,476,collaboration,1
+Hardwell,Chuckie,Directed,477,collaboration,1
+Hardwell,Conor Maynard,Directed,478,collaboration,1
+Hardwell,Dannic,Directed,479,collaboration,1
+Hardwell,Deorro,Directed,480,collaboration,1
+Hardwell,Dyro,Directed,481,collaboration,1
+Hardwell,Fatman Scoop,Directed,482,collaboration,1
+Hardwell,Franky Rizardo,Directed,483,collaboration,1
+Hardwell,Funkadelic,Directed,484,collaboration,1
+Hardwell,Hardwell,Directed,485,collaboration,1
+Hardwell,Haris,Directed,486,collaboration,1
+Hardwell,Harrison,Directed,487,collaboration,1
+Hardwell,Henry Fong,Directed,488,collaboration,1
+Hardwell,I-Fan,Directed,489,collaboration,1
+Hardwell,Jake Reese,Directed,490,collaboration,1
+Hardwell,Joey Dale,Directed,491,collaboration,1
+Hardwell,Joeysuki,Directed,492,collaboration,1
+Hardwell,KSHMR,Directed,493,collaboration,1
+Hardwell,Kaaze,Directed,494,collaboration,1
+Hardwell,Kelli‐Leigh,Directed,495,collaboration,1
+Hardwell,KiFi,Directed,496,collaboration,1
+Hardwell,Lil Jon,Directed,497,collaboration,1
+Hardwell,Lil’ Kleine,Directed,498,collaboration,1
+Hardwell,Luciana,Directed,499,collaboration,1
+Hardwell,MAKJ,Directed,500,collaboration,1
+Hardwell,Maddix,Directed,501,collaboration,1
+Hardwell,Matthew Koma,Directed,502,collaboration,1
+Hardwell,Mitch Crown,Directed,503,collaboration,1
+Hardwell,Mr. Vegas,Directed,504,collaboration,1
+Hardwell,Nicky Romero,Directed,505,collaboration,1
+Hardwell,Quintino,Directed,506,collaboration,1
+Hardwell,R3HAB,Directed,507,collaboration,1
+Hardwell,Red Carpet,Directed,508,collaboration,1
+Hardwell,Richie Loop,Directed,509,collaboration,1
+Hardwell,Showtek,Directed,510,collaboration,1
+Hardwell,Snoop Dogg,Directed,511,collaboration,1
+Hardwell,Sub Zero Project,Directed,512,collaboration,1
+Hardwell,Suyano,Directed,513,collaboration,1
+Hardwell,Thomas Newson,Directed,514,collaboration,1
+Hardwell,Timmy Trumpet,Directed,515,collaboration,1
+Hardwell,Trevor Guthrie,Directed,516,collaboration,1
+Hardwell,VINAI,Directed,517,collaboration,1
+Hardwell,W&W,Directed,518,collaboration,1
+Hardwell,Wildstylez,Directed,519,collaboration,1
+Miss K8,Angerfist,Directed,520,collaboration,1
+Miss K8,Miss K8,Directed,521,collaboration,1
+Miss Kittin,ANNA,Directed,522,collaboration,1
+Miss Kittin,David Guetta,Directed,523,collaboration,1
+Miss Kittin,Felix da Housecat,Directed,524,collaboration,1
+Miss Kittin,Golden Boy,Directed,525,collaboration,1
+Miss Kittin,Guy Gerber,Directed,526,collaboration,1
+Miss Kittin,Kris Menace,Directed,527,collaboration,1
+Miss Kittin,Miss Kittin,Directed,528,collaboration,1
+Miss Monique,Miss Monique,Directed,529,collaboration,1
+Miss Monique,The Alexsander,Directed,530,collaboration,1
+Miss Monique,Vania,Directed,531,collaboration,1
+Nina Kraviz,Bodycode,Directed,532,collaboration,1
+Nina Kraviz,Nina Kraviz,Directed,533,collaboration,1
+Nora en Pure,Ashibah,Directed,534,collaboration,1
+Nora en Pure,Nora en Pure,Directed,535,collaboration,1
+Nora en Pure,Passenger 10,Directed,536,collaboration,1
+Nora en Pure,Penny Foster,Directed,537,collaboration,1
+Nora en Pure,Redondo,Directed,538,collaboration,1
+Paul Elstak,Attic & Stylzz,Directed,539,collaboration,1
+Paul Elstak,DJ Dione,Directed,540,collaboration,1
+Paul Elstak,DJ Distortion,Directed,541,collaboration,1
+Paul Elstak,DJ Panic,Directed,542,collaboration,1
+Paul Elstak,DJ Rob,Directed,543,collaboration,1
+Paul Elstak,Firestone,Directed,544,collaboration,1
+Paul Elstak,Jantine,Directed,545,collaboration,1
+Paul Elstak,Lenny Dee,Directed,546,collaboration,1
+Paul Elstak,MC Hughie Babe,Directed,547,collaboration,1
+Paul Elstak,New Kids,Directed,548,collaboration,1
+Paul Elstak,Paul Elstak,Directed,549,collaboration,1
+Paul Elstak,Psycho Boys Club,Directed,550,collaboration,1
+Paul Elstak,Restrained,Directed,551,collaboration,1
+Paul Elstak,Scott Brown,Directed,552,collaboration,1
+Paul Elstak,Teenage Warning,Directed,553,collaboration,1
+Paul Elstak,The Stunned Guys,Directed,554,collaboration,1
+Paul Elstak,Tommyknocker,Directed,555,collaboration,1
+Paul Elstak,Urban Menace,Directed,556,collaboration,1
+Scott Brown,Bridson,Directed,557,collaboration,1
+Scott Brown,Brisk & Trixxy,Directed,558,collaboration,1
+Scott Brown,Ceci,Directed,559,collaboration,1
+Scott Brown,DJ Brisk,Directed,560,collaboration,1
+Scott Brown,DJ Neophyte,Directed,561,collaboration,1
+Scott Brown,DJ Rab S,Directed,562,collaboration,1
+Scott Brown,Ganah,Directed,563,collaboration,1
+Scott Brown,Gillian Tennant,Directed,564,collaboration,1
+Scott Brown,Kelly C,Directed,565,collaboration,1
+Scott Brown,Marc Smith,Directed,566,collaboration,1
+Scott Brown,Mark Smith,Directed,567,collaboration,1
+Scott Brown,Paul Elstak,Directed,568,collaboration,1
+Scott Brown,Plus System,Directed,569,collaboration,1
+Scott Brown,Re-Style,Directed,570,collaboration,1
+Scott Brown,Scott Brown,Directed,571,collaboration,1
+Scott Brown,Si Thompson,Directed,572,collaboration,1
+Scott Brown,Special D.,Directed,573,collaboration,1
+Scott Brown,Ultrabeat,Directed,574,collaboration,1
+Steve Aoki,2 Chainz,Directed,575,collaboration,1
+Steve Aoki,AJ Mitchell,Directed,576,collaboration,1
+Steve Aoki,Adam Lambert,Directed,577,collaboration,1
+Steve Aoki,Afrojack,Directed,578,collaboration,1
+Steve Aoki,Alan Walker,Directed,579,collaboration,1
+Steve Aoki,Alok,Directed,580,collaboration,1
+Steve Aoki,Angger Dimas,Directed,581,collaboration,1
+Steve Aoki,BTS,Directed,582,collaboration,1
+Steve Aoki,Backstreet Boys,Directed,583,collaboration,1
+Steve Aoki,Boehm,Directed,584,collaboration,1
+Steve Aoki,Chiddy Bang,Directed,585,collaboration,1
+Steve Aoki,Chris Lake,Directed,586,collaboration,1
+Steve Aoki,DJ Diesel,Directed,587,collaboration,1
+Steve Aoki,DVBBS,Directed,588,collaboration,1
+Steve Aoki,Daddy Yankee,Directed,589,collaboration,1
+Steve Aoki,Dagny,Directed,590,collaboration,1
+Steve Aoki,Darren Criss,Directed,591,collaboration,1
+Steve Aoki,Deorro,Directed,592,collaboration,1
+Steve Aoki,Diana Gordon,Directed,593,collaboration,1
+Steve Aoki,Dimitri Vegas & Like Mike,Directed,594,collaboration,1
+Steve Aoki,Diplo,Directed,595,collaboration,1
+Steve Aoki,Don Diablo,Directed,596,collaboration,1
+Steve Aoki,Dr. Phunk,Directed,597,collaboration,1
+Steve Aoki,Elvis Crespo,Directed,598,collaboration,1
+Steve Aoki,Fall Out Boy,Directed,599,collaboration,1
+Steve Aoki,Felix Jaehn,Directed,600,collaboration,1
+Steve Aoki,Flux Pavilion,Directed,601,collaboration,1
+Steve Aoki,Frank Walker,Directed,602,collaboration,1
+Steve Aoki,ISÁK,Directed,603,collaboration,1
+Steve Aoki,Iggy Azalea,Directed,604,collaboration,1
+Steve Aoki,Ina Wroldsen,Directed,605,collaboration,1
+Steve Aoki,Kid Ink,Directed,606,collaboration,1
+Steve Aoki,Kiiara,Directed,607,collaboration,1
+Steve Aoki,Kris Kiss,Directed,608,collaboration,1
+Steve Aoki,LAY,Directed,609,collaboration,1
+Steve Aoki,Laidback Luke,Directed,610,collaboration,1
+Steve Aoki,Lil Jon,Directed,611,collaboration,1
+Steve Aoki,Linkin Park,Directed,612,collaboration,1
+Steve Aoki,Louis Tomlinson,Directed,613,collaboration,1
+Steve Aoki,Lush & Simon,Directed,614,collaboration,1
+Steve Aoki,MAKJ,Directed,615,collaboration,1
+Steve Aoki,MONSTA X,Directed,616,collaboration,1
+Steve Aoki,Marnik,Directed,617,collaboration,1
+Steve Aoki,Matthew Koma,Directed,618,collaboration,1
+Steve Aoki,Max Styler,Directed,619,collaboration,1
+Steve Aoki,Miss Palmer,Directed,620,collaboration,1
+Steve Aoki,Moxie Raia,Directed,621,collaboration,1
+Steve Aoki,My Name Is Kay,Directed,622,collaboration,1
+Steve Aoki,NERVO,Directed,623,collaboration,1
+Steve Aoki,Nicholas Furlong,Directed,624,collaboration,1
+Steve Aoki,Nicky Romero,Directed,625,collaboration,1
+Steve Aoki,Play-N-Skillz,Directed,626,collaboration,1
+Steve Aoki,Quintino,Directed,627,collaboration,1
+Steve Aoki,R3HAB,Directed,628,collaboration,1
+Steve Aoki,RUNN,Directed,629,collaboration,1
+Steve Aoki,Rich the Kid,Directed,630,collaboration,1
+Steve Aoki,Rivers Cuomo,Directed,631,collaboration,1
+Steve Aoki,Rune RK,Directed,632,collaboration,1
+Steve Aoki,SEKAI NO OWARI,Directed,633,collaboration,1
+Steve Aoki,SHAED,Directed,634,collaboration,1
+Steve Aoki,Sherry St. Germain,Directed,635,collaboration,1
+Steve Aoki,Showtek,Directed,636,collaboration,1
+Steve Aoki,Sidney Samson,Directed,637,collaboration,1
+Steve Aoki,Steve Aoki,Directed,638,collaboration,1
+Steve Aoki,Sting,Directed,639,collaboration,1
+Steve Aoki,The Bloody Beetroots,Directed,640,collaboration,1
+Steve Aoki,Timmy Trumpet,Directed,641,collaboration,1
+Steve Aoki,Tiësto,Directed,642,collaboration,1
+Steve Aoki,Tony Junior,Directed,643,collaboration,1
+Steve Aoki,Tujamo,Directed,644,collaboration,1
+Steve Aoki,Ummet Ozcan,Directed,645,collaboration,1
+Steve Aoki,Waka Flocka Flame,Directed,646,collaboration,1
+Steve Aoki,Walk off the Earth,Directed,647,collaboration,1
+Steve Aoki,Yellow Claw,Directed,648,collaboration,1
+Steve Aoki,Young Egypt,Directed,649,collaboration,1
+Steve Aoki,blink‐182,Directed,650,collaboration,1
+Steve Aoki,iLoveMakonnen,Directed,651,collaboration,1
+Steve Aoki,will.i.am,Directed,652,collaboration,1
+Tiësto,Allure,Directed,653,collaboration,1
+Tiësto,Alvaro,Directed,654,collaboration,1
+Tiësto,Armin van Buuren,Directed,655,collaboration,1
+Tiësto,Ava Max,Directed,656,collaboration,1
+Tiësto,BT,Directed,657,collaboration,1
+Tiësto,Becky Hill,Directed,658,collaboration,1
+Tiësto,Black Eyed Peas,Directed,659,collaboration,1
+Tiësto,Bobby Puma,Directed,660,collaboration,1
+Tiësto,Bright Sparks,Directed,661,collaboration,1
+Tiësto,Busta Rhymes,Directed,662,collaboration,1
+Tiësto,C.C. Sheffield,Directed,663,collaboration,1
+Tiësto,Christian Burns,Directed,664,collaboration,1
+Tiësto,DallasK,Directed,665,collaboration,1
+Tiësto,Delayers,Directed,666,collaboration,1
+Tiësto,Dino Lenny,Directed,667,collaboration,1
+Tiësto,Diplo,Directed,668,collaboration,1
+Tiësto,Disco Fries,Directed,669,collaboration,1
+Tiësto,Dzeko,Directed,670,collaboration,1
+Tiësto,Farruko,Directed,671,collaboration,1
+Tiësto,Flo Rida,Directed,672,collaboration,1
+Tiësto,Gucci Mane,Directed,673,collaboration,1
+Tiësto,Haley Gibby,Directed,674,collaboration,1
+Tiësto,Icona Pop,Directed,675,collaboration,1
+Tiësto,JES,Directed,676,collaboration,1
+Tiësto,Jonas Blue,Directed,677,collaboration,1
+Tiësto,Julie Thompson,Directed,678,collaboration,1
+Tiësto,Junkie XL,Directed,679,collaboration,1
+Tiësto,Justin Caruso,Directed,680,collaboration,1
+Tiësto,KAROL G,Directed,681,collaboration,1
+Tiësto,KSHMR,Directed,682,collaboration,1
+Tiësto,Kaskade,Directed,683,collaboration,1
+Tiësto,Kelli‐Leigh,Directed,684,collaboration,1
+Tiësto,Killfake,Directed,685,collaboration,1
+Tiësto,Kirsty Hawkshaw,Directed,686,collaboration,1
+Tiësto,Kyler England,Directed,687,collaboration,1
+Tiësto,Lena Leon,Directed,688,collaboration,1
+Tiësto,Lucas & Steve,Directed,689,collaboration,1
+Tiësto,Luciana,Directed,690,collaboration,1
+Tiësto,MOTi,Directed,691,collaboration,1
+Tiësto,Major League,Directed,692,collaboration,1
+Tiësto,Mark Knight,Directed,693,collaboration,1
+Tiësto,Martin Garrix,Directed,694,collaboration,1
+Tiësto,Matisse & Sadko,Directed,695,collaboration,1
+Tiësto,Matthew Koma,Directed,696,collaboration,1
+Tiësto,Maxi Jazz,Directed,697,collaboration,1
+Tiësto,Mike Williams,Directed,698,collaboration,1
+Tiësto,Moska,Directed,699,collaboration,1
+Tiësto,My Name Is Kay,Directed,700,collaboration,1
+Tiësto,Nari & Milani,Directed,701,collaboration,1
+Tiësto,Natalie La Rose,Directed,702,collaboration,1
+Tiësto,Nelly Furtado,Directed,703,collaboration,1
+Tiësto,Nicola Hitchcock,Directed,704,collaboration,1
+Tiësto,Oliver Heldens,Directed,705,collaboration,1
+Tiësto,Post Malone,Directed,706,collaboration,1
+Tiësto,Preme,Directed,707,collaboration,1
+Tiësto,Rita Ora,Directed,708,collaboration,1
+Tiësto,Sean Kingston,Directed,709,collaboration,1
+Tiësto,Sevenn,Directed,710,collaboration,1
+Tiësto,Showtek,Directed,711,collaboration,1
+Tiësto,Steve Aoki,Directed,712,collaboration,1
+Tiësto,Stevie Appleton,Directed,713,collaboration,1
+Tiësto,Suzanne Palmer,Directed,714,collaboration,1
+Tiësto,Tegan and Sara,Directed,715,collaboration,1
+Tiësto,The Chainsmokers,Directed,716,collaboration,1
+Tiësto,Three 6 Mafia,Directed,717,collaboration,1
+Tiësto,Tiësto,Directed,718,collaboration,1
+Tiësto,Tomhio,Directed,719,collaboration,1
+Tiësto,Twoloud,Directed,720,collaboration,1
+Tiësto,Ty Dolla $ign,Directed,721,collaboration,1
+Tiësto,Ummet Ozcan,Directed,722,collaboration,1
+Tiësto,VER:WEST,Directed,723,collaboration,1
+Tiësto,Vassy,Directed,724,collaboration,1
+Tiësto,Wolfgang Gartner,Directed,725,collaboration,1

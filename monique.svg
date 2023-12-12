@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="670.7096"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-613.039246 0.000000 670.709595 662.311462" height="662.31146"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Monique id_ELECTRONIC"
+              d="M -221.030136,551.514465 A 219.950985,219.950985 0,0 1,-437.004883,642.221558"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Monique id_HOUSE"
+              d="M -227.724243,535.755920 A 127.599330,127.599330 0,0 1,-317.895508,450.065826"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Monique id_PROGRESSIVE_HOUSE"
+              d="M -220.915970,525.735046 A 168.185622,168.185622 0,0 1,-216.933517,351.360840"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Monique id_TECH_HOUSE"
+              d="M -214.829407,523.481201 A 142.104029,142.104029 0,0 1,-153.494385,393.784760"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Monique id_TECHNO"
+              d="M -224.559540,528.980652 A 67.734690,67.734690 0,0 1,-243.801346,478.851135"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Monique id_Vania"
+              d="M -200.169785,547.543457 A 45.618265,45.618265 0,0 1,-187.182037,574.262268"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Monique id_The_Alexsander"
+              d="M -214.684433,553.861816 A 74.333372,74.333372 0,0 1,-255.958237,604.096497"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -212.668732,538.661560 C -182.002060,507.994904 -182.002060,569.328247 -212.668732,538.661560"
+              class="id_Miss_Monique" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Monique id_MELODIC_TECHNO"
+              d="M -198.513916,532.766418 A 128.115636,128.115636 0,0 1,-70.893494,558.386292"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Monique id_ELECTRONIC"
+                  points="-439.938324,641.593140 -436.690704,640.754822 -437.319061,643.688293"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Monique id_HOUSE"
+                  points="-318.572113,447.143127 -316.434143,449.727509 -319.356873,450.404144"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Monique id_PROGRESSIVE_HOUSE"
+                  points="-215.188629,348.920502 -215.713348,352.233276 -218.153687,350.488403"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Monique id_TECH_HOUSE"
+                  points="-150.920532,392.243561 -152.723785,395.071686 -154.264984,392.497833"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Monique id_TECHNO"
+                  points="-243.312820,475.891174 -242.321365,479.095398 -245.281326,478.606873"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Monique id_Vania"
+                  points="-187.248581,577.261536 -188.681671,574.229004 -185.682404,574.295532"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Monique id_The_Alexsander"
+                  points="-258.783661,605.104980 -256.462463,602.683777 -255.454010,605.509216"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Monique id_MELODIC_TECHNO"
+                  points="-68.764427,560.499817 -71.950264,559.450806 -69.836723,557.321777"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ff5584" r="16.287409" cx="-457.24933"
+                class="id_ELECTRONIC" cy="637.885" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.8325927"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="14.651852" cx="-322.16397"
+                class="id_HOUSE" cy="431.62753" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.5481482"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="13.561481" cx="-206.61491"
+                class="id_PROGRESSIVE_HOUSE" cy="336.92963" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.3585184"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="13.016295" cx="-138.78212"
+                class="id_TECH_HOUSE" cy="384.97522" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.2637036"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="12.471111" cx="-241.1054"
+                class="id_TECHNO" cy="462.51657" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.1688888"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="14.1066675" cx="-212.66873"
+                class="id_Miss_Monique" cy="538.66156" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.4533334"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="-61.667545"
+                class="id_MELODIC_TECHNO" cy="567.545" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="-268.20172"
+                class="id_The_Alexsander" cy="608.46655" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="-187.47037"
+                class="id_Vania" cy="587.2591" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="42" x="-457.24933" y="645.6643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ELECTRONIC">
+            ELECTRONIC -
+        </text>
+        <text font-size="38" x="-322.16397" y="438.66595" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_HOUSE">
+            HOUSE -
+        </text>
+        <text font-size="35" x="-206.61491" y="343.41238" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_PROGRESSIVE_HOUSE">
+            PROGRESSIVE HOUSE -
+        </text>
+        <text font-size="34" x="-138.78212" y="391.27274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_TECH_HOUSE">
+            TECH HOUSE -
+        </text>
+        <text font-size="33" x="-241.1054" y="468.62888" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_TECHNO">
+            TECHNO -
+        </text>
+        <text font-size="37" x="-212.66873" y="547.23706" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Miss_Monique">
+            Miss Monique - female
+        </text>
+        <text font-size="24" x="-61.667545" y="571.9903" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MELODIC_TECHNO">
+            MELODIC TECHNO -
+        </text>
+        <text font-size="24" x="-268.20172" y="612.8318" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_The_Alexsander">
+            The Alexsander - unknown
+        </text>
+        <text font-size="24" x="-187.47037" y="591.69855" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Vania">
+            Vania - female
+        </text>
+    </g>
+</svg>

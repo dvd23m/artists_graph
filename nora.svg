@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="773.47833"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-767.800049 0.000000 773.478333 662.311462" height="662.31146"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_Nora_en_Pure id_DANCE"
+              d="M -488.741943,380.429901 A 98.116636,98.116636 0,0 1,-441.559204,452.943695"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nora_en_Pure id_ELECTRONIC"
+              d="M -492.240387,385.347656 A 224.435390,224.435390 0,0 1,-448.802856,618.982605"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nora_en_Pure id_HOUSE"
+              d="M -487.673248,367.948517 A 159.828434,159.828434 0,0 1,-333.985718,416.847931"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nora_en_Pure id_PROGRESSIVE_HOUSE"
+              d="M -491.487549,360.999634 A 250.198888,250.198888 0,0 1,-222.281830,328.606049"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nora_en_Pure id_DOWNTEMPO"
+              d="M -511.135376,356.281647 A 173.784147,173.784147 0,0 1,-469.005035,178.522598"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nora_en_Pure id_PROGRESSIVE_TRANCE"
+              d="M -521.374451,366.811676 A 116.408903,116.408903 0,0 1,-589.148010,277.131805"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nora_en_Pure id_DEEP_HOUSE"
+              d="M -487.991608,366.941010 A 113.535699,113.535699 0,0 1,-382.686829,392.694611"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nora_en_Pure id_TECHNO"
+              d="M -487.678101,367.931488 A 232.047797,232.047797 0,0 1,-250.923691,449.186615"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nora_en_Pure id_Redondo"
+              d="M -512.300415,356.784546 A 110.716765,110.716765 0,0 1,-497.210144,250.775681"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nora_en_Pure id_Penny_Foster"
+              d="M -496.151581,357.276733 A 113.390587,113.390587 0,0 1,-398.321960,306.301819"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nora_en_Pure id_Passenger_10"
+              d="M -516.432678,386.039459 A 81.025674,81.025674 0,0 1,-584.625488,405.914520"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -504.705902,372.776581 C -469.298492,337.369171 -469.298492,408.183990 -504.705902,372.776581"
+              class="id_Nora_en_Pure" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nora_en_Pure id_Ashibah"
+              d="M -521.186951,366.311584 A 92.508923,92.508923 0,0 1,-570.837952,297.318390"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Nora_en_Pure id_DANCE"
+                  points="-441.488129,455.942871 -443.058777,452.979218 -440.059631,452.908173"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Nora_en_Pure id_ELECTRONIC"
+                  points="-450.026764,621.721619 -450.172363,618.370667 -447.433350,619.594543"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Nora_en_Pure id_HOUSE"
+                  points="-332.111816,419.190674 -335.157104,417.784882 -332.814331,415.910980"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Nora_en_Pure id_PROGRESSIVE_HOUSE"
+                  points="-219.632507,330.013580 -222.985596,329.930695 -221.578064,327.281403"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Nora_en_Pure id_DOWNTEMPO"
+                  points="-466.800873,176.487488 -467.987488,179.624680 -470.022583,177.420517"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Nora_en_Pure id_PROGRESSIVE_TRANCE"
+                  points="-589.387024,274.141357 -587.652771,277.012268 -590.643250,277.251343"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Nora_en_Pure id_DEEP_HOUSE"
+                  points="-380.608154,394.857727 -383.768402,393.733948 -381.605255,391.655273"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Nora_en_Pure id_TECHNO"
+                  points="-249.144531,451.602112 -252.131439,450.076202 -249.715942,448.297028"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Nora_en_Pure id_Redondo"
+                  points="-495.266357,248.490570 -496.067596,251.747574 -498.352692,249.803787"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Nora_en_Pure id_Penny_Foster"
+                  points="-395.332794,306.556519 -398.449310,307.796417 -398.194611,304.807220"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Nora_en_Pure id_Passenger_10"
+                  points="-587.531921,405.171021 -584.253723,404.461304 -584.997253,407.367737"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Nora_en_Pure id_Ashibah"
+                  points="-571.066101,294.327087 -569.342285,297.204315 -572.333618,297.432465"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ff5584" r="14.651852" cx="-441.11093"
+                class="id_DANCE" cy="471.86432" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.5481482"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="16.287409" cx="-457.24933"
+                class="id_ELECTRONIC" cy="637.885" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.8325927"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="14.651852" cx="-322.16397"
+                class="id_HOUSE" cy="431.62753" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.5481482"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="13.561481" cx="-206.61491"
+                class="id_PROGRESSIVE_HOUSE" cy="336.92963" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.3585184"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.745185" cx="-459.01825"
+                class="id_DOWNTEMPO" cy="169.30182" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.835555" cx="-590.32556"
+                class="id_PROGRESSIVE_TRANCE" cy="262.40103" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.8844444"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="11.380741" cx="-372.0369"
+                class="id_DEEP_HOUSE" cy="403.77734" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.9792593"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="12.471111" cx="-241.1054"
+                class="id_TECHNO" cy="462.51657" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.1688888"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="16.287409" cx="-504.7059"
+                class="id_Nora_en_Pure" cy="372.77658" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.8325927"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="-571.8266"
+                class="id_Ashibah" cy="284.35605" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="-597.22"
+                class="id_Passenger_10" cy="402.69275" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="-385.3689"
+                class="id_Penny_Foster" cy="307.40555" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="-488.78705"
+                class="id_Redondo" cy="240.87358" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="38" x="-441.11093" y="478.89966" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DANCE">
+            DANCE -
+        </text>
+        <text font-size="42" x="-457.24933" y="645.6643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ELECTRONIC">
+            ELECTRONIC -
+        </text>
+        <text font-size="38" x="-322.16397" y="438.66595" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_HOUSE">
+            HOUSE -
+        </text>
+        <text font-size="35" x="-206.61491" y="343.41238" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_PROGRESSIVE_HOUSE">
+            PROGRESSIVE HOUSE -
+        </text>
+        <text font-size="25" x="-459.01825" y="173.93236" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DOWNTEMPO">
+            DOWNTEMPO -
+        </text>
+        <text font-size="28" x="-590.32556" y="267.58722" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_PROGRESSIVE_TRANCE">
+            PROGRESSIVE TRANCE -
+        </text>
+        <text font-size="30" x="-372.0369" y="409.33398" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DEEP_HOUSE">
+            DEEP HOUSE -
+        </text>
+        <text font-size="33" x="-241.1054" y="468.62888" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_TECHNO">
+            TECHNO -
+        </text>
+        <text font-size="42" x="-504.7059" y="380.54562" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nora_en_Pure">
+            Nora en Pure - female
+        </text>
+        <text font-size="24" x="-571.8266" y="288.72128" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ashibah">
+            Ashibah - unknown
+        </text>
+        <text font-size="24" x="-597.22" y="408.26892" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Passenger_10">
+            Passenger 10 - male
+        </text>
+        <text font-size="24" x="-385.3689" y="313.03836" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Penny_Foster">
+            Penny Foster - female
+        </text>
+        <text font-size="24" x="-488.78705" y="245.23882" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Redondo">
+            Redondo - unknown
+        </text>
+    </g>
+</svg>

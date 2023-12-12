@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1635.9126"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1635.912598 0.000000 1635.912598 1411.703247" height="1411.7032"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_Scott_Brown id_DANCE"
+              d="M -667.894836,1162.035767 A 624.873175,624.873175 0,0 1,-456.198822,483.290009"
+              stroke="#7f898c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Paul_Elstak id_DANCE"
+              d="M -958.655273,1093.458374 A 692.695794,692.695794 0,0 1,-459.367767,476.852203"
+              stroke="#7f898c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Scott_Brown id_ELECTRONIC"
+              d="M -666.172485,1161.512451 A 489.329815,489.329815 0,0 1,-474.355347,649.548096"
+              stroke="#7f898c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_ELECTRONIC"
+              d="M -954.940796,1093.899414 A 581.197385,581.197385 0,0 1,-477.750641,640.772766"
+              stroke="#7f898c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Scott_Brown id_HARD_HOUSE"
+              d="M -665.649780,1161.376465 A 112.470978,112.470978 0,0 1,-633.380127,1068.734253"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_HARD_HOUSE"
+              d="M -940.243652,1101.740601 A 285.799041,285.799041 0,0 1,-635.576843,1053.359009"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Scott_Brown id_HARDSTYLE"
+              d="M -679.695496,1169.608032 A 345.620332,345.620332 0,0 1,-752.996460,799.345398"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_HARDSTYLE"
+              d="M -961.089783,1093.441406 A 332.541974,332.541974 0,0 1,-761.784912,790.390015"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Scott_Brown id_GABBER"
+              d="M -680.306091,1170.276489 A 136.739764,136.739764 0,0 1,-712.453613,1046.771484"
+              stroke="#7f898c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_GABBER"
+              d="M -943.184814,1099.140625 A 222.111757,222.111757 0,0 1,-722.148560,1029.299194"
+              stroke="#7f898c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_ELECTRONICA"
+              d="M -968.364868,1094.691162 A 607.117184,607.117184 0,0 1,-744.815857,437.624908"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Scott_Brown id_TRANCE"
+              d="M -664.790955,1161.175415 A 409.291620,409.291620 0,0 1,-483.448486,743.902222"
+              stroke="#7f898c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_TRANCE"
+              d="M -952.194397,1094.561157 A 519.290039,519.290039 0,0 1,-485.726013,736.417114"
+              stroke="#7f898c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Scott_Brown id_ROCK"
+              d="M -673.966675,1164.911133 A 275.786529,275.786529 0,0 1,-656.811890,870.475281"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Paul_Elstak id_ROCK"
+              d="M -952.682983,1094.421631 A 339.899533,339.899533 0,0 1,-662.612000,859.845947"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Scott_Brown id_HARDCORE"
+              d="M -680.510010,1170.509399 A 186.750862,186.750862 0,0 1,-727.315918,988.287292"
+              stroke="#7f898c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_HARDCORE"
+              d="M -948.384399,1095.998169 A 232.241354,232.241354 0,0 1,-737.088318,973.949036"
+              stroke="#7f898c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_Urban_Menace"
+              d="M -961.114563,1148.958252 A 285.926273,285.926273 0,0 1,-1150.595337,1393.847534"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_Tommyknocker"
+              d="M -977.487793,1142.835571 A 304.314436,304.314436 0,0 1,-1297.156006,1231.554810"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_The_Stunned_Guys"
+              d="M -961.087341,1148.959351 A 253.212219,253.212219 0,0 1,-1125.640625,1363.361328"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_Teenage_Warning"
+              d="M -975.543945,1144.266235 A 395.097564,395.097564 0,0 1,-1389.273682,1296.570679"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_Scott_Brown"
+              d="M -934.136230,1111.237671 A 257.568349,257.568349 0,0 1,-680.792297,1166.452271"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_Restrained"
+              d="M -937.672485,1137.636108 A 137.301541,137.301541 0,0 1,-894.001221,1260.505859"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_Psycho_Boys_Club"
+              d="M -974.460693,1144.957397 A 472.681205,472.681205 0,0 1,-1467.143555,1351.109497"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -960.065979,1121.200317 C -904.510437,1065.644775 -904.510437,1176.755859 -960.065979,1121.200317"
+              class="id_Paul_Elstak" stroke-opacity="1.0" stroke="#00bd94"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_New_Kids"
+              d="M -979.909180,1140.638794 A 287.477050,287.477050 0,0 1,-1287.713135,1188.483643"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_MC_Hughie_Babe"
+              d="M -937.164001,1136.919800 A 181.352786,181.352786 0,0 1,-872.183838,1308.711182"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_Lenny_Dee"
+              d="M -965.776794,1148.384766 A 141.857866,141.857866 0,0 1,-1063.727295,1242.619629"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_Jantine"
+              d="M -979.439758,1141.106689 A 129.969515,129.969515 0,0 1,-1098.391357,1165.899536"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_Firestone"
+              d="M -935.080627,1133.338623 A 111.648581,111.648581 0,0 1,-884.629272,1218.795288"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_DJ_Rob"
+              d="M -952.295471,1147.869141 A 194.637647,194.637647 0,0 1,-1016.359802,1337.014038"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_DJ_Panic"
+              d="M -973.582825,1145.467651 A 129.063652,129.063652 0,0 1,-1080.963623,1199.943115"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_DJ_Distortion"
+              d="M -969.987061,1147.145996 A 209.041613,209.041613 0,0 1,-1149.973877,1268.485229"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_DJ_Dione"
+              d="M -958.279663,1148.920654 A 164.072450,164.072450 0,0 1,-1041.913696,1288.594238"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_Attic_&amp;_Stylzz"
+              d="M -968.450195,1147.682617 A 266.463333,266.463333 0,0 1,-1197.154053,1319.774170"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_HAPPY_HARDCORE"
+              d="M -932.486816,1117.884399 A 244.263194,244.263194 0,0 1,-704.704712,1241.146118"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paul_Elstak id_EURODANCE"
+              d="M -967.579834,1147.942505 A 118.197042,118.197042 0,0 1,-1048.993408,1217.694214"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Scott_Brown id_Paul_Elstak"
+              d="M -685.678528,1199.798340 A 257.568349,257.568349 0,0 1,-938.765625,1143.416626"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Scott_Brown id_HAPPY_HARDCORE"
+              d="M -662.883484,1218.120239 A 62.538062,62.538062 0,0 1,-686.264160,1246.891357"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -658.618591,1189.473022 C -600.692688,1131.547119 -600.692688,1247.398926 -658.618591,1189.473022"
+              class="id_Scott_Brown" stroke-opacity="1.0" stroke="#00bd94"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#7f898c" fill-opacity="1.0"
+                  class="id_Scott_Brown id_DANCE"
+                  points="-453.807190,481.478882 -455.293274,484.485809 -457.104370,482.094208"
+                  stroke="none"/>
+        <polyline fill="#7f898c" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_DANCE"
+                  points="-456.473816,476.061554 -458.972443,478.299164 -459.763092,475.405243"
+                  stroke="none"/>
+        <polyline fill="#7f898c" fill-opacity="1.0"
+                  class="id_Scott_Brown id_ELECTRONIC"
+                  points="-471.876678,647.858093 -473.510345,650.787415 -475.200348,648.308777"
+                  stroke="none"/>
+        <polyline fill="#7f898c" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_ELECTRONIC"
+                  points="-474.779968,640.354309 -477.541412,642.258118 -477.959869,639.287415"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Scott_Brown id_HARD_HOUSE"
+                  points="-631.127136,1066.753296 -632.389648,1069.860718 -634.370605,1067.607788"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_HARD_HOUSE"
+                  points="-632.859314,1054.629761 -636.212219,1054.717773 -634.941467,1052.000244"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Scott_Brown id_HARDSTYLE"
+                  points="-751.811218,796.589478 -751.618469,799.937988 -754.374451,798.752808"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_HARDSTYLE"
+                  points="-759.007202,789.256836 -761.218323,791.778870 -762.351501,789.001160"
+                  stroke="none"/>
+        <polyline fill="#7f898c" fill-opacity="1.0"
+                  class="id_Scott_Brown id_GABBER"
+                  points="-711.616577,1043.890625 -711.013184,1047.189941 -713.894043,1046.353027"
+                  stroke="none"/>
+        <polyline fill="#7f898c" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_GABBER"
+                  points="-719.261169,1030.113525 -722.555725,1030.742920 -721.741394,1027.855469"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_ELECTRONICA"
+                  points="-742.378113,435.876343 -743.941589,438.843781 -745.690125,436.406036"
+                  stroke="none"/>
+        <polyline fill="#7f898c" fill-opacity="1.0"
+                  class="id_Scott_Brown id_TRANCE"
+                  points="-480.895172,742.327209 -482.660980,745.178894 -484.235992,742.625549"
+                  stroke="none"/>
+        <polyline fill="#7f898c" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_TRANCE"
+                  points="-482.728180,736.303040 -485.668976,737.916016 -485.783051,734.918213"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Scott_Brown id_ROCK"
+                  points="-654.998352,868.085510 -655.617004,871.382080 -658.006775,869.568481"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_ROCK"
+                  points="-659.620972,859.614014 -662.495972,861.341431 -662.727905,858.350464"
+                  stroke="none"/>
+        <polyline fill="#7f898c" fill-opacity="1.0"
+                  class="id_Scott_Brown id_HARDCORE"
+                  points="-726.388062,985.434387 -725.889465,988.751221 -728.742371,987.823364"
+                  stroke="none"/>
+        <polyline fill="#7f898c" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_HARDCORE"
+                  points="-734.093689,974.128540 -737.178040,975.446350 -736.998596,972.451721"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_Urban_Menace"
+                  points="-1153.445557,1394.783813 -1151.063477,1392.422485 -1150.127197,1395.272583"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_Tommyknocker"
+                  points="-1299.996948,1230.590942 -1296.674072,1230.134399 -1297.637939,1232.975220"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_The_Stunned_Guys"
+                  points="-1128.481079,1364.326538 -1126.123291,1361.941040 -1125.157959,1364.781616"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_Teenage_Warning"
+                  points="-1392.176270,1295.812134 -1388.894409,1295.119385 -1389.652954,1298.021973"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_Scott_Brown"
+                  points="-678.711121,1168.612915 -681.872620,1167.492920 -679.711975,1165.411621"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_Restrained"
+                  points="-894.599182,1263.445679 -895.471130,1260.206909 -892.531311,1260.804810"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_Psycho_Boys_Club"
+                  points="-1470.072754,1350.461182 -1466.819458,1349.644897 -1467.467651,1352.574097"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_New_Kids"
+                  points="-1290.426147,1187.203125 -1287.072876,1187.127075 -1288.353394,1189.840210"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_MC_Hughie_Babe"
+                  points="-872.795227,1311.648193 -873.652344,1308.405518 -870.715332,1309.016846"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_Lenny_Dee"
+                  points="-1066.654663,1243.276123 -1064.055542,1241.156006 -1063.399048,1244.083252"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_Jantine"
+                  points="-1101.228516,1164.924683 -1097.903931,1164.480957 -1098.878784,1167.318115"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_Firestone"
+                  points="-884.585693,1221.795044 -886.129089,1218.817139 -883.129456,1218.773438"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_DJ_Rob"
+                  points="-1018.707275,1338.882080 -1017.293762,1335.840332 -1015.425842,1338.187744"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_DJ_Panic"
+                  points="-1083.957031,1199.744629 -1080.864380,1198.446411 -1081.062866,1201.439819"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_DJ_Distortion"
+                  points="-1152.973511,1268.533691 -1149.998169,1266.985474 -1149.949585,1269.984985"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_DJ_Dione"
+                  points="-1044.584961,1289.959595 -1042.596436,1287.258545 -1041.230957,1289.929932"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_Attic_&amp;_Stylzz"
+                  points="-1200.149658,1319.935181 -1197.234619,1318.276367 -1197.073486,1321.271973"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_HAPPY_HARDCORE"
+                  points="-703.297729,1243.795654 -706.029480,1241.849609 -703.379944,1240.442627"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Paul_Elstak id_EURODANCE"
+                  points="-1051.943481,1218.239258 -1049.265869,1216.219116 -1048.720947,1219.169312"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Scott_Brown id_Paul_Elstak"
+                  points="-940.841797,1141.251221 -937.682861,1142.378540 -939.848389,1144.454712"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Scott_Brown id_HAPPY_HARDCORE"
+                  points="-688.927124,1248.272949 -686.954956,1245.559937 -685.573364,1248.222778"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ff5584" r="14.651852" cx="-441.11093"
+                class="id_DANCE" cy="471.86432" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.5481482"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="16.287409" cx="-457.24933"
+                class="id_ELECTRONIC" cy="637.885" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.8325927"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.290371" cx="-622.7271"
+                class="id_HARD_HOUSE" cy="1059.3677" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="12.471111" cx="-746.4558"
+                class="id_HARDSTYLE" cy="784.13666" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="2.1688888"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.290371" cx="-708.4959"
+                class="id_GABBER" cy="1033.1495" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.835555" cx="-732.80774"
+                class="id_ELECTRONICA" cy="429.01163" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.8844444"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="11.380741" cx="-470.36676"
+                class="id_TRANCE" cy="735.8327" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.9792593"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.835555" cx="-647.8784"
+                class="id_ROCK" cy="858.7035" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.8844444"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.290371" cx="-722.9285"
+                class="id_HARDCORE" cy="974.79767" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="25.555557" cx="-960.066"
+                class="id_Paul_Elstak" cy="1121.2003" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="4.4444447"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.2" cx="-1061.7771"
+                class="id_EURODANCE" cy="1220.0559" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.745185" cx="-698.32965"
+                class="id_HAPPY_HARDCORE" cy="1253.151" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="26.645926" cx="-658.6186"
+                class="id_Scott_Brown" cy="1189.473" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="4.634074"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.2" cx="-1210.1353"
+                class="id_Attic_&amp;_Stylzz" cy="1320.4722" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.2" cx="-1053.4891"
+                class="id_DJ_Dione" cy="1294.511" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.2" cx="-1162.9722"
+                class="id_DJ_Distortion" cy="1268.6953" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.2" cx="-1093.9352"
+                class="id_DJ_Panic" cy="1199.0831" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.2" cx="-1026.5322"
+                class="id_DJ_Rob" cy="1345.1086" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.2" cx="-884.44037"
+                class="id_Firestone" cy="1231.794" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.2" cx="-1110.6859"
+                class="id_Jantine" cy="1161.6753" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.2" cx="-1076.4122"
+                class="id_Lenny_Dee" cy="1245.4646" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.2" cx="-874.83307"
+                class="id_MC_Hughie_Babe" cy="1321.4384" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.2" cx="-1299.4696"
+                class="id_New_Kids" cy="1182.935" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.2" cx="-1479.8364"
+                class="id_Psycho_Boys_Club" cy="1348.3002" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.2" cx="-896.59247"
+                class="id_Restrained" cy="1273.245" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.2" cx="-1401.8513"
+                class="id_Teenage_Warning" cy="1293.2838" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.2" cx="-1137.9493"
+                class="id_The_Stunned_Guys" cy="1367.544" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.2" cx="-1309.4667"
+                class="id_Tommyknocker" cy="1227.3777" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.2" cx="-1162.9462"
+                class="id_Urban_Menace" cy="1397.9044" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="38" x="-441.11093" y="478.89966" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DANCE">
+            DANCE -
+        </text>
+        <text font-size="42" x="-457.24933" y="645.6643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ELECTRONIC">
+            ELECTRONIC -
+        </text>
+        <text font-size="27" x="-622.7271" y="1064.3687" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_HARD_HOUSE">
+            HARD HOUSE -
+        </text>
+        <text font-size="33" x="-746.4558" y="790.2463" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_HARDSTYLE">
+            HARDSTYLE -
+        </text>
+        <text font-size="27" x="-708.4959" y="1038.1483" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_GABBER">
+            GABBER -
+        </text>
+        <text font-size="28" x="-732.80774" y="434.1978" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ELECTRONICA">
+            ELECTRONICA -
+        </text>
+        <text font-size="30" x="-470.36676" y="741.3869" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_TRANCE">
+            TRANCE -
+        </text>
+        <text font-size="28" x="-647.8784" y="863.8897" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ROCK">
+            ROCK -
+        </text>
+        <text font-size="27" x="-722.9285" y="979.79865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_HARDCORE">
+            HARDCORE -
+        </text>
+        <text font-size="67" x="-960.066" y="1133.3866" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Paul_Elstak">
+            Paul Elstak - male
+        </text>
+        <text font-size="24" x="-1061.7771" y="1224.5012" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_EURODANCE">
+            EURODANCE -
+        </text>
+        <text font-size="25" x="-698.32965" y="1257.7815" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_HAPPY_HARDCORE">
+            HAPPY HARDCORE -
+        </text>
+        <text font-size="70" x="-658.6186" y="1202.4329" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Scott_Brown">
+            Scott Brown - male
+        </text>
+        <text font-size="24" x="-1210.1353" y="1326.105" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Attic_&amp;_Stylzz">
+            Attic&amp; Stylzz - unknown
+        </text>
+        <text font-size="24" x="-1053.4891" y="1298.8801" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DJ_Dione">
+            DJ Dione - male
+        </text>
+        <text font-size="24" x="-1162.9722" y="1273.0645" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DJ_Distortion">
+            DJ Distortion - male
+        </text>
+        <text font-size="24" x="-1093.9352" y="1203.4523" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DJ_Panic">
+            DJ Panic - male
+        </text>
+        <text font-size="24" x="-1026.5322" y="1349.4778" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DJ_Rob">
+            DJ Rob - male
+        </text>
+        <text font-size="24" x="-884.44037" y="1236.1592" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Firestone">
+            Firestone - male
+        </text>
+        <text font-size="24" x="-1110.6859" y="1166.1187" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jantine">
+            Jantine - female
+        </text>
+        <text font-size="24" x="-1076.4122" y="1251.0232" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lenny_Dee">
+            Lenny Dee - male
+        </text>
+        <text font-size="24" x="-874.83307" y="1327.0712" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MC_Hughie_Babe">
+            MC Hughie Babe - unknown
+        </text>
+        <text font-size="24" x="-1299.4696" y="1187.3003" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_New_Kids">
+            New Kids - unknown
+        </text>
+        <text font-size="24" x="-1479.8364" y="1353.933" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Psycho_Boys_Club">
+            Psycho Boys Club - unknown
+        </text>
+        <text font-size="24" x="-896.59247" y="1277.6102" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Restrained">
+            Restrained - male
+        </text>
+        <text font-size="24" x="-1401.8513" y="1298.8424" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Teenage_Warning">
+            Teenage Warning - unknown
+        </text>
+        <text font-size="24" x="-1137.9493" y="1373.1768" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_The_Stunned_Guys">
+            The Stunned Guys - unknown
+        </text>
+        <text font-size="24" x="-1309.4667" y="1232.9363" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tommyknocker">
+            Tommyknocker - male
+        </text>
+        <text font-size="24" x="-1162.9462" y="1402.2736" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Urban_Menace">
+            Urban Menace - unknown
+        </text>
+    </g>
+</svg>

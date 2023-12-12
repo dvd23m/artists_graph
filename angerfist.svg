@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="776.3655"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-776.365479 0.000000 776.365479 1048.583374" height="1048.5834"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_K8 id_ELECTRONIC"
+              d="M -575.360046,833.317200 A 199.039489,199.039489 0,0 1,-475.724182,647.229675"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Angerfist id_ELECTRONIC"
+              d="M -597.943848,889.246887 A 250.792532,250.792532 0,0 1,-475.516327,647.629761"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Angerfist id_Predator"
+              d="M -581.842163,912.648560 A 105.183159,105.183159 0,0 1,-533.826233,1002.572083"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Angerfist id_Miss_K8"
+              d="M -597.990417,889.253174 A 52.260562,52.260562 0,0 1,-586.002380,856.816162"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Angerfist id_MC_Tha_Watcher"
+              d="M -600.661560,920.206543 A 59.635739,59.635739 0,0 1,-635.358582,951.143494"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Angerfist id_MC_Nolz"
+              d="M -581.146729,898.860657 A 144.440798,144.440798 0,0 1,-434.793182,928.617493"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Angerfist id_DJ_Vince"
+              d="M -579.969604,906.491150 A 95.658807,95.658807 0,0 1,-508.956573,962.436707"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Angerfist id_DJ_Outblast"
+              d="M -586.476196,917.922363 A 75.982421,75.982421 0,0 1,-581.839539,984.250732"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -595.828491,905.031677 C -563.976624,873.179810 -563.976624,936.883545 -595.828491,905.031677"
+              class="id_Angerfist" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path stroke-linecap="round" fill="none" class="id_Angerfist id_GABBER"
+              d="M -597.953918,920.815125 A 142.175872,142.175872 0,0 1,-694.772583,1029.559326"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Miss_K8 id_Angerfist"
+              d="M -571.940857,859.002930 A 52.260562,52.260562 0,0 1,-582.045349,892.061890"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -574.067383,846.215576 C -548.141479,820.289673 -548.141479,872.141479 -574.067383,846.215576"
+              class="id_Miss_K8" stroke-opacity="1.0" stroke="#ff5584"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_K8 id_ELECTRONIC"
+                  points="-473.047150,645.875610 -475.047150,648.568176 -476.401215,645.891174"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Angerfist id_ELECTRONIC"
+                  points="-472.869415,646.217712 -474.810303,648.953247 -476.222351,646.306274"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Angerfist id_Predator"
+                  points="-534.057861,1005.563110 -535.321777,1002.456299 -532.330688,1002.687866"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Angerfist id_Miss_K8"
+                  points="-583.759399,854.823914 -585.006287,857.937683 -586.998474,855.694641"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Angerfist id_MC_Tha_Watcher"
+                  points="-638.287170,951.794067 -635.683899,949.679199 -635.033264,952.607788"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Angerfist id_MC_Nolz"
+                  points="-432.679382,930.746277 -435.857574,929.674377 -433.728790,927.560608"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Angerfist id_DJ_Vince"
+                  points="-507.946594,965.261597 -510.369019,962.941711 -507.544128,961.931702"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Angerfist id_DJ_Outblast"
+                  points="-583.194824,986.927124 -583.177734,983.573120 -580.501343,984.928345"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Angerfist id_GABBER"
+                  points="-697.674927,1030.318604 -695.152222,1028.108154 -694.392944,1031.010498"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_K8 id_Angerfist"
+                  points="-584.230164,894.117737 -583.073303,890.969482 -581.017395,893.154297"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ff5584" r="16.287409" cx="-457.24933"
+                class="id_ELECTRONIC" cy="637.885" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.8325927"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="14.651852" cx="-595.8285"
+                class="id_Angerfist" cy="905.0317" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.5481482"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.290371" cx="-708.4959"
+                class="id_GABBER" cy="1033.1495" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="11.925926" cx="-574.0674"
+                class="id_Miss_K8" cy="846.2156" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.074074"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="-587.7122"
+                class="id_DJ_Outblast" cy="995.84863" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="-504.58002"
+                class="id_DJ_Vince" cy="974.67786" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="-425.63333"
+                class="id_MC_Nolz" cy="937.8423" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="-648.0492"
+                class="id_MC_Tha_Watcher" cy="953.9627" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="-534.82983"
+                class="id_Predator" cy="1015.53326" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="42" x="-457.24933" y="645.6643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ELECTRONIC">
+            ELECTRONIC -
+        </text>
+        <text font-size="38" x="-595.8285" y="913.9503" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Angerfist">
+            Angerfist - male
+        </text>
+        <text font-size="27" x="-708.4959" y="1038.1483" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_GABBER">
+            GABBER -
+        </text>
+        <text font-size="31" x="-574.0674" y="851.95496" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Miss_K8">
+            Miss K8 - female
+        </text>
+        <text font-size="24" x="-587.7122" y="1000.29395" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DJ_Outblast">
+            DJ Outblast - male
+        </text>
+        <text font-size="24" x="-504.58002" y="979.047" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DJ_Vince">
+            DJ Vince - male
+        </text>
+        <text font-size="24" x="-425.63333" y="942.28564" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MC_Nolz">
+            MC Nolz - male
+        </text>
+        <text font-size="24" x="-648.0492" y="958.40607" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MC_Tha_Watcher">
+            MC Tha Watcher - male
+        </text>
+        <text font-size="24" x="-534.82983" y="1019.8985" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Predator">
+            Predator - male
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="811.6649"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-811.664917 0.000000 811.664917 990.231506" height="990.2315"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_K8 id_ELECTRONIC"
+              d="M -575.360046,833.317200 A 199.039489,199.039489 0,0 1,-475.724182,647.229675"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Angerfist id_ELECTRONIC"
+              d="M -597.943848,889.246887 A 250.792532,250.792532 0,0 1,-475.516327,647.629761"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Angerfist id_Miss_K8"
+              d="M -597.990417,889.253174 A 52.260562,52.260562 0,0 1,-586.002380,856.816162"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -595.828491,905.031677 C -563.976624,873.179810 -563.976624,936.883545 -595.828491,905.031677"
+              class="id_Angerfist" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path stroke-linecap="round" fill="none" class="id_Miss_K8 id_Angerfist"
+              d="M -571.940857,859.002930 A 52.260562,52.260562 0,0 1,-582.045349,892.061890"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -574.067383,846.215576 C -548.141479,820.289673 -548.141479,872.141479 -574.067383,846.215576"
+              class="id_Miss_K8" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path stroke-linecap="round" fill="none" class="id_Miss_K8 id_HARDCORE"
+              d="M -577.329834,858.761292 A 163.921108,163.921108 0,0 1,-708.832581,973.209229"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_K8 id_ELECTRONIC"
+                  points="-473.047150,645.875610 -475.047150,648.568176 -476.401215,645.891174"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Angerfist id_ELECTRONIC"
+                  points="-472.869415,646.217712 -474.810303,648.953247 -476.222351,646.306274"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Angerfist id_Miss_K8"
+                  points="-583.759399,854.823914 -585.006287,857.937683 -586.998474,855.694641"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_K8 id_Angerfist"
+                  points="-584.230164,894.117737 -583.073303,890.969482 -581.017395,893.154297"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_K8 id_HARDCORE"
+                  points="-711.813721,973.545166 -709.000549,971.718689 -708.664612,974.699768"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ff5584" r="16.287409" cx="-457.24933"
+                class="id_ELECTRONIC" cy="637.885" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.8325927"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="14.651852" cx="-595.8285"
+                class="id_Angerfist" cy="905.0317" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.5481482"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="11.925926" cx="-574.0674"
+                class="id_Miss_K8" cy="846.2156" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.074074"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.290371" cx="-722.9285"
+                class="id_HARDCORE" cy="974.79767" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.7896296"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="42" x="-457.24933" y="645.6643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ELECTRONIC">
+            ELECTRONIC -
+        </text>
+        <text font-size="38" x="-595.8285" y="913.9503" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Angerfist">
+            Angerfist - male
+        </text>
+        <text font-size="31" x="-574.0674" y="851.95496" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Miss_K8">
+            Miss K8 - female
+        </text>
+        <text font-size="27" x="-722.9285" y="979.79865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_HARDCORE">
+            HARDCORE -
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,240 @@
+source,target,weight,label
+Afrojack,124 BPM,3,musical_genre
+Afrojack,DANCE,55,musical_genre
+Afrojack,DANCE AND HOUSE,3,musical_genre
+Afrojack,DANCE-POP,17,musical_genre
+Afrojack,DUTCH HOUSE,3,musical_genre
+Afrojack,ELECTRO,19,musical_genre
+Afrojack,ELECTRO HOUSE,24,musical_genre
+Afrojack,ELECTRONIC,73,musical_genre
+Afrojack,ELECTRONIC; POP,2,musical_genre
+Afrojack,EURO HOUSE,6,musical_genre
+Afrojack,HARD HOUSE,2,musical_genre
+Afrojack,HARDSTYLE,2,musical_genre
+Afrojack,HIP HOP,4,musical_genre
+Afrojack,HOUSE,34,musical_genre
+Afrojack,MINIMAL,3,musical_genre
+Afrojack,POP,29,musical_genre
+Afrojack,PROGRESSIVE HOUSE,16,musical_genre
+Afrojack,RAP,2,musical_genre
+Afrojack,TECH HOUSE,6,musical_genre
+Afrojack,TODD IN THE SHADOWS,4,musical_genre
+Afrojack,TRAP,3,musical_genre
+Afrojack,V A,4,musical_genre
+Afrojack,VOCAL,3,musical_genre
+Angerfist,ELECTRONIC,20,musical_genre
+Angerfist,GABBER,1,musical_genre
+Armin van Buuren,ARMIN VAN BUUREN,2,musical_genre
+Armin van Buuren,BALLAD,3,musical_genre
+Armin van Buuren,BEST OF,2,musical_genre
+Armin van Buuren,BIG ROOM HOUSE,5,musical_genre
+Armin van Buuren,BIG ROOM TRANCE,4,musical_genre
+Armin van Buuren,BREAKBEAT,3,musical_genre
+Armin van Buuren,BREAKS,1,musical_genre
+Armin van Buuren,CHRISTMAS,2,musical_genre
+Armin van Buuren,DANCE,36,musical_genre
+Armin van Buuren,DANCE-POP,9,musical_genre
+Armin van Buuren,DEEP TECHNO,2,musical_genre
+Armin van Buuren,DISCO,2,musical_genre
+Armin van Buuren,DOWNTEMPO,6,musical_genre
+Armin van Buuren,DUBSTEP,2,musical_genre
+Armin van Buuren,ELECTRO,8,musical_genre
+Armin van Buuren,ELECTRO HOUSE,7,musical_genre
+Armin van Buuren,ELECTRONIC,146,musical_genre
+Armin van Buuren,ELECTRONICA,2,musical_genre
+Armin van Buuren,EURO HOUSE,4,musical_genre
+Armin van Buuren,FUNK,2,musical_genre
+Armin van Buuren,HARD TRANCE,2,musical_genre
+Armin van Buuren,HARDSTYLE,2,musical_genre
+Armin van Buuren,HOUSE,28,musical_genre
+Armin van Buuren,MELODIC TRANCE,6,musical_genre
+Armin van Buuren,POP,18,musical_genre
+Armin van Buuren,PROGRESSIVE HOUSE,35,musical_genre
+Armin van Buuren,PROGRESSIVE TRANCE,30,musical_genre
+Armin van Buuren,SOUL,4,musical_genre
+Armin van Buuren,SYMPHONIC TRANCE,2,musical_genre
+Armin van Buuren,SYNTH-POP,2,musical_genre
+Armin van Buuren,TECH HOUSE,2,musical_genre
+Armin van Buuren,TECH TRANCE,8,musical_genre
+Armin van Buuren,TRANCE,130,musical_genre
+Armin van Buuren,TRAP EDM,1,musical_genre
+Armin van Buuren,TRIBAL HOUSE,2,musical_genre
+Armin van Buuren,UPLIFTING,2,musical_genre
+Armin van Buuren,UPLIFTING TRANCE,2,musical_genre
+Armin van Buuren,VOCAL TRANCE,10,musical_genre
+David Guetta,ACID HOUSE,3,musical_genre
+David Guetta,BIG ROOM,2,musical_genre
+David Guetta,DANCE,188,musical_genre
+David Guetta,DANCE-POP,41,musical_genre
+David Guetta,DAVID GUETTA,2,musical_genre
+David Guetta,DEEP HOUSE,8,musical_genre
+David Guetta,EDM,13,musical_genre
+David Guetta,ELECTRO,46,musical_genre
+David Guetta,ELECTRO HOUSE,48,musical_genre
+David Guetta,ELECTRO POP,2,musical_genre
+David Guetta,ELECTRONIC,159,musical_genre
+David Guetta,ELECTRONICA,5,musical_genre
+David Guetta,ELECTROPOP,2,musical_genre
+David Guetta,EURO HOUSE,4,musical_genre
+David Guetta,FUTURE BASS,4,musical_genre
+David Guetta,FUTURE BOUNCE,3,musical_genre
+David Guetta,HIP HOP,11,musical_genre
+David Guetta,HIP HOUSE,2,musical_genre
+David Guetta,HOUSE,80,musical_genre
+David Guetta,OTHER POP,2,musical_genre
+David Guetta,POP,81,musical_genre
+David Guetta,POP RAP,6,musical_genre
+David Guetta,PROGRESSIVE HOUSE,15,musical_genre
+David Guetta,REGGAE,3,musical_genre
+David Guetta,RHYTHM BLUES,2,musical_genre
+David Guetta,ROCK,2,musical_genre
+David Guetta,SYNTH-POP,2,musical_genre
+David Guetta,SYNTHWAVE,2,musical_genre
+David Guetta,TECH HOUSE,10,musical_genre
+David Guetta,TECHNO,2,musical_genre
+David Guetta,TODD IN THE SHADOWS,6,musical_genre
+David Guetta,TRAP,3,musical_genre
+David Guetta,VOCAL,3,musical_genre
+David Guetta,WHO S THAT CHICK,2,musical_genre
+Hardwell,BIG ROOM HOUSE,12,musical_genre
+Hardwell,DANCE,57,musical_genre
+Hardwell,DANCE-POP,3,musical_genre
+Hardwell,DUBSTEP,1,musical_genre
+Hardwell,EDM,2,musical_genre
+Hardwell,ELECTRO,1,musical_genre
+Hardwell,ELECTRO HOUSE,18,musical_genre
+Hardwell,ELECTRONIC,72,musical_genre
+Hardwell,ELECTROPOP,2,musical_genre
+Hardwell,EUPHORIC HARDSTYLE,3,musical_genre
+Hardwell,EURO HOUSE,3,musical_genre
+Hardwell,FESTIVAL PROGRESSIVE HOUSE,4,musical_genre
+Hardwell,HARD TECHNO,14,musical_genre
+Hardwell,HARDSTYLE,22,musical_genre
+Hardwell,HOUSE,15,musical_genre
+Hardwell,NEDERPOP,4,musical_genre
+Hardwell,POP,4,musical_genre
+Hardwell,PROGRESSIVE HOUSE,30,musical_genre
+Hardwell,PROGRESSIVE TRANCE,2,musical_genre
+Hardwell,SMILEY ON COVER,3,musical_genre
+Hardwell,SPOKEN WORD,1,musical_genre
+Hardwell,TECH HOUSE,2,musical_genre
+Hardwell,TECHNO,3,musical_genre
+Hardwell,TRIBAL HOUSE,2,musical_genre
+Miss K8,ELECTRONIC,4,musical_genre
+Miss K8,HARDCORE,1,musical_genre
+Miss Kittin,BREAKCORE,1,musical_genre
+Miss Kittin,BREAKS,1,musical_genre
+Miss Kittin,DANCE,3,musical_genre
+Miss Kittin,DISCO,2,musical_genre
+Miss Kittin,ELECTRO,5,musical_genre
+Miss Kittin,ELECTRONIC,10,musical_genre
+Miss Kittin,EXPERIMENTAL,1,musical_genre
+Miss Kittin,HOUSE,4,musical_genre
+Miss Kittin,IDM,1,musical_genre
+Miss Kittin,PROGRESSIVE HOUSE,2,musical_genre
+Miss Kittin,SYNTH-POP,3,musical_genre
+Miss Kittin,TECH HOUSE,2,musical_genre
+Miss Kittin,TECHNO,3,musical_genre
+Miss Kittin,TRANCE,2,musical_genre
+Miss Monique,ELECTRONIC,12,musical_genre
+Miss Monique,HOUSE,1,musical_genre
+Miss Monique,MELODIC TECHNO,4,musical_genre
+Miss Monique,PROGRESSIVE HOUSE,8,musical_genre
+Miss Monique,TECH HOUSE,2,musical_genre
+Miss Monique,TECHNO,3,musical_genre
+Nina Kraviz,DANCE,1,musical_genre
+Nina Kraviz,DEEP HOUSE,2,musical_genre
+Nina Kraviz,ELECTRONIC,4,musical_genre
+Nina Kraviz,HOUSE,2,musical_genre
+Nina Kraviz,MINIMAL,2,musical_genre
+Nina Kraviz,TECH HOUSE,2,musical_genre
+Nina Kraviz,TECHNO,1,musical_genre
+Nora en Pure,DANCE,2,musical_genre
+Nora en Pure,DEEP HOUSE,8,musical_genre
+Nora en Pure,DOWNTEMPO,1,musical_genre
+Nora en Pure,ELECTRONIC,22,musical_genre
+Nora en Pure,HOUSE,5,musical_genre
+Nora en Pure,PROGRESSIVE HOUSE,11,musical_genre
+Nora en Pure,PROGRESSIVE TRANCE,1,musical_genre
+Nora en Pure,TECHNO,2,musical_genre
+Paul Elstak,DANCE,1,musical_genre
+Paul Elstak,ELECTRONIC,56,musical_genre
+Paul Elstak,ELECTRONICA,1,musical_genre
+Paul Elstak,EURODANCE,2,musical_genre
+Paul Elstak,GABBER,44,musical_genre
+Paul Elstak,HAPPY HARDCORE,17,musical_genre
+Paul Elstak,HARD HOUSE,2,musical_genre
+Paul Elstak,HARDCORE,25,musical_genre
+Paul Elstak,HARDSTYLE,4,musical_genre
+Paul Elstak,ROCK,2,musical_genre
+Paul Elstak,TRANCE,2,musical_genre
+Scott Brown,DANCE,3,musical_genre
+Scott Brown,ELECTRONIC,66,musical_genre
+Scott Brown,GABBER,21,musical_genre
+Scott Brown,HAPPY HARDCORE,43,musical_genre
+Scott Brown,HARD HOUSE,2,musical_genre
+Scott Brown,HARD TRANCE,6,musical_genre
+Scott Brown,HARDCORE,2,musical_genre
+Scott Brown,HARDSTYLE,2,musical_genre
+Scott Brown,HOUSE,2,musical_genre
+Scott Brown,POP,2,musical_genre
+Scott Brown,ROCK,2,musical_genre
+Scott Brown,TRANCE,2,musical_genre
+Scott Brown,UK HARDCORE,2,musical_genre
+Steve Aoki,ALTERNATIVE ROCK,2,musical_genre
+Steve Aoki,BASSLINE,2,musical_genre
+Steve Aoki,BIG ROOM HOUSE,10,musical_genre
+Steve Aoki,BREAKS,2,musical_genre
+Steve Aoki,DANCE,86,musical_genre
+Steve Aoki,DANCE-POP,9,musical_genre
+Steve Aoki,DEEP HOUSE,3,musical_genre
+Steve Aoki,DUBSTEP,6,musical_genre
+Steve Aoki,DUTCH HOUSE,3,musical_genre
+Steve Aoki,EDM,2,musical_genre
+Steve Aoki,ELECTRO,15,musical_genre
+Steve Aoki,ELECTRO HOUSE,37,musical_genre
+Steve Aoki,ELECTRONIC,79,musical_genre
+Steve Aoki,ELECTRONICA,3,musical_genre
+Steve Aoki,ELECTROPOP,4,musical_genre
+Steve Aoki,FESTIVAL PROGRESSIVE HOUSE,3,musical_genre
+Steve Aoki,HARDSTYLE,5,musical_genre
+Steve Aoki,HIP HOP,7,musical_genre
+Steve Aoki,HIP HOUSE,4,musical_genre
+Steve Aoki,HOUSE,25,musical_genre
+Steve Aoki,MOOMBAHTON,3,musical_genre
+Steve Aoki,POP,15,musical_genre
+Steve Aoki,PROGRESSIVE HOUSE,8,musical_genre
+Steve Aoki,ROCK,6,musical_genre
+Steve Aoki,TRAP EDM,2,musical_genre
+Tiësto,BASSLINE,2,musical_genre
+Tiësto,DANCE,51,musical_genre
+Tiësto,DANCE-POP,4,musical_genre
+Tiësto,DEEP HOUSE,14,musical_genre
+Tiësto,DUBSTEP,2,musical_genre
+Tiësto,DUTCH TRANCE,2,musical_genre
+Tiësto,ELECTRO,9,musical_genre
+Tiësto,ELECTRO HOUSE,51,musical_genre
+Tiësto,ELECTRONIC,138,musical_genre
+Tiësto,ELECTROPOP,3,musical_genre
+Tiësto,EURO HOUSE,4,musical_genre
+Tiësto,FESTIVAL PROGRESSIVE HOUSE,2,musical_genre
+Tiësto,HARD TRANCE,1,musical_genre
+Tiësto,HARDSTYLE,7,musical_genre
+Tiësto,HIP HOP,19,musical_genre
+Tiësto,HOUSE,35,musical_genre
+Tiësto,MALE VOCAL TRANCE,2,musical_genre
+Tiësto,MALE VOCALS,2,musical_genre
+Tiësto,POP,9,musical_genre
+Tiësto,PROGRESSIVE HOUSE,32,musical_genre
+Tiësto,PROGRESSIVE TRANCE,16,musical_genre
+Tiësto,PSYTRANCE,1,musical_genre
+Tiësto,RNB,3,musical_genre
+Tiësto,SPOKEN VOCALS,2,musical_genre
+Tiësto,SWING,3,musical_genre
+Tiësto,TECH HOUSE,9,musical_genre
+Tiësto,TECH TRANCE,2,musical_genre
+Tiësto,TECHNO,3,musical_genre
+Tiësto,TRANCE,55,musical_genre
+Tiësto,TRAP,7,musical_genre
+Tiësto,TRIBAL HOUSE,3,musical_genre
+Tiësto,VOCAL TRANCE,2,musical_genre

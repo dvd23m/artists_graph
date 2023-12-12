@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Menú con SVG</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: url('dj.png') center center fixed;
+      background-size: cover;
+    }
+
+    .container {
+      display: flex;
+    }
+
+    .menu {
+      width: 200px;
+      background-color: #f4f4f4;
+      padding: 20px;
+    }
+
+    .menu ul {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .menu li {
+      cursor: pointer;
+      padding: 10px;
+      margin-bottom: 5px;
+      background-color: #ddd;
+      border-radius: 5px;
+    }
+
+    .svg-container {
+      flex: 1;
+      padding: 20px;
+      overflow: hidden; /* Para recortar el SVG que excede el contenedor */
+    }
+
+    .svg-content {
+      width: 100%; /* Hace que el SVG ocupe el 100% del contenedor */
+      height: auto; /* Ajusta la altura automáticamente para mantener la proporción */
+      max-width: 1500px; /* Ajusta el ancho máximo del SVG según sea necesario */
+      max-height: 1500px; /* Ajusta la altura máxima del SVG según sea necesario */
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="menu">
+      <ul>
+        <li id="opcion1" onclick="cargarSVG('grafo.svg', true)">Grafo Completo</li>
+        <li id="opcion2" onclick="cargarSVG('Tiesto.svg')">Tiësto</li>
+        <li id="opcion2" onclick="cargarSVG('Guetta.svg')">David Guetta</li>
+        <li id="opcion1" onclick="cargarSVG('SteveAoki.svg')">Steve Aoki</li>
+        <li id="opcion2" onclick="cargarSVG('nina.svg')">Nina Kravitz</li>
+        <li id="opcion2" onclick="cargarSVG('armin.svg')">Armin Van Vuuren</li>
+        <li id="opcion1" onclick="cargarSVG('hardwell.svg')">Hardwell</li>
+        <li id="opcion2" onclick="cargarSVG('k8.svg')">Miss k8</li>
+        <li id="opcion2" onclick="cargarSVG('monique.svg')">Miss Monique</li>
+        <li id="opcion1" onclick="cargarSVG('nora.svg')">Nora en Pure</li>
+        <li id="opcion2" onclick="cargarSVG('kittin.svg')">Miss Kittin</li>
+        <li id="opcion2" onclick="cargarSVG('afrojack.svg')">Afrojak</li>
+        <li id="opcion2" onclick="cargarSVG('paul.svg')">Paul Elstak</li>
+        <li id="opcion2" onclick="cargarSVG('scott.svg')">Scott Brown</li>
+      </ul>
+    </div>
+
+    <div class="svg-container" id="svg-container">
+      <div class="svg-content"></div>
+    </div>
+  </div>
+
+  <script>
+    function cargarSVG(svgFileName, abrirNuevaVentana) {
+      if (abrirNuevaVentana) {
+        // Abre una nueva ventana para el grafo completo
+        var nuevaVentana = window.open('', '_blank');
+        nuevaVentana.document.write('<!DOCTYPE html><html lang="es"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Grafo</title></head><body>');
+        nuevaVentana.document.write('<div style="padding: 20px; max-width: 1500px; max-height: 1500px;">');
+        nuevaVentana.document.write(`<object type="image/svg+xml" data="${svgFileName}" style="width: 100%; height: auto;"></object>`);
+        nuevaVentana.document.write('</div></body></html>');
+        nuevaVentana.document.close();
+      } else {
+        // Carga el SVG en el contenedor existente
+        var svgContainer = document.querySelector('.svg-content');
+        svgContainer.innerHTML = '';
+
+        var svgDiv = document.createElement('div');
+        svgDiv.innerHTML = `<object type="image/svg+xml" data="${svgFileName}" class="svg-content"></object>`;
+
+        svgContainer.appendChild(svgDiv);
+      }
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="2062.4988"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-2056.820557 -327.558685 2062.498779 1239.553955"
+     height="1239.554" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_DANCE"
+              d="M -1164.464722,309.265320 A 655.512974,655.512974 0,0 1,-454.191406,458.186188"
+              stroke="#ff6e44" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_DANCE-POP"
+              d="M -1182.253906,287.249786 A 671.748478,671.748478 0,0 1,-469.120087,62.559673"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_ELECTRO"
+              d="M -1179.420288,289.477997 A 851.744910,851.744910 0,0 1,-243.198486,62.101490"
+              stroke="#ff6e44" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_ELECTRO_HOUSE"
+              d="M -1235.362305,280.221039 A 319.453519,319.453519 0,0 1,-1155.984253,-33.619762"
+              stroke="#a56721" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_ELECTRONIC"
+              d="M -1160.906006,319.976135 A 681.103845,681.103845 0,0 1,-468.229248,620.332703"
+              stroke="#ff6e44" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_EURO_HOUSE"
+              d="M -1177.339233,291.316925 A 722.592490,722.592490 0,0 1,-382.511536,139.078262"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_HARDSTYLE"
+              d="M -1160.425659,341.759033 A 542.684864,542.684864 0,0 1,-749.342590,767.834717"
+              stroke="#7fa24c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_HOUSE"
+              d="M -1166.261353,305.628540 A 748.811107,748.811107 0,0 1,-336.116089,418.839661"
+              stroke="#ff6e44" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_POP"
+              d="M -1164.586182,308.996765 A 548.447142,548.447142 0,0 1,-577.626587,428.417603"
+              stroke="#7fa24c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_PROGRESSIVE_HOUSE"
+              d="M -1169.468018,300.403534 A 840.501523,840.501523 0,0 1,-220.868332,326.366760"
+              stroke="#ff6e44" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_TECH_HOUSE"
+              d="M -1168.173828,302.359741 A 898.101873,898.101873 0,0 1,-152.082962,374.151794"
+              stroke="#ff6e44" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_BIG_ROOM_HOUSE"
+              d="M -1240.542847,282.545990 A 521.466501,521.466501 0,0 1,-1151.652100,-278.987457"
+              stroke="#b9a402" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_DUBSTEP"
+              d="M -1195.896851,279.898956 A 356.632371,356.632371 0,0 1,-889.520630,73.182442"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_PROGRESSIVE_TRANCE"
+              d="M -1172.708252,296.172150 A 523.959431,523.959431 0,0 1,-603.161987,255.079224"
+              stroke="#ff6e44" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_TRIBAL_HOUSE"
+              d="M -1179.618896,289.311951 A 469.869366,469.869366 0,0 1,-688.689453,164.854263"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_EDM"
+              d="M -1207.126953,277.030304 A 483.302237,483.302237 0,0 1,-841.607117,-96.504158"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_ELECTROPOP"
+              d="M -1176.409668,292.200775 A 454.125653,454.125653 0,0 1,-696.566345,208.931992"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_TECHNO"
+              d="M -1165.770020,306.558990 A 818.995990,818.995990 0,0 1,-253.030884,451.033142"
+              stroke="#ff6e44" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Wildstylez"
+              d="M -1238.694824,382.497345 A 550.077951,550.077951 0,0 1,-1767.761353,673.718201"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_W&amp;W"
+              d="M -1208.009155,276.908020 A 724.451570,724.451570 0,0 1,-645.671753,-310.217133"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_VINAI"
+              d="M -1219.011963,387.569519 A 400.442616,400.442616 0,0 1,-1490.712280,712.937134"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Trevor_Guthrie"
+              d="M -1224.046753,277.147766 A 593.175941,593.175941 0,0 1,-925.881226,-306.317505"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Timmy_Trumpet"
+              d="M -1208.248291,276.877350 A 649.550908,649.550908 0,0 1,-712.150085,-247.694901"
+              stroke="#b9a402" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Thomas_Newson"
+              d="M -1206.513916,387.016785 A 302.963016,302.963016 0,0 1,-1343.943970,660.834839"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_Suyano"
+              d="M -1235.872070,383.718414 A 212.139757,212.139757 0,0 1,-1400.473022,490.926544"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Sub_Zero_Project"
+              d="M -1262.137451,361.936829 A 561.385374,561.385374 0,0 1,-1878.341553,321.712280"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Snoop_Dogg"
+              d="M -1184.648315,285.584351 A 831.190356,831.190356 0,0 1,-302.375885,-40.791203"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_Showtek"
+              d="M -1175.744629,292.858948 A 363.978867,363.978867 0,0 1,-802.072327,232.926834"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Richie_Loop"
+              d="M -1267.250244,351.716187 A 437.381778,437.381778 0,0 1,-1718.932373,227.828247"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Red_Carpet"
+              d="M -1245.718384,378.584717 A 586.526873,586.526873 0,0 1,-1852.435425,605.430664"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_R3HAB"
+              d="M -1203.267212,277.736664 A 410.950911,410.950911 0,0 1,-878.212952,-12.153498"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_Quintino"
+              d="M -1195.529175,280.036499 A 454.490847,454.490847 0,0 1,-787.744019,12.061268"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Nicky_Romero"
+              d="M -1212.469604,276.507935 A 522.267791,522.267791 0,0 1,-854.771545,-166.628784"
+              stroke="#7fa682" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Mr._Vegas"
+              d="M -1266.585571,353.393982 A 408.383315,408.383315 0,0 1,-1688.207275,252.804062"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Mitch_Crown"
+              d="M -1233.762207,384.513458 A 537.472462,537.472462 0,0 1,-1719.928467,716.608521"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Matthew_Koma"
+              d="M -1165.219238,356.484833 A 230.590201,230.590201 0,0 1,-1060.099976,547.218872"
+              stroke="#7fa682" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_Maddix"
+              d="M -1244.847290,379.144653 A 206.791717,206.791717 0,0 1,-1420.029053,452.544128"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_MAKJ"
+              d="M -1269.831909,321.555359 A 387.335876,387.335876 0,0 1,-1549.063354,24.620695"
+              stroke="#7fa682" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_Luciana"
+              d="M -1166.413086,358.791107 A 530.746998,530.746998 0,0 1,-919.781677,883.943115"
+              stroke="#a56721" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Lil’_Kleine"
+              d="M -1251.386475,374.326233 A 604.230933,604.230933 0,0 1,-1902.794556,526.811584"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_Lil_Jon"
+              d="M -1270.519775,326.158997 A 451.323682,451.323682 0,0 1,-1630.073853,1.197983"
+              stroke="#7fa682" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_KiFi"
+              d="M -1265.031128,356.809357 A 540.341063,540.341063 0,0 1,-1848.646606,256.254974"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Kelli‐Leigh"
+              d="M -1168.863159,362.845001 A 487.827892,487.827892 0,0 1,-985.130432,858.447571"
+              stroke="#a56721" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_Kaaze"
+              d="M -1237.620972,382.983795 A 421.622247,421.622247 0,0 1,-1625.820313,609.382446"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_KSHMR"
+              d="M -1165.117798,356.276154 A 489.673239,489.673239 0,0 1,-914.850464,824.354431"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_Joeysuki"
+              d="M -1226.096924,386.623230 A 419.394998,419.394998 0,0 1,-1554.249023,689.721558"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Joey_Dale"
+              d="M -1247.156860,377.608643 A 500.435364,500.435364 0,0 1,-1762.289673,553.165710"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Jake_Reese"
+              d="M -1223.096313,387.137390 A 310.166232,310.166232 0,0 1,-1441.263428,614.448242"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_I-Fan"
+              d="M -1241.526001,381.079102 A 531.313710,531.313710 0,0 1,-1765.848877,632.206726"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Henry_Fong"
+              d="M -1263.640015,359.432800 A 503.445008,503.445008 0,0 1,-1807.781738,295.832550"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_Harrison"
+              d="M -1186.546509,284.390686 A 617.802608,617.802608 0,0 1,-554.998901,19.537741"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_Haris"
+              d="M -1252.047363,373.751221 A 263.790196,263.790196 0,0 1,-1504.372192,432.321350"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1215.205078,332.070282 C -1103.945801,220.811020 -1103.945801,443.329529 -1215.205078,332.070282"
+              class="id_Hardwell" stroke-opacity="1.0" stroke="#ff8805"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Funkadelic"
+              d="M -1231.288940,385.324066 A 405.322199,405.322199 0,0 1,-1573.415649,645.421448"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Franky_Rizardo"
+              d="M -1256.840210,368.964355 A 607.911098,607.911098 0,0 1,-1927.414795,431.027649"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Fatman_Scoop"
+              d="M -1227.607178,386.299835 A 295.822818,295.822818 0,0 1,-1450.582886,583.622803"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_Dyro"
+              d="M -1231.786987,385.171082 A 271.738550,271.738550 0,0 1,-1445.888916,547.439514"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_Deorro"
+              d="M -1270.799927,334.037415 A 476.326733,476.326733 0,0 1,-1697.398315,46.012505"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_Dannic"
+              d="M -1254.046265,371.895081 A 566.259082,566.259082 0,0 1,-1868.864380,474.825806"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Conor_Maynard"
+              d="M -1249.731689,375.688690 A 428.928002,428.928002 0,0 1,-1690.967529,499.171234"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_Chuckie"
+              d="M -1244.203613,379.543884 A 488.688945,488.688945 0,0 1,-1734.041016,582.182922"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Chris_Jones"
+              d="M -1226.536255,277.606903 A 534.656503,534.656503 0,0 1,-985.022766,-255.084351"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_Chivv"
+              d="M -1240.517212,381.607697 A 374.695598,374.695598 0,0 1,-1590.393066,560.328247"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Cam_Meekins"
+              d="M -1256.617432,369.214233 A 398.676945,398.676945 0,0 1,-1676.108643,412.965118"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Bright_Lights"
+              d="M -1260.050903,364.986969 A 551.890491,551.890491 0,0 1,-1866.150757,365.870148"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Blasterjaxx"
+              d="M -1218.009521,276.511383 A 606.408871,606.408871 0,0 1,-849.164734,-284.188568"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_Bizzey"
+              d="M -1258.651978,366.812469 A 502.186768,502.186768 0,0 1,-1804.456665,390.826019"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Austin_Mahone"
+              d="M -1250.277588,375.250977 A 365.760102,365.760102 0,0 1,-1619.259277,474.560486"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_Ambush"
+              d="M -1255.582397,370.336884 A 610.445736,610.445736 0,0 1,-1926.730591,455.156464"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_Amba_Shepherd"
+              d="M -1244.085449,379.615845 A 356.532579,356.532579 0,0 1,-1585.838989,523.972656"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_4_Strings"
+              d="M -1253.695557,372.234192 A 414.737329,414.737329 0,0 1,-1687.765381,450.702911"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_SPOKEN_WORD"
+              d="M -1269.799194,342.753723 A 246.923589,246.923589 0,0 1,-1487.296265,244.598999"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_SMILEY_ON_COVER"
+              d="M -1270.478149,338.358612 A 279.468729,279.468729 0,0 1,-1513.504639,203.388229"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hardwell id_NEDERPOP"
+              d="M -1254.332886,371.613495 A 218.182186,218.182186 0,0 1,-1454.923828,407.487915"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_HARD_TECHNO"
+              d="M -1205.333862,386.817108 A 203.286481,203.286481 0,0 1,-1283.264648,555.346680"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_FESTIVAL_PROGRESSIVE_HOUSE"
+              d="M -1160.050537,339.324951 A 199.940623,199.940623 0,0 1,-1026.575439,460.907074"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hardwell id_EUPHORIC_HARDSTYLE"
+              d="M -1267.349854,351.450012 A 291.700123,291.700123 0,0 1,-1549.870239,274.662506"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#ff6e44" fill-opacity="1.0" class="id_Hardwell id_DANCE"
+                  points="-452.117981,460.354340 -455.275482,459.222900 -453.107330,457.149475"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_DANCE-POP"
+                  points="-466.251282,63.437214 -469.558868,63.994064 -468.681305,61.125282"
+                  stroke="none"/>
+        <polyline fill="#ff6e44" fill-opacity="1.0"
+                  class="id_Hardwell id_ELECTRO"
+                  points="-240.404327,63.193565 -243.744522,63.498573 -242.652451,60.704407"
+                  stroke="none"/>
+        <polyline fill="#a56721" fill-opacity="1.0"
+                  class="id_Hardwell id_ELECTRO_HOUSE"
+                  points="-1153.823730,-35.701149 -1154.943604,-32.539505 -1157.024902,-34.700020"
+                  stroke="none"/>
+        <polyline fill="#ff6e44" fill-opacity="1.0"
+                  class="id_Hardwell id_ELECTRONIC"
+                  points="-466.638245,622.876038 -469.500916,621.128235 -466.957581,619.537170"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_EURO_HOUSE"
+                  points="-379.767090,140.289902 -383.117340,140.450485 -381.905731,137.706039"
+                  stroke="none"/>
+        <polyline fill="#7fa24c" fill-opacity="1.0"
+                  class="id_Hardwell id_HARDSTYLE"
+                  points="-748.819519,770.788757 -750.819580,768.096252 -747.865601,767.573181"
+                  stroke="none"/>
+        <polyline fill="#ff6e44" fill-opacity="1.0" class="id_Hardwell id_HOUSE"
+                  points="-333.904480,420.866699 -337.129608,419.945465 -335.102570,417.733856"
+                  stroke="none"/>
+        <polyline fill="#7fa24c" fill-opacity="1.0" class="id_Hardwell id_POP"
+                  points="-575.522461,430.556000 -578.695801,429.469666 -576.557373,427.365540"
+                  stroke="none"/>
+        <polyline fill="#ff6e44" fill-opacity="1.0"
+                  class="id_Hardwell id_PROGRESSIVE_HOUSE"
+                  points="-218.458038,328.152954 -221.761429,327.571899 -219.975235,325.161621"
+                  stroke="none"/>
+        <polyline fill="#ff6e44" fill-opacity="1.0"
+                  class="id_Hardwell id_TECH_HOUSE"
+                  points="-149.756027,376.045288 -153.029724,375.315247 -151.136200,372.988342"
+                  stroke="none"/>
+        <polyline fill="#b9a402" fill-opacity="1.0"
+                  class="id_Hardwell id_BIG_ROOM_HOUSE"
+                  points="-1149.613403,-281.188385 -1150.551636,-277.968140 -1152.752563,-280.006775"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_DUBSTEP"
+                  points="-886.521851,73.098076 -889.478455,74.681847 -889.562805,71.683037"
+                  stroke="none"/>
+        <polyline fill="#ff6e44" fill-opacity="1.0"
+                  class="id_Hardwell id_PROGRESSIVE_TRANCE"
+                  points="-600.556091,256.565613 -603.905151,256.382172 -602.418823,253.776276"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_TRIBAL_HOUSE"
+                  points="-685.857178,165.843369 -689.184021,166.270386 -688.194885,163.438141"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0" class="id_Hardwell id_EDM"
+                  points="-838.673218,-97.130486 -841.293884,-95.037216 -841.920227,-97.971100"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_ELECTROPOP"
+                  points="-693.815430,210.128891 -697.164795,210.307434 -695.967896,207.556549"
+                  stroke="none"/>
+        <polyline fill="#ff6e44" fill-opacity="1.0"
+                  class="id_Hardwell id_TECHNO"
+                  points="-250.869888,453.114014 -254.071335,452.113647 -251.990433,449.952637"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Wildstylez"
+                  points="-1770.749390,673.449402 -1767.626953,672.224243 -1767.895752,675.212158"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_W&amp;W"
+                  points="-642.732666,-310.818604 -645.371033,-308.747589 -645.972473,-311.686676"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0" class="id_Hardwell id_VINAI"
+                  points="-1493.577271,713.826782 -1491.157104,711.504578 -1490.267456,714.369690"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Trevor_Guthrie"
+                  points="-923.251038,-307.760468 -925.159729,-305.002411 -926.602722,-307.632599"
+                  stroke="none"/>
+        <polyline fill="#b9a402" fill-opacity="1.0"
+                  class="id_Hardwell id_Timmy_Trumpet"
+                  points="-709.217651,-248.327972 -711.833557,-246.228683 -712.466614,-249.161118"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Thomas_Newson"
+                  points="-1346.495117,662.413269 -1344.733154,659.559265 -1343.154785,662.110413"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Suyano"
+                  points="-1403.466675,491.122314 -1400.570923,489.429749 -1400.375122,492.423340"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Sub_Zero_Project"
+                  points="-1880.713135,319.875000 -1877.422974,320.526489 -1879.260132,322.898071"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Snoop_Dogg"
+                  points="-299.473450,-40.032387 -302.755280,-39.339977 -301.996490,-42.242428"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Showtek"
+                  points="-799.318604,234.117096 -802.667480,234.303726 -801.477173,231.549942"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Richie_Loop"
+                  points="-1720.917725,225.579239 -1717.807861,226.835526 -1720.056885,228.820969"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Red_Carpet"
+                  points="-1855.350586,604.722656 -1852.081421,603.973022 -1852.789429,606.888306"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0" class="id_Hardwell id_R3HAB"
+                  points="-875.247803,-12.609264 -877.985046,-10.670910 -878.440857,-13.636087"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Quintino"
+                  points="-784.744019,12.063905 -787.745361,13.561268 -787.742676,10.561268"
+                  stroke="none"/>
+        <polyline fill="#7fa682" fill-opacity="1.0"
+                  class="id_Hardwell id_Nicky_Romero"
+                  points="-851.906860,-167.519531 -854.326172,-165.196426 -855.216919,-168.061142"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Mr._Vegas"
+                  points="-1690.276733,250.632156 -1687.121338,251.769318 -1689.293213,253.838806"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Mitch_Crown"
+                  points="-1722.928345,716.631165 -1719.939819,715.108582 -1719.917114,718.108459"
+                  stroke="none"/>
+        <polyline fill="#7fa682" fill-opacity="1.0"
+                  class="id_Hardwell id_Matthew_Koma"
+                  points="-1060.156616,550.218384 -1061.599731,547.190552 -1058.600220,547.247192"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Maddix"
+                  points="-1423.010376,452.209381 -1419.861694,451.053497 -1420.196411,454.034760"
+                  stroke="none"/>
+        <polyline fill="#7fa682" fill-opacity="1.0" class="id_Hardwell id_MAKJ"
+                  points="-1549.609375,21.670818 -1547.588379,24.347649 -1550.538330,24.893745"
+                  stroke="none"/>
+        <polyline fill="#a56721" fill-opacity="1.0"
+                  class="id_Hardwell id_Luciana"
+                  points="-920.235962,886.908508 -921.264404,883.716003 -918.298950,884.170227"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Lil’_Kleine"
+                  points="-1905.594238,525.733704 -1902.255615,525.411743 -1903.333496,528.211426"
+                  stroke="none"/>
+        <polyline fill="#7fa682" fill-opacity="1.0"
+                  class="id_Hardwell id_Lil_Jon"
+                  points="-1630.827881,-1.705717 -1628.621948,0.820981 -1631.525757,1.574986"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0" class="id_Hardwell id_KiFi"
+                  points="-1850.815674,254.182510 -1847.610352,255.170441 -1849.682861,257.339508"
+                  stroke="none"/>
+        <polyline fill="#a56721" fill-opacity="1.0"
+                  class="id_Hardwell id_Kelli‐Leigh"
+                  points="-985.818542,861.367554 -986.590454,858.103516 -983.670410,858.791626"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0" class="id_Hardwell id_Kaaze"
+                  points="-1628.816650,609.234009 -1625.746094,607.884277 -1625.894531,610.880615"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0" class="id_Hardwell id_KSHMR"
+                  points="-915.137024,827.340759 -916.343628,824.211121 -913.357300,824.497742"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Joeysuki"
+                  points="-1557.206543,690.224915 -1554.500732,688.242798 -1553.997314,691.200317"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Joey_Dale"
+                  points="-1765.189209,552.396118 -1761.904907,551.715881 -1762.674438,554.615540"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Jake_Reese"
+                  points="-1444.168579,615.196899 -1441.637695,612.995728 -1440.889160,615.900757"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0" class="id_Hardwell id_I-Fan"
+                  points="-1768.817627,631.774841 -1765.632935,630.722351 -1766.064819,633.691101"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Henry_Fong"
+                  points="-1810.067383,293.889404 -1806.810181,294.689728 -1808.753296,296.975372"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Harrison"
+                  points="-552.059509,20.137777 -555.298889,21.007431 -554.698914,18.068050"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0" class="id_Hardwell id_Haris"
+                  points="-1507.229370,431.406830 -1503.914917,430.892761 -1504.829468,433.749939"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Funkadelic"
+                  points="-1576.407227,645.646790 -1573.528320,643.925659 -1573.302979,646.917236"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Franky_Rizardo"
+                  points="-1930.039673,429.575043 -1926.688477,429.715210 -1928.141113,432.340088"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Fatman_Scoop"
+                  points="-1453.537109,584.145447 -1450.844238,582.145752 -1450.321533,585.099854"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0" class="id_Hardwell id_Dyro"
+                  points="-1448.871582,547.761658 -1446.049927,545.948181 -1445.727905,548.930847"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Deorro"
+                  points="-1698.544067,43.239902 -1696.011963,45.439644 -1698.784668,46.585365"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Dannic"
+                  points="-1871.593140,473.579315 -1868.241089,473.461395 -1869.487671,476.190216"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Conor_Maynard"
+                  points="-1693.828369,498.268250 -1690.515991,497.740784 -1691.419067,500.601685"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Chuckie"
+                  points="-1736.984619,581.603699 -1733.751343,580.711121 -1734.330688,583.654724"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Chris_Jones"
+                  points="-982.470947,-256.661804 -984.234009,-253.808456 -985.811523,-256.360260"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0" class="id_Hardwell id_Chivv"
+                  points="-1593.379028,560.037903 -1590.247925,558.835266 -1590.538208,561.821228"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Cam_Meekins"
+                  points="-1678.783691,411.607117 -1675.429688,411.627594 -1676.787598,414.302643"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Bright_Lights"
+                  points="-1868.640869,364.197021 -1865.314209,364.625092 -1866.987305,367.115204"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Blasterjaxx"
+                  points="-846.391541,-285.332794 -848.592590,-282.801971 -849.736877,-285.575165"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Bizzey"
+                  points="-1807.023438,389.273041 -1803.680176,389.542633 -1805.233154,392.109406"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Austin_Mahone"
+                  points="-1622.121338,473.661133 -1618.809570,473.129486 -1619.708984,475.991486"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Ambush"
+                  points="-1929.402344,453.791901 -1926.048340,453.820618 -1927.412842,456.492310"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_Amba_Shepherd"
+                  points="-1588.797974,523.477722 -1585.591553,522.493225 -1586.086426,525.452087"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_4_Strings"
+                  points="-1690.531372,449.541443 -1687.184692,449.319885 -1688.346069,452.085938"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_SPOKEN_WORD"
+                  points="-1489.030273,242.150848 -1486.072144,243.732025 -1488.520386,245.465973"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_SMILEY_ON_COVER"
+                  points="-1514.995361,200.784821 -1512.202881,202.642868 -1514.806396,204.133591"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_NEDERPOP"
+                  points="-1457.753418,406.491150 -1454.425415,406.073120 -1455.422241,408.902710"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_HARD_TECHNO"
+                  points="-1285.686279,557.117554 -1284.150146,554.135864 -1282.379150,556.557495"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_FESTIVAL_PROGRESSIVE_HOUSE"
+                  points="-1025.608765,463.747070 -1027.995483,461.390381 -1025.155396,460.423767"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Hardwell id_EUPHORIC_HARDSTYLE"
+                  points="-1551.931274,272.482666 -1548.780273,273.631927 -1550.960205,275.693085"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ff5584" r="14.651852" cx="-441.11093"
+                class="id_DANCE" cy="471.86432" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.5481482"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="11.925926" cx="-453.85532"
+                class="id_DANCE-POP" cy="67.22906" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="2.074074"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="12.471111" cx="-227.77882"
+                class="id_ELECTRO" cy="68.12813" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.1688888"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="11.925926" cx="-1144.4882"
+                class="id_ELECTRO_HOUSE" cy="-44.694798" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="2.074074"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="16.287409" cx="-457.24933"
+                class="id_ELECTRONIC" cy="637.885" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.8325927"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="11.380741" cx="-368.45053"
+                class="id_EURO_HOUSE" cy="145.28604" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.9792593"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="12.471111" cx="-746.4558"
+                class="id_HARDSTYLE" cy="784.13666" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="2.1688888"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="14.651852" cx="-322.16397"
+                class="id_HOUSE" cy="431.62753" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.5481482"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="12.471111" cx="-566.015"
+                class="id_POP" cy="440.21838" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="2.1688888"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="13.561481" cx="-206.61491"
+                class="id_PROGRESSIVE_HOUSE" cy="336.92963" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.3585184"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="13.016295" cx="-138.78212"
+                class="id_TECH_HOUSE" cy="384.97522" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.2637036"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.290371" cx="-1142.0127"
+                class="id_BIG_ROOM_HOUSE" cy="-289.3943" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.835555" cx="-874.7487"
+                class="id_DUBSTEP" cy="72.76688" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.8844444"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.835555" cx="-590.32556"
+                class="id_PROGRESSIVE_TRANCE" cy="262.40103" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.8844444"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.290371" cx="-675.2974"
+                class="id_TRIBAL_HOUSE" cy="169.53113" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.290371" cx="-827.7345"
+                class="id_EDM" cy="-99.4657" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.835555" cx="-683.0156"
+                class="id_ELECTROPOP" cy="214.82785" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.8844444"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="12.471111" cx="-241.1054"
+                class="id_TECHNO" cy="462.51657" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.1688888"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="51.17926" cx="-1215.2051"
+                class="id_Hardwell" cy="332.07028" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="8.900741"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1558.8018"
+                class="id_EUPHORIC_HARDSTYLE" cy="265.2165" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.290371" cx="-1022.0048"
+                class="id_FESTIVAL_PROGRESSIVE_HOUSE" cy="474.33575"
+                stroke="#b25f03" stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1293.7582"
+                class="id_HARD_TECHNO" cy="563.02045" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1467.1853"
+                class="id_NEDERPOP" cy="403.16858" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1519.9644"
+                class="id_SMILEY_ON_COVER" cy="192.10677" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1494.81"
+                class="id_SPOKEN_WORD" cy="233.99034" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.290371" cx="-773.55884"
+                class="id_Quintino" cy="12.073738" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.290371" cx="-864.19244"
+                class="id_R3HAB" cy="-14.308538" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.290371" cx="-288.65198"
+                class="id_Snoop_Dogg" cy="-37.203224" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.835555" cx="-697.7051"
+                class="id_Timmy_Trumpet" cy="-250.81335" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="1.8844444"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.745185" cx="-836.5997"
+                class="id_Blasterjaxx" cy="-289.3729" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.745185" cx="-973.46094"
+                class="id_Chris_Jones" cy="-262.2316" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.745185" cx="-913.9642"
+                class="id_Trevor_Guthrie" cy="-312.85532" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.745185" cx="-632.35516"
+                class="id_W&amp;W" cy="-312.94235" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.745185" cx="-541.68097"
+                class="id_Harrison" cy="22.256424" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.290371" cx="-841.2261"
+                class="id_Nicky_Romero" cy="-170.84064" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.835555" cx="-788.50745"
+                class="id_Showtek" cy="238.78995" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.8844444"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1699.7516"
+                class="id_4_Strings" cy="445.66992" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1598.6609"
+                class="id_Amba_Shepherd" cy="521.8279" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1938.308"
+                class="id_Ambush" cy="449.24338" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1631.6614"
+                class="id_Austin_Mahone" cy="470.6633" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1815.5792"
+                class="id_Bizzey" cy="384.0964" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1876.9413"
+                class="id_Bright_Lights" cy="358.61993" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1687.7004"
+                class="id_Cam_Meekins" cy="407.0804" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1603.332"
+                class="id_Chivv" cy="559.07" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1746.7964"
+                class="id_Chuckie" cy="579.67285" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1703.3646"
+                class="id_Conor_Maynard" cy="495.25833" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1880.6891"
+                class="id_Dannic" cy="469.4244" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.745185" cx="-1702.5895"
+                class="id_Deorro" cy="33.450222" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1458.8137"
+                class="id_Dyro" cy="548.8353" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1463.3842"
+                class="id_Fatman_Scoop" cy="585.8875" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1938.7893"
+                class="id_Franky_Rizardo" cy="424.73312" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1586.3789"
+                class="id_Funkadelic" cy="646.3981" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1516.7534"
+                class="id_Haris" cy="428.35834" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1817.6863"
+                class="id_Henry_Fong" cy="287.4123" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1778.7135"
+                class="id_I-Fan" cy="630.3353" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1453.8522"
+                class="id_Jake_Reese" cy="617.69244" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1774.8546"
+                class="id_Joey_Dale" cy="549.83075" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1567.0647"
+                class="id_Joeysuki" cy="691.90295" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.745185" cx="-916.14886"
+                class="id_KSHMR" cy="837.8849" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1638.8044"
+                class="id_Kaaze" cy="608.73914" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.745185" cx="-988.2482"
+                class="id_Kelli‐Leigh" cy="871.67773" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1858.0459"
+                class="id_KiFi" cy="247.2743" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="9.745185" cx="-1633.4901"
+                class="id_Lil_Jon" cy="-11.958289" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1914.9265"
+                class="id_Lil’_Kleine" cy="522.1408" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.745185" cx="-921.8399"
+                class="id_Luciana" cy="897.37897" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="9.745185" cx="-1551.5376"
+                class="id_MAKJ" cy="11.255201" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1432.9479"
+                class="id_Maddix" cy="451.09354" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.290371" cx="-1060.3677"
+                class="id_Matthew_Koma" cy="561.40155" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1732.9281"
+                class="id_Mitch_Crown" cy="716.7068" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1697.175"
+                class="id_Mr._Vegas" cy="243.39246" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1865.0681"
+                class="id_Red_Carpet" cy="602.3625" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1727.5359"
+                class="id_Richie_Loop" cy="218.08255" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1888.6184"
+                class="id_Sub_Zero_Project" cy="313.7508" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1413.4453"
+                class="id_Suyano" cy="491.7748" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1354.999"
+                class="id_Thomas_Newson" cy="667.67474" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1503.1276"
+                class="id_VINAI" cy="716.79205" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-1780.7091"
+                class="id_Wildstylez" cy="672.5533" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="38" x="-441.11093" y="478.89966" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DANCE">
+            DANCE -
+        </text>
+        <text font-size="31" x="-453.85532" y="72.97092" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DANCE-POP">
+            DANCE-POP -
+        </text>
+        <text font-size="33" x="-227.77882" y="74.24043" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ELECTRO">
+            ELECTRO -
+        </text>
+        <text font-size="31" x="-1144.4882" y="-38.952934" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ELECTRO_HOUSE">
+            ELECTRO HOUSE -
+        </text>
+        <text font-size="42" x="-457.24933" y="645.6643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ELECTRONIC">
+            ELECTRONIC -
+        </text>
+        <text font-size="30" x="-368.45053" y="150.84268" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_EURO_HOUSE">
+            EURO HOUSE -
+        </text>
+        <text font-size="33" x="-746.4558" y="790.2463" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_HARDSTYLE">
+            HARDSTYLE -
+        </text>
+        <text font-size="38" x="-322.16397" y="438.66595" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_HOUSE">
+            HOUSE -
+        </text>
+        <text font-size="33" x="-566.015" y="446.3307" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_POP">
+            POP -
+        </text>
+        <text font-size="35" x="-206.61491" y="343.41238" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_PROGRESSIVE_HOUSE">
+            PROGRESSIVE HOUSE -
+        </text>
+        <text font-size="34" x="-138.78212" y="391.27274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_TECH_HOUSE">
+            TECH HOUSE -
+        </text>
+        <text font-size="27" x="-1142.0127" y="-284.3933" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_BIG_ROOM_HOUSE">
+            BIG ROOM HOUSE -
+        </text>
+        <text font-size="28" x="-874.7487" y="77.9508" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DUBSTEP">
+            DUBSTEP -
+        </text>
+        <text font-size="28" x="-590.32556" y="267.58722" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_PROGRESSIVE_TRANCE">
+            PROGRESSIVE TRANCE -
+        </text>
+        <text font-size="27" x="-675.2974" y="174.5321" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_TRIBAL_HOUSE">
+            TRIBAL HOUSE -
+        </text>
+        <text font-size="27" x="-827.7345" y="-94.63391" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_EDM">
+            EDM -
+        </text>
+        <text font-size="28" x="-683.0156" y="220.01405" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ELECTROPOP">
+            ELECTROPOP -
+        </text>
+        <text font-size="33" x="-241.1054" y="468.62888" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_TECHNO">
+            TECHNO -
+        </text>
+        <text font-size="134" x="-1215.2051" y="356.44284" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hardwell">
+            Hardwell - male
+        </text>
+        <text font-size="24" x="-1558.8018" y="269.6618" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_EUPHORIC_HARDSTYLE">
+            EUPHORIC HARDSTYLE -
+        </text>
+        <text font-size="27" x="-1022.0048" y="479.33673" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_FESTIVAL_PROGRESSIVE_HOUSE">
+            FESTIVAL PROGRESSIVE HOUSE -
+        </text>
+        <text font-size="24" x="-1293.7582" y="567.46576" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_HARD_TECHNO">
+            HARD TECHNO -
+        </text>
+        <text font-size="24" x="-1467.1853" y="407.6139" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_NEDERPOP">
+            NEDERPOP -
+        </text>
+        <text font-size="24" x="-1519.9644" y="196.55208" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SMILEY_ON_COVER">
+            SMILEY ON COVER -
+        </text>
+        <text font-size="24" x="-1494.81" y="238.43565" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SPOKEN_WORD">
+            SPOKEN WORD -
+        </text>
+        <text font-size="27" x="-773.55884" y="17.366951" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Quintino">
+            Quintino - male
+        </text>
+        <text font-size="27" x="-864.19244" y="-9.371283" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_R3HAB">
+            R3HAB - male
+        </text>
+        <text font-size="27" x="-288.65198" y="-30.86631" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Snoop_Dogg">
+            Snoop Dogg - male
+        </text>
+        <text font-size="28" x="-697.7051" y="-244.32832" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Timmy_Trumpet">
+            Timmy Trumpet - male
+        </text>
+        <text font-size="25" x="-836.5997" y="-283.5827" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Blasterjaxx">
+            Blasterjaxx - unknown
+        </text>
+        <text font-size="25" x="-973.46094" y="-257.6031" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Chris_Jones">
+            Chris Jones - male
+        </text>
+        <text font-size="25" x="-913.9642" y="-308.2268" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Trevor_Guthrie">
+            Trevor Guthrie - male
+        </text>
+        <text font-size="25" x="-632.35516" y="-308.2874" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_W&amp;W">
+            W&amp;W - unknown
+        </text>
+        <text font-size="25" x="-541.68097" y="26.803543" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Harrison">
+            Harrison - male
+        </text>
+        <text font-size="27" x="-841.2261" y="-164.58722" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nicky_Romero">
+            Nicky Romero - male
+        </text>
+        <text font-size="28" x="-788.50745" y="243.97388" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Showtek">
+            Showtek - unknown
+        </text>
+        <text font-size="24" x="-1699.7516" y="451.30273" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_4_Strings">
+            4 Strings - unknown
+        </text>
+        <text font-size="24" x="-1598.6609" y="527.3904" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Amba_Shepherd">
+            Amba Shepherd - female
+        </text>
+        <text font-size="24" x="-1938.308" y="453.6086" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ambush">
+            Ambush - unknown
+        </text>
+        <text font-size="24" x="-1631.6614" y="475.02853" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Austin_Mahone">
+            Austin Mahone - male
+        </text>
+        <text font-size="24" x="-1815.5792" y="389.655" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bizzey">
+            Bizzey - male
+        </text>
+        <text font-size="24" x="-1876.9413" y="364.25275" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bright_Lights">
+            Bright Lights - female
+        </text>
+        <text font-size="24" x="-1687.7004" y="411.52377" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cam_Meekins">
+            Cam Meekins - male
+        </text>
+        <text font-size="24" x="-1603.332" y="563.51337" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Chivv">
+            Chivv - male
+        </text>
+        <text font-size="24" x="-1746.7964" y="584.1162" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Chuckie">
+            Chuckie - male
+        </text>
+        <text font-size="24" x="-1703.3646" y="500.89114" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Conor_Maynard">
+            Conor Maynard - male
+        </text>
+        <text font-size="24" x="-1880.6891" y="473.78964" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dannic">
+            Dannic - male
+        </text>
+        <text font-size="25" x="-1702.5895" y="37.99734" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Deorro">
+            Deorro - male
+        </text>
+        <text font-size="24" x="-1458.8137" y="554.3939" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dyro">
+            Dyro - male
+        </text>
+        <text font-size="24" x="-1463.3842" y="591.45" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fatman_Scoop">
+            Fatman Scoop - male
+        </text>
+        <text font-size="24" x="-1938.7893" y="430.29172" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Franky_Rizardo">
+            Franky Rizardo - male
+        </text>
+        <text font-size="24" x="-1586.3789" y="650.7633" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Funkadelic">
+            Funkadelic - unknown
+        </text>
+        <text font-size="24" x="-1516.7534" y="432.72357" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Haris">
+            Haris - male
+        </text>
+        <text font-size="24" x="-1817.6863" y="292.9709" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Henry_Fong">
+            Henry Fong - male
+        </text>
+        <text font-size="24" x="-1778.7135" y="634.70056" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_I-Fan">
+            I-Fan - male
+        </text>
+        <text font-size="24" x="-1453.8522" y="622.0616" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jake_Reese">
+            Jake Reese - male
+        </text>
+        <text font-size="24" x="-1774.8546" y="555.38934" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Joey_Dale">
+            Joey Dale - male
+        </text>
+        <text font-size="24" x="-1567.0647" y="697.46155" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Joeysuki">
+            Joeysuki - unknown
+        </text>
+        <text font-size="25" x="-916.14886" y="842.5134" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_KSHMR">
+            KSHMR - male
+        </text>
+        <text font-size="24" x="-1638.8044" y="613.1044" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kaaze">
+            Kaaze - male
+        </text>
+        <text font-size="25" x="-988.2482" y="877.5453" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kelli‐Leigh">
+            Kelli‐Leigh - female
+        </text>
+        <text font-size="24" x="-1858.0459" y="251.63954" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_KiFi">
+            KiFi - male
+        </text>
+        <text font-size="25" x="-1633.4901" y="-7.4071007" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lil_Jon">
+            Lil Jon - male
+        </text>
+        <text font-size="24" x="-1914.9265" y="526.55096" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lil’_Kleine">
+            Lil’ Kleine - male
+        </text>
+        <text font-size="25" x="-921.8399" y="902.0034" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Luciana">
+            Luciana - female
+        </text>
+        <text font-size="25" x="-1551.5376" y="15.80639" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MAKJ">
+            MAKJ - male
+        </text>
+        <text font-size="24" x="-1432.9479" y="455.45877" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Maddix">
+            Maddix - male
+        </text>
+        <text font-size="27" x="-1060.3677" y="566.31244" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Matthew_Koma">
+            Matthew Koma - male
+        </text>
+        <text font-size="24" x="-1732.9281" y="721.15015" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mitch_Crown">
+            Mitch Crown - male
+        </text>
+        <text font-size="24" x="-1697.175" y="248.95105" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mr._Vegas">
+            Mr. Vegas - male
+        </text>
+        <text font-size="24" x="-1865.0681" y="607.925" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Red_Carpet">
+            Red Carpet - unknown
+        </text>
+        <text font-size="24" x="-1727.5359" y="223.57083" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Richie_Loop">
+            Richie Loop - male
+        </text>
+        <text font-size="24" x="-1888.6184" y="319.3836" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sub_Zero_Project">
+            Sub Zero Project - unknown
+        </text>
+        <text font-size="24" x="-1413.4453" y="497.40762" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Suyano">
+            Suyano - female
+        </text>
+        <text font-size="24" x="-1354.999" y="672.04" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Thomas_Newson">
+            Thomas Newson - male
+        </text>
+        <text font-size="24" x="-1503.1276" y="721.1573" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_VINAI">
+            VINAI - unknown
+        </text>
+        <text font-size="24" x="-1780.7091" y="678.1119" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Wildstylez">
+            Wildstylez - male
+        </text>
+    </g>
+</svg>

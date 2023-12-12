@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1934.3381"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-613.039246 -495.711792 1934.338135 1248.613403"
+     height="1248.6134" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_Miss_Kittin id_DANCE"
+              d="M -99.624969,131.806015 A 417.121769,417.121769 0,0 1,-422.525970,468.287964"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_David_Guetta id_DANCE"
+              d="M 343.105164,-227.488617 A 936.711897,936.711897 0,0 1,-422.377960,469.168640"
+              stroke="#ef6fc1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Kittin id_ELECTRO"
+              d="M -118.688103,114.515663 A 114.724066,114.724066 0,0 1,-217.138458,80.811539"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_David_Guetta id_ELECTRO"
+              d="M 323.676361,-233.770554 A 585.636116,585.636116 0,0 1,-211.245270,68.981369"
+              stroke="#ef6fc1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Kittin id_ELECTRONIC"
+              d="M -95.787964,132.038300 A 533.581980,533.581980 0,0 1,-437.785614,630.827576"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_David_Guetta id_ELECTRONIC"
+              d="M 351.146729,-226.241882 A 1047.057962,1047.057962 0,0 1,-437.081818,633.203674"
+              stroke="#ef6fc1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Miss_Kittin id_HOUSE"
+              d="M -96.373466,132.044357 A 328.178444,328.178444 0,0 1,-304.355713,425.219971"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_David_Guetta id_HOUSE"
+              d="M 347.419647,-226.727142 A 843.724027,843.724027 0,0 1,-303.607880,427.904297"
+              stroke="#ef6fc1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Kittin id_PROGRESSIVE_HOUSE"
+              d="M -93.146004,131.824814 A 211.005635,211.005635 0,0 1,-191.207245,328.135437"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_David_Guetta id_PROGRESSIVE_HOUSE"
+              d="M 348.812256,-226.527283 A 720.731885,720.731885 0,0 1,-189.316833,332.991302"
+              stroke="#ef6fc1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Kittin id_TECH_HOUSE"
+              d="M -86.479691,129.837357 A 232.679638,232.679638 0,0 1,-126.976913,372.537537"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_David_Guetta id_TECH_HOUSE"
+              d="M 357.411835,-225.779434 A 717.172721,717.172721 0,0 1,-122.503227,379.584808"
+              stroke="#ef6fc1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Kittin id_BREAKS"
+              d="M -118.084351,101.458412 A 312.336286,312.336286 0,0 1,-317.096588,-179.587448"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Miss_Kittin id_DISCO"
+              d="M -118.869072,113.720367 A 405.339619,405.339619 0,0 1,-535.668823,-72.759064"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Kittin id_SYNTH-POP"
+              d="M -103.464035,87.106300 A 139.027437,139.027437 0,0 1,-66.359268,-43.342232"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_David_Guetta id_SYNTH-POP"
+              d="M 319.793060,-235.648178 A 410.588032,410.588032 0,0 1,-41.661755,-51.935410"
+              stroke="#ef6fc1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Kittin id_TRANCE"
+              d="M -94.327904,131.958191 A 608.288499,608.288499 0,0 1,-456.221191,729.820068"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_David_Guetta id_Miss_Kittin"
+              d="M 337.296326,-228.862244 A 520.040212,520.040212 0,0 1,-70.502281,105.629547"
+              stroke="#ef6fc1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_David_Guetta id_Felix_da_Housecat"
+              d="M 367.484924,-225.952972 A 280.257074,280.257074 0,0 1,238.790863,-14.161708"
+              stroke="#ef6fc1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 360.900452,-315.711792 C 540.900452,-495.711792 540.900452,-135.711792 360.900452,-315.711792"
+              class="id_David_Guetta" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_David_Guetta id_TECHNO"
+              d="M 354.621796,-225.931076 A 819.912941,819.912941 0,0 1,-225.189941,457.957550"
+              stroke="#ef6fc1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Kittin id_David_Guetta"
+              d="M -91.722595,86.433609 A 520.040212,520.040212 0,0 1,269.655792,-297.728180"
+              stroke="#ef6fc1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Kittin id_TECHNO"
+              d="M -91.323792,131.496277 A 318.341764,318.341764 0,0 1,-227.118973,453.658417"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -96.319283,109.007385 C -50.245209,62.933311 -50.245209,155.081451 -96.319283,109.007385"
+              class="id_Miss_Kittin" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Kittin id_Kris_Menace"
+              d="M -118.162498,116.327156 A 211.404144,211.404144 0,0 1,-332.806854,52.413498"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Kittin id_Guy_Gerber"
+              d="M -96.759254,85.974548 A 110.172979,110.172979 0,0 1,-42.276844,0.101695"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Kittin id_Golden_Boy"
+              d="M -84.347557,89.325340 A 170.161914,170.161914 0,0 1,74.833015,18.423828"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Kittin id_Felix_da_Housecat"
+              d="M -82.881821,90.295364 A 286.409214,286.409214 0,0 1,214.068405,-10.835116"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Miss_Kittin id_ANNA"
+              d="M -117.222885,99.325211 A 91.302665,91.302665 0,0 1,-159.360947,32.823189"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Miss_Kittin id_IDM"
+              d="M -113.356339,93.501137 A 120.137744,120.137744 0,0 1,-140.739166,-16.943325"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Kittin id_EXPERIMENTAL"
+              d="M -83.983253,89.551605 A 82.218733,82.218733 0,0 1,-22.841490,60.666271"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Miss_Kittin id_BREAKCORE"
+              d="M -108.666367,89.558617 A 56.888108,56.888108 0,0 1,-109.998367,53.241943"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Kittin id_DANCE"
+                  points="-425.471924,468.854858 -422.809418,466.815002 -422.242523,469.760925"
+                  stroke="none"/>
+        <polyline fill="#ef6fc1" fill-opacity="1.0"
+                  class="id_David_Guetta id_DANCE"
+                  points="-425.347382,469.595947 -422.591614,467.683929 -422.164307,470.653351"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Kittin id_ELECTRO"
+                  points="-219.066574,78.513206 -215.989288,79.847481 -218.287628,81.775597"
+                  stroke="none"/>
+        <polyline fill="#ef6fc1" fill-opacity="1.0"
+                  class="id_David_Guetta id_ELECTRO"
+                  points="-214.241287,68.826759 -211.167969,67.483360 -211.322571,70.479378"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Kittin id_ELECTRONIC"
+                  points="-440.605927,631.850220 -438.296936,629.417419 -437.274292,632.237732"
+                  stroke="none"/>
+        <polyline fill="#ef6fc1" fill-opacity="1.0"
+                  class="id_David_Guetta id_ELECTRONIC"
+                  points="-440.004120,633.882019 -437.420990,631.742493 -436.742645,634.664856"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Kittin id_HOUSE"
+                  points="-307.178558,426.235657 -304.863556,423.808563 -303.847870,426.631378"
+                  stroke="none"/>
+        <polyline fill="#ef6fc1" fill-opacity="1.0"
+                  class="id_David_Guetta id_HOUSE"
+                  points="-306.549255,428.494476 -303.902954,426.433624 -303.312805,429.374969"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Kittin id_PROGRESSIVE_HOUSE"
+                  points="-193.812714,329.622559 -191.950806,326.832703 -190.463684,329.438171"
+                  stroke="none"/>
+        <polyline fill="#ef6fc1" fill-opacity="1.0"
+                  class="id_David_Guetta id_PROGRESSIVE_HOUSE"
+                  points="-192.241974,333.657288 -189.649826,331.528717 -188.983841,334.453888"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Kittin id_TECH_HOUSE"
+                  points="-129.042191,374.713470 -128.064880,371.504913 -125.888954,373.570160"
+                  stroke="none"/>
+        <polyline fill="#ef6fc1" fill-opacity="1.0"
+                  class="id_David_Guetta id_TECH_HOUSE"
+                  points="-125.351151,380.527832 -122.974747,378.160858 -122.031708,381.008759"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Kittin id_BREAKS"
+                  points="-317.125183,-182.587311 -315.596649,-179.601746 -318.596527,-179.573151"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Kittin id_DISCO"
+                  points="-537.198425,-75.339844 -534.378418,-73.523849 -536.959229,-71.994278"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Kittin id_SYNTH-POP"
+                  points="-64.129997,-45.349808 -65.355484,-42.227596 -67.363052,-44.456867"
+                  stroke="none"/>
+        <polyline fill="#ef6fc1" fill-opacity="1.0"
+                  class="id_David_Guetta id_SYNTH-POP"
+                  points="-44.655720,-52.125629 -41.566647,-53.432392 -41.756863,-50.438427"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Kittin id_TRANCE"
+                  points="-458.982147,730.993652 -456.807953,728.439575 -455.634430,731.200562"
+                  stroke="none"/>
+        <polyline fill="#ef6fc1" fill-opacity="1.0"
+                  class="id_David_Guetta id_Miss_Kittin"
+                  points="-73.476929,106.018745 -70.696877,104.142227 -70.307686,107.116867"
+                  stroke="none"/>
+        <polyline fill="#ef6fc1" fill-opacity="1.0"
+                  class="id_David_Guetta id_Felix_da_Housecat"
+                  points="236.221649,-12.612775 238.016403,-15.446310 239.565323,-12.877106"
+                  stroke="none"/>
+        <polyline fill="#ef6fc1" fill-opacity="1.0"
+                  class="id_David_Guetta id_TECHNO"
+                  points="-228.073944,458.783691 -225.603012,456.515533 -224.776871,459.399567"
+                  stroke="none"/>
+        <polyline fill="#ef6fc1" fill-opacity="1.0"
+                  class="id_Miss_Kittin id_David_Guetta"
+                  points="272.599182,-298.308289 269.945862,-296.256470 269.365723,-299.199829"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Kittin id_TECHNO"
+                  points="-229.653427,455.263611 -227.921555,452.391205 -226.316391,454.925629"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Kittin id_Kris_Menace"
+                  points="-334.722015,50.104355 -331.652283,51.455917 -333.961426,53.371078"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Kittin id_Guy_Gerber"
+                  points="-39.597626,-1.248042 -41.601974,1.441303 -42.951714,-1.237915"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Kittin id_Golden_Boy"
+                  points="77.796249,18.892075 74.598892,19.905445 75.067139,16.942211"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Kittin id_Felix_da_Housecat"
+                  points="216.955658,-10.020391 213.661041,-9.391491 214.475769,-12.278742"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Kittin id_ANNA"
+                  points="-159.504242,29.826612 -157.862656,32.751549 -160.859238,32.894829"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Kittin id_IDM"
+                  points="-139.839874,-19.805367 -139.308151,-16.493681 -142.170181,-17.392969"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Kittin id_EXPERIMENTAL"
+                  points="-19.847179,60.850929 -22.933821,62.163425 -22.749163,59.169117"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Miss_Kittin id_BREAKCORE"
+                  points="-108.821953,50.482224 -108.618507,53.830151 -111.378227,52.653736"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ff5584" r="14.651852" cx="-441.11093"
+                class="id_DANCE" cy="471.86432" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.5481482"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="12.471111" cx="-227.77882"
+                class="id_ELECTRO" cy="68.12813" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.1688888"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="16.287409" cx="-457.24933"
+                class="id_ELECTRONIC" cy="637.885" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.8325927"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="14.651852" cx="-322.16397"
+                class="id_HOUSE" cy="431.62753" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.5481482"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="13.561481" cx="-206.61491"
+                class="id_PROGRESSIVE_HOUSE" cy="336.92963" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.3585184"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="13.016295" cx="-138.78212"
+                class="id_TECH_HOUSE" cy="384.97522" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.2637036"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.290371" cx="-317.23184"
+                class="id_BREAKS" cy="-193.77199" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.745185" cx="-542.5991"
+                class="id_DISCO" cy="-84.45221" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.290371" cx="-55.818398"
+                class="id_SYNTH-POP" cy="-52.834835" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.7896296"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="11.380741" cx="-470.36676"
+                class="id_TRANCE" cy="735.8327" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.9792593"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="82.8" cx="360.90045"
+                class="id_David_Guetta" cy="-315.7118" stroke="#9c5fb2"
+                stroke-opacity="1.0" stroke-width="14.4"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="12.471111" cx="-241.1054"
+                class="id_TECHNO" cy="462.51657" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.1688888"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="21.194075" cx="-96.31928"
+                class="id_Miss_Kittin" cy="109.007385" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="3.6859257"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="-104.90058"
+                class="id_BREAKCORE" cy="41.283157" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="-9.86614"
+                class="id_EXPERIMENTAL" cy="61.466457" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="-136.84225"
+                class="id_IDM" cy="-29.345505" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.745185" cx="227.15015"
+                class="id_Felix_da_Housecat" cy="-7.143703" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.6948147"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="-159.98184"
+                class="id_ANNA" cy="19.838024" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="87.67369"
+                class="id_Golden_Boy" cy="20.452894" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="-30.666897"
+                class="id_Guy_Gerber" cy="-5.7471623" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="-341.1059"
+                class="id_Kris_Menace" cy="42.40721" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="38" x="-441.11093" y="478.89966" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DANCE">
+            DANCE -
+        </text>
+        <text font-size="33" x="-227.77882" y="74.24043" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ELECTRO">
+            ELECTRO -
+        </text>
+        <text font-size="42" x="-457.24933" y="645.6643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ELECTRONIC">
+            ELECTRONIC -
+        </text>
+        <text font-size="38" x="-322.16397" y="438.66595" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_HOUSE">
+            HOUSE -
+        </text>
+        <text font-size="35" x="-206.61491" y="343.41238" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_PROGRESSIVE_HOUSE">
+            PROGRESSIVE HOUSE -
+        </text>
+        <text font-size="34" x="-138.78212" y="391.27274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_TECH_HOUSE">
+            TECH HOUSE -
+        </text>
+        <text font-size="27" x="-317.23184" y="-188.77321" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_BREAKS">
+            BREAKS -
+        </text>
+        <text font-size="25" x="-542.5991" y="-79.82168" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DISCO">
+            DISCO -
+        </text>
+        <text font-size="27" x="-55.818398" y="-47.83386" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SYNTH-POP">
+            SYNTH-POP -
+        </text>
+        <text font-size="30" x="-470.36676" y="741.3869" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_TRANCE">
+            TRANCE -
+        </text>
+        <text font-size="216" x="360.90045" y="-275.72156" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_David_Guetta">
+            David Guetta - male
+        </text>
+        <text font-size="33" x="-241.1054" y="468.62888" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_TECHNO">
+            TECHNO -
+        </text>
+        <text font-size="55" x="-96.31928" y="119.18113" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Miss_Kittin">
+            Miss Kittin - female
+        </text>
+        <text font-size="24" x="-104.90058" y="45.72847" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_BREAKCORE">
+            BREAKCORE -
+        </text>
+        <text font-size="24" x="-9.86614" y="65.76138" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_EXPERIMENTAL">
+            EXPERIMENTAL -
+        </text>
+        <text font-size="24" x="-136.84225" y="-25.050583" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_IDM">
+            IDM -
+        </text>
+        <text font-size="25" x="227.15015" y="-2.5965838" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Felix_da_Housecat">
+            Felix da Housecat - male
+        </text>
+        <text font-size="24" x="-159.98184" y="24.277477" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ANNA">
+            ANNA - female
+        </text>
+        <text font-size="24" x="87.67369" y="26.085707" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Golden_Boy">
+            Golden Boy - male
+        </text>
+        <text font-size="24" x="-30.666897" y="-0.11434984" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Guy_Gerber">
+            Guy Gerber - male
+        </text>
+        <text font-size="24" x="-341.1059" y="46.772446" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kris_Menace">
+            Kris Menace - male
+        </text>
+    </g>
+</svg>
